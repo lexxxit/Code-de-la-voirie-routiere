@@ -1,5 +1,5 @@
 # Code de la voirie routière  
-Version Consolidée au 1997-07-15
+Version Consolidée au 1999-04-16
 
 # Partie législative
 
@@ -784,7 +784,8 @@ Sans préjudice de la compétence reconnue à cet effet à d'autres [*autorités
 règlements en vigueur, peuvent constater les infractions à la police de la conservation du domaine public routier et établir
 les procès-verbaux concernant ces infractions :
 
-1° Sur les voies de toutes catégories, les gardes champêtres des communes et les gardes particuliers assermentés ;
+1° Sur les voies de toutes catégories, les agents de police municipale, les gardes champêtres des communes et les gardes
+particuliers assermentés ;
 
 2° Sur les voies publiques ressortissant à leurs attributions :
 
@@ -801,9 +802,9 @@ Les procès-verbaux dressés en matière de voirie font foi jusqu'à preuve cont
 
 	  - Loi n°89-413 1989-06-22 JORF 24 juin 1989
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°89-413 1989-06-22 jorf 24 juin 1989
+	  - Loi n°99-291 du 15 avril 1999 - art. 1 ()
 
 	**Cité par**:
 
@@ -816,7 +817,7 @@ Les procès-verbaux dressés en matière de voirie font foi jusqu'à preuve cont
 
 	**Anciens textes**:
 
-	  - Ordonnance 58-1351 1951-12-27 art. 1 al. 1 (partie) et 2
+	  - Ordonnance 58-1351 1951-12-27 art. 21 al. 1 (partie) et 2
 
 
 ###### Article L116-3
