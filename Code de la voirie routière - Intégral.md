@@ -1,5 +1,5 @@
 # Code de la voirie routière  
-Version Consolidée au 2004-06-02
+Version Consolidée au 2004-07-02
 
 # Partie législative
 
@@ -3181,32 +3181,17 @@ L. 318-3 du code de l'urbanisme.
 	  - Code de l'urbanisme - art. L318-3 (V)
 
 
-#### Section III : Autres voies privées.
-
 ###### Article L162-6
 
 Les lois et règlements relatifs à l'hygiène des voies publiques et des maisons riveraines de ces voies sont applicables aux
 voies privées, ouvertes ou non à la circulation publique, en ce qui concerne l'écoulement des eaux usées et des vidanges
 ainsi que l'alimentation en eau. Toutes les parties d'une voie privée dans laquelle doit être établi un égout ou une
-canalisation d'eaux sont grevées d'une servitude légale à cet effet.
+canalisation d'eaux sont grevées d'une servitude légale à cet effet. 
 
 Les propriétaires des voies privées et des immeubles riverains peuvent être tenus de se constituer en syndicat dans les
-conditions fixées aux articles 2 à 16 de la loi du 22 juillet 1912 relative à l'assainissement des voies privées.
+conditions fixées aux articles 2 à 18 de la loi du 22 juillet 1912 relative à l'assainissement des voies privées.
 
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°89-413 1989-06-22 JORF 24 juin 1989
-
-	**Créé par**:
-
-	  - Loi n°89-413 1989-06-22 jorf 24 juin 1989
-
-	**Cité par**:
-
-	  - Code de la voirie routière - art. L171-12 (V)
-	  - Code de la voirie routière - art. L172-2 (V)
 
 	**Anciens textes**:
 
@@ -3214,7 +3199,20 @@ conditions fixées aux articles 2 à 16 de la loi du 22 juillet 1912 relative à
 
 	**Cite**:
 
-	  - Loi n°1912-07-22 art. 2 à 16
+	  - Loi du 22 juillet 1912 - art. 2 (V)
+
+	**Codifié par**:
+
+	  - Loi n°89-413 1989-06-22 JORF 24 juin 1989
+
+	**Modifié par**:
+
+	  - Ordonnance n°2004-632 du 1 juillet 2004 - art. 50 () JORF 2 juillet 2004
+
+	**Cité par**:
+
+	  - Code de la voirie routière - art. L171-12 (V)
+	  - Code de la voirie routière - art. L172-2 (V)
 
 
 ## TITRE VII : Dispositions particulières.
