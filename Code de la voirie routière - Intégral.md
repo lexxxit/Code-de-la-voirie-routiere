@@ -1,5 +1,5 @@
 # Code de la voirie routière  
-Version Consolidée au 1995-01-05
+Version Consolidée au 1995-01-24
 
 # Partie législative
 
@@ -955,6 +955,29 @@ la voirie routière peut transiger avec les justiciables tant qu'un jugement dé
 	**Anciens textes**:
 
 	  - Ordonnance 58-1351 1951-12-27 art. 8
+
+
+### Chapitre VII : Dispositifs techniques de prévention et de constatation des infractions au code de la route.
+
+###### Article L117-1
+
+Des dispositifs techniques destinés à assurer le respect du code de la route ou permettant aux fonctionnaires et agents
+habilités de constater les infractions audit code sont intégrés aux infrastructures et équipements routiers. Leurs
+caractéristiques sont fixées par arrêté des ministres compétents.
+
+Un décret en Conseil d'Etat précise les modalités selon lesquelles cette disposition s'applique aux différentes catégories de
+voies routières existantes ou à créer, en tenant compte notamment de l'importance du trafic, et les conditions de financement
+de ces dispositifs par les gestionnaires du domaine public routier et leurs concessionnaires.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°89-413 1989-06-22 JORF 24 juin 1989
+
+	**Créé par**:
+
+	  - Loi n°95-73 du 21 janvier 1995 - art. 14 ()
 
 
 ## TITRE II : Voirie nationale.
