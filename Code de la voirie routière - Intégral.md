@@ -1,5 +1,5 @@
 # Code de la voirie routière  
-Version Consolidée au 1993-09-22
+Version Consolidée au 1993-09-30
 
 # Partie législative
 
@@ -5190,6 +5190,8 @@ L'agrément prévu à l'article L. 123-8 est donné par le préfet.
 
 ### Chapitre unique.
 
+#### Section 1 : Caractéristiques techniques du domaine public routier départemental.
+
 ###### Article R*131-1
 
 Les profils en long et en travers des routes départementales doivent être établis de manière à permettre l'écoulement des
@@ -5210,9 +5212,9 @@ nationale et du ministre de l'intérieur.
 
 	  - Décret n°89-631 1989-09-04
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°89-631 1989-09-04 jorf 8 septembre 1989
+	  - Décret n°93-1133 du 22 septembre 1993 - art. 1 () JORF 30 septembre 1993
 
 
 ###### Article R*131-2
@@ -5221,37 +5223,45 @@ Le président du conseil général peut interdire d'une manière temporaire ou p
 routes départementales aux catégories de véhicules dont les caractéristiques sont incompatibles avec la constitution de ces
 routes, et notamment avec la résistance et la largeur de la chaussée ou des ouvrages d'art.
 
+**Nota:**
+
+
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°89-631 1989-09-04
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°89-631 1989-09-04 jorf 8 septembre 1989
+	  - Décret n°93-1133 du 22 septembre 1993 - art. 1 () JORF 30 septembre 1993
 
+
+#### Section 2 : Enquête publique relative au classement, au déclassement, à l'établissement des plans d'alignement et de nivellement, à l'ouverture, au redressement et à l'élargissement des routes départementales.
 
 ###### Article R*131-3
 
-Lorsque les travaux relatifs à la voirie départementale doivent donner lieu à enquête publique en application de la loi du 12
-juillet 1983 et du décret n° 85-453 du 23 avril 1985, cette enquête est organisée par le président du conseil général
-conformément aux dispositions des chapitres Ier et II dudit décret.
+L'enquête publique prévue au deuxième alinéa de l'article L. 131-4 s'effectue dans les conditions fixées par la présente
+section. 
 
-Toutefois, lorsque ces travaux doivent donner lieu à déclaration d'utilité publique, l'enquête est organisée par le préfet
-conformément aux dispositions des articles R. 11-14-1 à R. 11-14-15 du code de l'expropriation pour cause d'utilité publique.
+Un arrêté du président du conseil général désigne un commissaire enquêteur ou une commission d'enquête dont il nomme le
+président. Les membres de la commission d'enquête sont en nombre impair. Le commissaire enquêteur ou les membres de la
+commission d'enquête sont choisis sur une liste départementale établie annuellement en application de l'article R. 11-5 du
+code de l'expropriation. 
+
+Le même arrêté précise : 
+
+1° L'objet de l'enquête, la date à laquelle celle-ci sera ouverte et sa durée qui ne peut être inférieure à quinze jours ni
+supérieure à deux mois ; 
+
+2° Les heures et lieux où le public pourra prendre connaissance du dossier et formuler ses observations.
+
+**Nota:**
+
+
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°1938-10-25 article 13 ajouté par le décret 85-453 du 23 avril 1985
-
-	**Cite**:
-
-	  - Loi n°83-630 1983-07-12
-	  - Décret n°85-453 1985-04-23
-	  - Code de l'expropriation pour cause d'utilité publique R11-14-1 à R11-14-15
 
 	**Codifié par**:
 
@@ -5259,24 +5269,26 @@ conformément aux dispositions des articles R. 11-14-1 à R. 11-14-15 du code de
 
 	**Créé par**:
 
-	  - Décret n°89-631 1989-09-04 jorf 8 septembre 1989
+	  - Décret n°93-1133 du 22 septembre 1993 - art. 2 () JORF 30 septembre 1993  rectificatif JORF 6 novembre 1993
 
-	**Nouveaux textes**:
+	**Cite**:
 
-	  - Code de la voirie routière R.131-9
+	  - Code de l'expropriation pour cause d'utilité pu... - art. **R11-5 (V)
 
 
 ###### Article R*131-4
 
-A l'extérieur des agglomérations le président du conseil général exerce les compétences qu'il tient de l'article L. 131-7 en
-matière de coordination des travaux sur les routes départementales dans les mêmes conditions que celles fixées pour le maire
-aux articles R. 115-1 à R. 115-4.
+Quinze jours au moins avant l'ouverture de l'enquête et durant toute la durée de celle-ci, l'arrêté du président du conseil
+général est publié par voie d'affiches et éventuellement par tout autre procédé dans la ou les communes intéressées.
+
+Huit jours au moins avant l'ouverture de l'enquête, cet arrêté fait l'objet d'une insertion dans deux journaux locaux
+diffusés dans la ou les communes intéressées.
+
+**Nota:**
+
+
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°85-1262 du 27 novembre 1985 - art. 7 (Ab)
 
 	**Codifié par**:
 
@@ -5284,35 +5296,32 @@ aux articles R. 115-1 à R. 115-4.
 
 	**Créé par**:
 
-	  - Décret n°89-631 1989-09-04 jorf 8 septembre 1989
-
-	**Cite**:
-
-	  - Code de la voirie routière - art. L131-7 (V)
-	  - Code de la voirie routière L131-7, R115-1, R115-2, R115-3, R115-4
-
-	**Nouveaux textes**:
-
-	  - Code de la voirie routière R.131-10
+	  - Décret n°93-1133 du 22 septembre 1993 - art. 2 () JORF 30 septembre 1993
 
 
 ###### Article R*131-5
 
-Les dispositions des articles R. 141-13 à R. 141-21 relatives aux modalités d'exécution des travaux de réfection des voies
-communales et aux évaluations des frais en résultant sont applicables aux travaux de remblaiement des tranchées ouvertes dans
-les routes départementales et aux travaux de réfection de celles-ci, sous réserve des adaptations ci-après :
+I. - Un dossier d'enquête est déposé à la mairie de chacune des communes intéressées. Le dossier comprend :
 
-1° Le département est substitué à la commune ; le conseil général et le président du conseil général sont substitués
-respectivement au conseil municipal et au maire ;
+a) Une notice explicative ;
 
-2° Pour l'application de l'article R. 141-20, les prix de référence sont ceux qui sont constatés dans les marchés passés par
-le département ou, à défaut, les prix constatés couramment dans le département.
+b) Un plan de situation ;
+
+c) S'il y a lieu, une appréciation sommaire par nature de dépense à effectuer ;
+
+d) L'étude d'impact, lorsqu'elle est prévue par la réglementation en vigueur.
+
+II. - Lorsque le projet mis à l'enquête est relatif à la délimitation ou à l'alignement des routes départementales, il
+comprend en outre :
+
+a) Un plan parcellaire comportant l'indication, d'une part, des limites existantes de la route départementale, des parcelles
+riveraines et des bâtiments existants et, d'autre part, des limites projetées de la route départementale ;
+
+b) La liste des propriétaires des parcelles comprises, en tout ou partie, dans l'emprise du projet ;
+
+c) Eventuellement, un projet de plan de nivellement.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°85-1262 du 27 novembre 1985 - art. 10 (Ab)
 
 	**Codifié par**:
 
@@ -5320,18 +5329,27 @@ le département ou, à défaut, les prix constatés couramment dans le départem
 
 	**Créé par**:
 
-	  - Décret n°89-631 1989-09-04 jorf 8 septembre 1989
-
-	**Nouveaux textes**:
-
-	  - Code de la voirie routière R.131-11
-
-	**Cite**:
-
-	  - Code de la voirie routière R141-13 à R141-21
+	  - Décret n°93-1133 du 22 septembre 1993 - art. 2 () JORF 30 septembre 1993
 
 
-#### Section 2 : Enquête publique relative au classement, au déclassement, à l'établissement des plans d'alignement et de nivellement, à l'ouverture, au redressement et à l'élargissement des routes départementales.
+###### Article R*131-6
+
+Une notification individuelle du dépôt du dossier à la mairie est faite aux propriétaires des parcelles comprises, en tout ou
+partie, dans l'emprise du projet, sous pli recommandé, avec demande d'avis de réception, lorsque leur domicile est connu ou à
+leurs mandataires, gérants, administrateurs ou syndics.
+
+Lorsque leur domicile est inconnu, la notification est faite, le cas échéant, aux locataires et preneurs à bail rural.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°89-631 1989-09-04
+
+	**Créé par**:
+
+	  - Décret n°93-1133 du 22 septembre 1993 - art. 2 () JORF 30 septembre 1993
+
 
 ###### Article R*131-7
 
@@ -5352,6 +5370,128 @@ d'enquête.
 	**Créé par**:
 
 	  - Décret n°93-1133 du 22 septembre 1993 - art. 2 () JORF 30 septembre 1993
+
+
+###### Article R*131-8
+
+A l'expiration du délai d'enquête, le ou les registres d'enquête sont clos et signés par le commissaire enquêteur ou les
+membres de la commission d'enquête. Le commissaire enquêteur ou le président de la commission d'enquête transmet, dans le
+délai d'un mois, au président du conseil général le dossier et le ou les registres accompagnés de ses conclusions motivées.
+
+**Nota:**
+
+
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°89-631 1989-09-04
+
+	**Créé par**:
+
+	  - Décret n°93-1133 du 22 septembre 1993 - art. 2 () JORF 30 septembre 1993
+
+
+#### Section 3 : Dispositions relatives à la coordination des travaux exécutés sur les routes départementales.
+
+###### Article R*131-9
+
+Lorsque les travaux relatifs à la voirie départementale doivent donner lieu à enquête publique en application de la loi du 12
+juillet 1983 et du décret n° 85-453 du 23 avril 1985, cette enquête est organisée par le président du conseil général
+conformément aux dispositions des chapitres Ier et II dudit décret.
+
+Toutefois, lorsque ces travaux doivent donner lieu à déclaration d'utilité publique, l'enquête est organisée par le préfet
+conformément aux dispositions des articles R. 11-14-1 à R. 11-14-15 du code de l'expropriation pour cause d'utilité publique.
+
+**Nota:**
+
+
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°83-630 1983-07-12
+	  - Décret n°85-453 1985-04-23
+	  - Code de l'expropriation pour cause d'utilité publique R11-14-1 à R11-14-15
+
+	**Codifié par**:
+
+	  - Décret n°89-631 1989-09-04
+
+	**Créé par**:
+
+	  - Décret n°93-1133 du 22 septembre 1993 - art. 3 () JORF 30 septembre 1993
+
+	**Anciens textes**:
+
+	  - Code de la voirie routière R131-3
+
+
+###### Article R*131-10
+
+A l'extérieur des agglomérations le président du conseil général exerce les compétences qu'il tient de l'article L. 131-7 en
+matière de coordination des travaux sur les routes départementales dans les mêmes conditions que celles fixées pour le maire
+aux articles R.* 115-1 à R.* 115-4.
+
+**Nota:**
+
+
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°89-631 1989-09-04
+
+	**Créé par**:
+
+	  - Décret n°93-1133 du 22 septembre 1993 - art. 3 () JORF 30 septembre 1993
+
+	**Cite**:
+
+	  - Code de la voirie routière - art. L131-7 (V)
+	  - Code de la voirie routière L131-7, R*115-1 à R*115-4
+
+	**Anciens textes**:
+
+	  - Code de la voirie routière R131-4
+
+
+###### Article R*131-11
+
+Les dispositions des articles R.* 141-13 à R.* 141-21 relatives aux modalités d'exécution des travaux de réfection des voies
+communales et aux évaluations des frais en résultant sont applicables aux travaux de remblaiement des tranchées ouvertes dans
+les routes départementales et aux travaux de réfection de celles-ci, sous réserve des adaptations ci-après :
+
+1° Le département est substitué à la commune ; le conseil général et le président du conseil général sont substitués
+respectivement au conseil municipal et au maire ;
+
+2° Pour l'application de l'article R.* 141-20, les prix de référence sont ceux qui sont constatés dans les marchés passés par
+le département ou, à défaut, les prix constatés couramment dans le département.
+
+**Nota:**
+
+
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°89-631 1989-09-04
+
+	**Créé par**:
+
+	  - Décret n°93-1133 du 22 septembre 1993 - art. 3 () JORF 30 septembre 1993
+
+	**Cite**:
+
+	  - Code de la voirie routière R*141-13 à R*141-21
+
+	**Anciens textes**:
+
+	  - Code de la voirie routière R131-5
 
 
 ## TITRE IV : Voirie communale.
