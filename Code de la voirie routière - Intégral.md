@@ -1,5 +1,5 @@
 # Code de la voirie routière  
-Version Consolidée au 2004-12-10
+Version Consolidée au 2005-01-01
 
 # Partie législative
 
@@ -816,7 +816,15 @@ particuliers assermentés ;
 a) Les ingénieurs des ponts et chaussées et les ingénieurs des travaux publics de l'Etat, assermentés ;
 
 b) Les techniciens des travaux publics de l'Etat, les conducteurs de travaux publics de l'Etat et les agents des travaux
-publics de l'Etat, quand ils sont commissionnés et assermentés à cet effet.
+publics de l'Etat, quand ils sont commissionnés et assermentés à cet effet ;
+
+3° Sur les voies départementales, les agents du département commissionnés et assermentés à cet effet ;
+
+4° En Corse, sur les voies de la collectivité territoriale, les agents de la collectivité commissionnés et assermentés à cet
+effet ;
+
+5° Dans les départements d'outre-mer, sur les voies régionales, les agents de la région commissionnés et assermentés à cet
+effet.
 
 Les procès-verbaux dressés en matière de voirie font foi jusqu'à preuve contraire.
 
@@ -828,7 +836,7 @@ Les procès-verbaux dressés en matière de voirie font foi jusqu'à preuve cont
 
 	**Modifié par**:
 
-	  - Ordonnance n°2003-1216 du 18 décembre 2003 - art. 17 () JORF 20 décembre 2003
+	  - Loi n°2004-809 du 13 août 2004 - art. 21 () JORF 17 août 2004 en vigueur le 1er janvier 2005
 
 	**Cité par**:
 
@@ -841,7 +849,7 @@ Les procès-verbaux dressés en matière de voirie font foi jusqu'à preuve cont
 
 	**Anciens textes**:
 
-	  - Ordonnance 58-1351 1951-12-27 art. 21 al. 1 (partie) et 2
+	  - Ordonnance 58-1351 1951-12-27 art. 21 al. 1, al. 2
 
 
 ###### Article L116-3
@@ -1350,6 +1358,77 @@ sont fixées par décret en Conseil d'Etat.
 	  - Code de la voirie routière - art. L113-3 (VD)
 
 
+###### Article L122-4
+
+L'usage des autoroutes est en principe gratuit.
+
+Toutefois, il peut être institué par décret en Conseil d'Etat un péage pour l'usage d'une autoroute en vue d'assurer la
+couverture totale ou partielle des dépenses de toute nature liées à la construction, à l'exploitation, à l'entretien, à
+l'aménagement ou à l'extension de l'infrastructure.
+
+En cas de délégation des missions du service public autoroutier, le péage couvre également la rémunération et l'amortissement
+des capitaux investis par le délégataire.
+
+Des ouvrages ou des aménagements non prévus au cahier des charges de la délégation peuvent être intégrés à l'assiette de
+celle-ci, sous condition stricte de leur nécessité ou de leur utilité, ainsi que de leur caractère accessoire par rapport à
+l'ouvrage principal. Il peut être procédé à un allongement de la durée de la délégation lorsque leur financement ne peut être
+couvert par l'augmentation raisonnable des tarifs de péage, l'allongement de cette durée ainsi que l'augmentation des tarifs
+devant être strictement limités à ce qui est nécessaire. Le cas échéant, l'Etat et les collectivités territoriales
+intéressées, dans le cadre des règles prévues dans le code général des collectivités territoriales, peuvent, à titre
+exceptionnel, apporter des concours. Un décret en Conseil d'Etat fixe les conditions d'application de ces dispositions.
+
+La convention de délégation et le cahier des charges annexé fixent les conditions dans lesquelles le délégataire exerce les
+missions qui lui sont confiées par l'Etat et en contrepartie desquelles il est autorisé à percevoir des péages. Ces actes
+sont approuvés par décret en Conseil d'Etat. En cas de contribution de collectivités territoriales au financement de la
+délégation, le cahier des charges prévoit un dispositif de partage d'une partie des résultats financiers de la délégation au
+profit de l'Etat et des collectivités territoriales contributrices, en cas de résultats financiers excédant les prévisions
+initiales. Un décret en Conseil d'Etat détermine les conditions d'application de ce dispositif.
+
+Le produit du péage couvre ses frais de perception.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°55-435 1955-04-18 art. 4 al. 1, 2, 3, 4 Décret 80-398 1970-05-12 art. 1 al. 1, 2, 3, 4
+	  - Loi n°55-435 du 18 avril 1955 - art. 2 (V)
+	  - Loi n°55-435 du 18 avril 1955 - art. 3 (V)
+	  - Loi n°55-435 du 18 avril 1955 - art. 4, v. init.
+
+	**Codifié par**:
+
+	  - Loi n°89-413 1989-06-22 JORF 24 juin 1989
+
+	**Cité par**:
+
+	  - Loi n°89-413 du 22 juin 1989 - art. 3 (V)
+	  - Décret n°93-618 du 27 mars 1993 - art. Annexe, 2 (V)
+	  - Décret n°95-81 du 24 janvier 1995 - art. 1 (V)
+	  - Décret n°99-1135 du 28 décembre 1999 - art. ANNEXE (V)
+	  - Décret n°2008-411 du 29 avril 2008 - art. 1 (V)
+	  - Loi n°2009-179 du 17 février 2009 - art. 25 (V)
+	  - Loi n°2009-1674 du 30 décembre 2009 - art. 117 (V)
+	  - Décret n°2012-314 du 5 mars 2012 (V)
+	  - Décret n°2012-315 du 5 mars 2012 (V)
+	  - Loi n°2015-1785 du 29 décembre 2015 - art. 52 (V)
+	  - Code de la voirie routière - art. L119-10 (V)
+	  - Code de la voirie routière - art. L119-5 (V)
+	  - Code de la voirie routière - art. L122-10 (VD)
+	  - Code de la voirie routière - art. L122-4-2 (VD)
+	  - Code de la voirie routière - art. L122-7 (Ab)
+	  - Code de la voirie routière - art. L122-8 (VD)
+	  - Code de la voirie routière - art. L153-5 (V)
+	  - Code de la voirie routière - art. R*119-34 (V)
+	  - Code de la voirie routière - art. R*122-7 (V)
+	  - Code de la voirie routière - art. R122-27 (V)
+	  - Code de la voirie routière - art. R122-5-2 (V)
+	  - Code des douanes - art. 275 (VD)
+
+	**Modifié par**:
+
+	  - Loi n°2004-809 du 13 août 2004 - art. 20 () JORF 17 août 2004 en vigueur le 1er janvier 2005
+
+
 ###### Article L122-4-1
 
 Les péages perçus sur les véhicules à moteur ou ensembles de véhicules couplés destinés exclusivement au transport de
@@ -1374,6 +1453,30 @@ transport.
 	**Cité par**:
 
 	  - Code de la voirie routière - art. R122-5-5 (V)
+
+
+###### Article L122-4-2
+
+Sans préjudice des dispositions de l'article 40-1 de la loi n° 93-122 du 29 janvier 1993 relative à la prévention de la
+corruption et à la transparence de la vie économique et des procédures publiques, la personne délégataire d'une autoroute en
+application de l'article L. 122-4 communique chaque année aux collectivités territoriales qui participent avec elle à son
+financement un rapport comportant les comptes retraçant la totalité des opérations afférentes à l'exécution de la délégation
+de service public, une analyse de la qualité du service ainsi que les conditions d'exécution du service public.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°89-413 1989-06-22 JORF 24 juin 1989
+
+	**Cite**:
+
+	  - Loi n°93-122 du 29 janvier 1993 - art. 40-1 (V)
+	  - Code de la voirie routière - art. L122-4 (V)
+
+	**Créé par**:
+
+	  - Loi n°2004-809 du 13 août 2004 - art. 20 () JORF 17 août 2004 en vigueur le 1er janvier 2005
 
 
 ###### Article L122-5
@@ -1404,65 +1507,6 @@ cinq mois, le classement ne peut être prononcé que par décret en Conseil d'Et
 
 	  - Loi n°89-413 du 22 juin 1989 - art. 3 (V)
 	  - Code de la voirie routière - art. R*122-2 (V)
-
-
-#### Section 1 : Dispositions générales.
-
-###### Article L122-4
-
-L'usage des autoroutes est en principe gratuit.
-
-Toutefois, peuvent être concédées par l'Etat soit la construction et l'exploitation d'une autoroute, soit l'exploitation
-d'une autoroute, ainsi que la construction et l'exploitation de ses installations annexes telles qu'elles sont définies au
-cahier des charges.
-
-La convention de concession et le cahier des charges sont approuvés par décret en Conseil d'Etat.
-
-Ces actes peuvent autoriser le concessionnaire à percevoir des péages en vue d'assurer le remboursement des avances et des
-dépenses de toute nature faites par l'Etat et les collectivités ou établissements publics, l'exploitation et, éventuellement,
-l'entretien et l'extension de l'autoroute, la rémunération et l'amortissement des capitaux investis par le concessionnaire.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°55-435 1955-04-18 art. 4 al. 1, 2, 3, 4 Décret 80-398 1970-05-12 art. 1 al. 1, 2, 3, 4
-	  - Loi n°55-435 du 18 avril 1955 - art. 2 (V)
-	  - Loi n°55-435 du 18 avril 1955 - art. 3 (V)
-	  - Loi n°55-435 du 18 avril 1955 - art. 4, v. init.
-
-	**Codifié par**:
-
-	  - Loi n°89-413 1989-06-22 JORF 24 juin 1989
-
-	**Créé par**:
-
-	  - Loi n°89-413 1989-06-22 jorf 24 juin 1989
-
-	**Cité par**:
-
-	  - Loi n°89-413 du 22 juin 1989 - art. 3 (V)
-	  - Décret n°93-618 du 27 mars 1993 - art. Annexe, 2 (V)
-	  - Décret n°95-81 du 24 janvier 1995 - art. 1 (V)
-	  - Décret n°99-1135 du 28 décembre 1999 - art. ANNEXE (V)
-	  - Décret n°2008-411 du 29 avril 2008 - art. 1 (V)
-	  - Loi n°2009-179 du 17 février 2009 - art. 25 (V)
-	  - Loi n°2009-1674 du 30 décembre 2009 - art. 117 (V)
-	  - Décret n°2012-314 du 5 mars 2012 (V)
-	  - Décret n°2012-315 du 5 mars 2012 (V)
-	  - Loi n°2015-1785 du 29 décembre 2015 - art. 52 (V)
-	  - Code de la voirie routière - art. L119-10 (V)
-	  - Code de la voirie routière - art. L119-5 (V)
-	  - Code de la voirie routière - art. L122-10 (VD)
-	  - Code de la voirie routière - art. L122-4-2 (VD)
-	  - Code de la voirie routière - art. L122-7 (Ab)
-	  - Code de la voirie routière - art. L122-8 (VD)
-	  - Code de la voirie routière - art. L153-5 (V)
-	  - Code de la voirie routière - art. R*119-34 (V)
-	  - Code de la voirie routière - art. R*122-7 (V)
-	  - Code de la voirie routière - art. R122-27 (V)
-	  - Code de la voirie routière - art. R122-5-2 (V)
-	  - Code des douanes - art. 275 (VD)
 
 
 #### Section 2 : Dispositions financières.
@@ -2725,6 +2769,135 @@ la desserte des parcelles intéressées.
 
 #### Section 1 : Dispositions générales.
 
+###### Article L153-1
+
+L'usage des ouvrages d'art est en principe gratuit.
+
+Toutefois, il peut être institué lorsque l'utilité, les dimensions, le coût d'un ouvrage d'art appartenant à la voirie
+nationale, départementale ou communale ainsi que le service rendu aux usagers le justifient, un péage pour son usage en vue
+d'assurer la couverture totale ou partielle des dépenses de toute nature liées soit à la construction, soit, lorsque ces
+missions font l'objet d'une convention de délégation de service public, à la construction, à l'exploitation et à l'entretien
+ou à l'exploitation et à l'entretien de l'ouvrage d'art et de ses voies d'accès ou de dégagement.
+
+En cas de délégation de ces missions de service public, le péage couvre également la rémunération et l'amortissement des
+capitaux investis par le délégataire.
+
+Le produit du péage couvre ses frais de perception.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°89-413 1989-06-22 JORF 24 juin 1989
+
+	**Modifié par**:
+
+	  - Loi n°2004-809 du 13 août 2004 - art. 20 () JORF 17 août 2004 en vigueur le 1er janvier 2005
+
+	**Cité par**:
+
+	  - Décret n°2008-411 du 29 avril 2008 - art. 1 (V)
+	  - Arrêté du 21 janvier 2009 (V)
+	  - Loi n°2009-1674 du 30 décembre 2009 - art. 117 (V)
+	  - Loi n°2015-1785 du 29 décembre 2015 - art. 52 (V)
+	  - Code de la voirie routière - art. L153-5 (V)
+	  - Code de la voirie routière - art. R*153-1 (V)
+
+	**Anciens textes**:
+
+	  - Loi n°1880-07-30 art. 1 al. 1 Loi 79-591 1979-12-12 art. 1 Loi 86-972 1986-08-16 art. 17 al. 1
+
+
+###### Article L153-2
+
+L'institution d'un péage pour l'usage d'un ouvrage d'art est décidée, après avis du conseil régional, des communes traversées
+et, le cas échéant, des organismes visés à l'article L. 153-5 :
+
+- par décret en Conseil d'Etat si la route appartient au domaine public de l'Etat ;
+
+- par délibération de l'organe délibérant de la collectivité intéressée si la route appartient au domaine public d'un
+département ou d'une commune.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°89-413 1989-06-22 JORF 24 juin 1989
+
+	**Modifié par**:
+
+	  - Loi n°2004-809 du 13 août 2004 - art. 20 () JORF 17 août 2004 en vigueur le 1er janvier 2005
+
+	**Cité par**:
+
+	  - Décret n°2008-411 du 29 avril 2008 - art. 1 (V)
+	  - Code de la voirie routière - art. L153-9 (V)
+
+	**Cite**:
+
+	  - Code de la voirie routière - art. L153-5 (V)
+
+	**Anciens textes**:
+
+	  - Loi n°79-591 1979-12-12 art. 2
+
+
+###### Article L153-3
+
+En cas de délégation de tout ou partie des missions de construction, d'exploitation et d'entretien d'un ouvrage d'art, la
+convention de délégation et le cahier des charges annexé fixent les conditions dans lesquelles le délégataire exerce les
+missions qui lui sont confiées, selon le cas, par l'Etat, le département, la commune ou le groupement de collectivités
+territoriales et en contrepartie desquelles il est autorisé à percevoir des péages.
+
+Lorsque la délégation est consentie par l'Etat, ces actes sont approuvés par décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°79-591 1979-12-12 art. 3
+
+	**Codifié par**:
+
+	  - Loi n°89-413 1989-06-22 JORF 24 juin 1989
+
+	**Cité par**:
+
+	  - Loi n°96-314 du 12 avril 1996 - art. 56 (V)
+	  - Code de la voirie routière - art. L153-5 (M)
+
+	**Modifié par**:
+
+	  - Loi n°2004-809 du 13 août 2004 - art. 20 () JORF 17 août 2004 en vigueur le 1er janvier 2005
+
+
+###### Article L153-4
+
+L'acte administratif instituant un péage sur un ouvrage d'art reliant des routes départementales peut prévoir des tarifs
+différents ou la gratuité selon les diverses catégories d'usagers pour tenir compte, soit d'une nécessité d'intérêt général
+en rapport avec les conditions d'exploitation de l'ouvrage d'art, soit de la situation particulière de certains usagers, et,
+notamment, de ceux qui ont leur domicile ou leur lieu de travail dans le ou les départements concernés.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°79-591 1979-12-12 art. 4
+
+	**Codifié par**:
+
+	  - Loi n°89-413 1989-06-22 JORF 24 juin 1989
+
+	**Modifié par**:
+
+	  - Loi n°2004-809 du 13 août 2004 - art. 20 () JORF 17 août 2004 en vigueur le 1er janvier 2005
+
+	**Cité par**:
+
+	  - Code de la voirie routière - art. L153-5 (M)
+	  - Code général des collectivités territoriales - art. L3213-4 (VD)
+
+
 ###### Article L153-4-1
 
 Les péages perçus sur les véhicules à moteur ou ensembles de véhicules couplés destinés exclusivement au transport de
@@ -2747,135 +2920,16 @@ transport.
 	  - Loi n°2010-788 du 12 juillet 2010 - art. 60
 
 
-#### Section 1 : Dispositions générales.
-
-###### Article L153-1
-
-L'usage des ouvrages d'art est en principe gratuit.
-
-Toutefois, il peut être institué, à titre exceptionnel et temporaire, lorsque l'utilité, les dimensions et le coût d'un
-ouvrage d'art à comprendre dans la voirie nationale, départementale ou communale ainsi que le service rendu aux usagers le
-justifient, une redevance pour son usage.
-
-En ce qui concerne la voirie communale, les ouvrages d'art doivent répondre aux conditions de dimension et de coût fixées par
-voie réglementaire.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°89-413 1989-06-22 JORF 24 juin 1989
-
-	**Créé par**:
-
-	  - Loi n°89-413 1989-06-22 jorf 24 juin 1989
-
-	**Cité par**:
-
-	  - Décret n°2008-411 du 29 avril 2008 - art. 1 (V)
-	  - Arrêté du 21 janvier 2009 (V)
-	  - Loi n°2009-1674 du 30 décembre 2009 - art. 117 (V)
-	  - Loi n°2015-1785 du 29 décembre 2015 - art. 52 (V)
-	  - Code de la voirie routière - art. L153-5 (V)
-	  - Code de la voirie routière - art. R*153-1 (V)
-
-	**Anciens textes**:
-
-	  - Loi n°1880-07-30 art. 1 al. 1 Loi 79-591 1979-12-12 art. 1 Loi 86-972 1986-08-16 art. 17 al. 1
-
-
-###### Article L153-2
-
-La convention par laquelle l'Etat concède la construction et l'exploitation d'un ouvrage d'art à comprendre dans la voirie
-nationale peut autoriser, dans les conditions définies par le cahier des charges, le concessionnaire à percevoir des
-redevances en vue d'assurer le remboursement des avances et dépenses de toute nature faites par l'Etat, l'exploitation et,
-éventuellement, l'entretien de l'ouvrage, ainsi que la rémunération et l'amortissement des capitaux investis par le
-concessionnaire.
-
-La convention de concession et le cahier des charges sont approuvés par décret en Conseil d'Etat pris après avis des conseils
-généraux concernés lorsque ceux-ci participent au financement de l'ouvrage d'art ou que l'absence d'autres moyens de
-communication assurant à l'usager un service de même nature rend l'ouvrage indispensable à la circulation locale.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°79-591 1979-12-12 art. 2
-
-	**Codifié par**:
-
-	  - Loi n°89-413 1989-06-22 JORF 24 juin 1989
-
-	**Créé par**:
-
-	  - Loi n°89-413 1989-06-22 jorf 24 juin 1989
-
-	**Cité par**:
-
-	  - Décret n°2008-411 du 29 avril 2008 - art. 1 (V)
-	  - Code de la voirie routière - art. L153-9 (V)
-
-
-###### Article L153-3
-
-La perception d'une redevance sur un ouvrage d'art à comprendre dans la voirie départementale peut être autorisée par
-délibération du ou des conseils généraux concernés, en vue d'assurer soit la couverture des charges de remboursement des
-emprunts garantis ou contractés par le ou les départements pour la construction de l'ouvrage et pour l'aménagement de ses
-voies d'accès ou de dégagement, soit la couverture des charges d'exploitation et d'entretien, ainsi que la rémunération et
-l'amortissement des capitaux investis par le concessionnaire qui assure l'exploitation de l'ouvrage d'art.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°79-591 1979-12-12 art. 3
-
-	**Codifié par**:
-
-	  - Loi n°89-413 1989-06-22 JORF 24 juin 1989
-
-	**Créé par**:
-
-	  - Loi n°89-413 1989-06-22 jorf 24 juin 1989
-
-	**Cité par**:
-
-	  - Loi n°96-314 du 12 avril 1996 - art. 56 (V)
-	  - Code de la voirie routière - art. L153-5 (M)
-
-
-###### Article L153-4
-
-L'acte administratif instituant une redevance sur un ouvrage d'art reliant des routes départementales peut prévoir des tarifs
-différents ou la gratuité selon les diverses catégories d'usagers pour tenir compte, soit d'une nécessité d'intérêt général
-en rapport avec les conditions d'exploitation de l'ouvrage d'art, soit de la situation particulière de certains usagers, et,
-notamment, de ceux qui ont leur domicile ou leur lieu de travail dans le ou les départements concernés.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°89-413 1989-06-22 JORF 24 juin 1989
-
-	**Créé par**:
-
-	  - Loi n°89-413 1989-06-22 jorf 24 juin 1989
-
-	**Cité par**:
-
-	  - Code de la voirie routière - art. L153-5 (M)
-	  - Code général des collectivités territoriales - art. L3213-4 (VD)
-
-	**Anciens textes**:
-
-	  - Loi n°79-591 1979-12-12 art. 4
-
-
 ###### Article L153-5
 
-L'institution d'une redevance sur un ouvrage d'art à comprendre dans le domaine public routier communal est décidée par une
-délibération du conseil municipal qui doit satisfaire aux dispositions des articles L. 153-3 et L. 153-4. Elle est autorisée
-par décret en Conseil d'Etat.
+Les dispositions des articles L. 153-1 à L. 153-4-1 sont applicables aux ouvrages d'art appartenant à la voirie dont la
+gestion est dévolue à un établissement public de coopération intercommunale à fiscalité propre ou à un syndicat mixte ayant
+compétence en matière de création ou d'aménagement et d'entretien de la voirie. 
+
+Ces dispositions ne sont pas applicables aux ouvrages d'art compris dans l'emprise des autoroutes soumises à un péage en
+vertu des dispositions de l'article L. 122-4. 
+
+Un décret en Conseil d'Etat fixe les conditions d'application des articles L. 153-1 à L. 153-4-1.
 
 **Liens relatifs à cet article**
 
@@ -2883,51 +2937,23 @@ par décret en Conseil d'Etat.
 
 	  - Loi n°89-413 1989-06-22 JORF 24 juin 1989
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°89-413 1989-06-22 jorf 24 juin 1989
+	  - Loi n°2004-809 du 13 août 2004 - art. 20 () JORF 17 août 2004 en vigueur le 1er janvier 2005
+
+	**Cite**:
+
+	  - Code de la voirie routière - art. L122-4 (V)
+	  - Code de la voirie routière - art. L153-1 (V)
 
 	**Cité par**:
 
 	  - Code de la voirie routière - art. L153-2 (V)
 	  - Code de la voirie routière - art. R*153-2 (V)
 
-	**Cite**:
-
-	  - Code de la voirie routière - art. L153-3 (M)
-	  - Code de la voirie routière - art. L153-4 (M)
-
 	**Anciens textes**:
 
 	  - Loi n°86-972 1986-08-16 art. 17 al. 2
-
-
-###### Article L153-6
-
-Les dispositions des articles L. 153-1 à L. 153-5 ne sont pas applicables aux ouvrages d'art compris dans l'emprise des
-autoroutes.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code de la voirie routière L153-1 à L153-5
-
-	**Anciens textes**:
-
-	  - Loi n°79-591 1979-12-12 art. 7
-
-	**Codifié par**:
-
-	  - Loi n°89-413 1989-06-22 JORF 24 juin 1989
-
-	**Créé par**:
-
-	  - Loi n°89-413 1989-06-22 jorf 24 juin 1989
-
-	**Abrogé par**:
-
-	  - Loi n°2004-809 du 13 août 2004 - art. 20 () JORF 17 août 2004 en vigueur le 1er janvier 2005
 
 
 #### Section 2 : Dispositions particulières.
