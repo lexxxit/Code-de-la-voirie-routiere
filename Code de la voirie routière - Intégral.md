@@ -1,5 +1,5 @@
 # Code de la voirie routière  
-Version Consolidée au 1995-02-03
+Version Consolidée au 1995-05-05
 
 # Partie législative
 
@@ -4849,31 +4849,43 @@ d'actionnaires.
 
 ###### Article R*122-18
 
-L'établissement est administré par un conseil d'administration de douze membres. Ce conseil d'administration comprend :
+L'établissement est administré par un conseil d'administration de vingt membres. Ce conseil d'administration comprend :
 
 a) Un président, désigné par décret parmi les membres du Conseil d'Etat, de la Cour des comptes ou de l'inspection générale
 des finances ;
 
 b) Deux parlementaires désignés pour trois ans, l'un par l'Assemblée nationale, l'autre par le Sénat ;
 
-c) Un conseiller régional désigné pour trois ans par l'association nationale des élus régionaux ;
+c) Le directeur des routes, vice-président ;
 
-d) Un conseiller général désigné pour trois ans par l'assemblée des présidents de conseils généraux ;
+d) Le vice-président du conseil général des ponts et chaussées ou son représentant ;
 
-e) Le directeur des routes, vice-président ;
+e) Le directeur de la sécurité et de la circulation routières ou son représentant ;
 
 f) Le directeur du Trésor ou son représentant ;
 
-g) Le directeur général de la concurrence, de la consommation et de la répression des fraudes ou son représentant ;
+g) Le directeur de la prévision ou son représentant ;
 
 h) Le directeur du budget ou son représentant ;
 
 i) Le directeur de la comptabilité publique ou son représentant ;
 
-j) Le directeur général de la Caisse des dépôts et consignations ou son représentant ;
+j) Le directeur général des collectivités locales ou son représentant ;
 
-k) Un membre désigné par arrêté du ministre chargé de la voirie routière nationale parmi les présidents de sociétés
-d'économie mixte concessionnaires d'autoroutes.
+k) Le délégué à l'aménagement du territoire et à l'action régionale ou son représentant ;
+
+l) Le directeur général de la Caisse des dépôts et consignations ou son représentant ;
+
+m) Un membre désigné par arrêté du ministre chargé de la voirie nationale parmi les présidents de sociétés d'économie mixte
+concessionnaires d'autoroutes ;
+
+n) Six membres représentant les collectivités territoriales actionnaires des sociétés d'économie mixte concessionnaires
+d'autoroutes désignées ci-après : Société des autoroutes du Sud de la France, Société des autoroutes Paris-Rhin-Rhône,
+Société des autoroutes du Nord et de l'Est de la France, Société des autoroutes Estérel-Côte d'Azur-Provence-Alpes, Société
+des autoroutes Rhônes-Alpes, Société des autoroutes Paris-Normandie, à raison d'un membre par société. Chaque membre est
+choisi en son sein par le collège des représentants permanents des collectivités territoriales administrateurs de la société
+concernée. Lorsqu'un membre ainsi désigné perd la qualité de représentant permanent d'une collectivité territoriale
+administrateur, un autre membre est nommé dans les mêmes conditions.
 
 Le président et le membre choisi parmi les présidents des sociétés sont nommés pour une durée de trois ans renouvelable. En
 cas de vacance d'un siège pour quelque cause que ce soit, un autre membre est nommé dans les mêmes conditions jusqu'à
@@ -4898,9 +4910,9 @@ Le contrôleur financier et l'agent comptable assistent avec voix consultative a
 
 	  - Décret n°89-631 1989-09-04
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°89-631 1989-09-04 jorf 8 septembre 1989
+	  - Décret n°95-521 du 2 mai 1995 - art. 1 () JORF 5 mai 1995
 
 
 ###### Article R*122-19
