@@ -1,5 +1,5 @@
 # Code de la voirie routière  
-Version Consolidée au 1990-08-17
+Version Consolidée au 1991-05-16
 
 # Partie législative
 
@@ -4894,8 +4894,7 @@ d) Les dotations reçues de l'Etat.
 ###### Article R*122-21
 
 Sous le contrôle du conseil d'administration, la Caisse des dépôts et consignations assure la gestion de l'établissement dans
-les conditions définies par une convention passée avec celui-ci. Son directeur général désigne l'ordonnateur de
-l'établissement public parmi les agents de la caisse.
+les conditions définies par une convention passée avec celui-ci.
 
 **Liens relatifs à cet article**
 
@@ -4907,9 +4906,9 @@ l'établissement public parmi les agents de la caisse.
 
 	  - Décret n°89-631 1989-09-04
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°89-631 1989-09-04 jorf 8 septembre 1989
+	  - Décret n°91-454 du 10 mai 1991 - art. 1 () JORF 16 mai 1991
 
 	**Cité par**:
 
@@ -4919,6 +4918,8 @@ l'établissement public parmi les agents de la caisse.
 ###### Article R*122-22
 
 Le président du conseil d'administration représente l'établissement en justice et dans tous les actes de la vie civile.
+
+Il a qualité d'ordonnateur.
 
 **Liens relatifs à cet article**
 
@@ -4930,9 +4931,9 @@ Le président du conseil d'administration représente l'établissement en justic
 
 	  - Décret n°89-631 1989-09-04
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°89-631 1989-09-04 jorf 8 septembre 1989
+	  - Décret n°91-454 du 10 mai 1991 - art. 2 () JORF 16 mai 1991
 
 
 ###### Article R*122-23
