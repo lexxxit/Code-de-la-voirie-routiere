@@ -1,5 +1,5 @@
 # Code de la voirie routière  
-Version Consolidée au 2002-01-04
+Version Consolidée au 2002-02-28
 
 # Partie législative
 
@@ -2499,11 +2499,17 @@ d'usagers et de véhicules.
 ###### Article L151-2
 
 Le caractère de route express est conféré à une route ou à une section de route, existante ou à créer, par décret en Conseil
-d'Etat portant le cas échéant déclaration d'utilité publique, pris après enquête publique et avis des départements et des
-communes dont le territoire est traversé par la route.
+d'Etat. S'il s'agit d'une route nouvelle, ce décret peut, le cas échéant, emporter déclaration d'utilité publique. Il est
+alors pris après enquête publique et avis des départements et des communes dont le territoire est traversé par la route.
 
-Les avis mentionnés à l'alinéa précédent doivent être donnés par les assemblées délibérantes dans un délai de deux mois
-suivant la saisine. L'absence d'avis dans ce délai vaut avis favorable.
+Sur route express existante, les travaux de réalisation d'ouvrages annexes, d'élargissement et de raccordement à d'autres
+voies publiques, peuvent être réalisés et classés en route express par arrêté préfectoral si l'enquête préalable à la
+déclaration de projet ou, le cas échéant, préalable à la déclaration d'utilité publique, a porté sur le classement et sur les
+conditions de désenclavement des propriétés riveraines éventuellement concernées par une modification de leurs conditions
+d'accès à une voie publique.
+
+Les avis mentionnés au premier alinéa doivent être donnés par les assemblées délibérantes dans un délai de deux mois suivant
+la saisine. L'absence d'avis dans ce délai vaut avis favorable.
 
 Le caractère de route express est retiré dans les mêmes formes.
 
@@ -2517,16 +2523,16 @@ Le caractère de route express est retiré dans les mêmes formes.
 
 	  - Loi n°89-413 1989-06-22 JORF 24 juin 1989
 
-	**Créé par**:
-
-	  - Loi n°89-413 1989-06-22 jorf 24 juin 1989
-
 	**Cité par**:
 
 	  - Loi n°89-413 du 22 juin 1989 - art. 3 (V)
 	  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PUBLI - art. L24-1 (V)
 	  - Code de la route. - art. L110-2 (M)
 	  - Code de la voirie routière - art. R151-1 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2002-276 du 27 février 2002 - art. 152 ()
 
 
 ###### Article L151-3
