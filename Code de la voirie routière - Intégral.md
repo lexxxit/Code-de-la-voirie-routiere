@@ -1,5 +1,5 @@
 # Code de la voirie routière  
-Version Consolidée au 1991-05-16
+Version Consolidée au 1993-09-22
 
 # Partie législative
 
@@ -5329,6 +5329,29 @@ le département ou, à défaut, les prix constatés couramment dans le départem
 	**Cite**:
 
 	  - Code de la voirie routière R141-13 à R141-21
+
+
+#### Section 2 : Enquête publique relative au classement, au déclassement, à l'établissement des plans d'alignement et de nivellement, à l'ouverture, au redressement et à l'élargissement des routes départementales.
+
+###### Article R*131-7
+
+Les observations formulées par le public sont recueillies sur le ou les registres spécialement ouverts à cet effet. Le ou les
+registres, à feuillets non mobiles, sont cotés et paraphés par le commissaire enquêteur ou le président de la commission
+d'enquête.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°85-1262 du 27 novembre 1985 - art. 10 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°89-631 1989-09-04
+
+	**Créé par**:
+
+	  - Décret n°93-1133 du 22 septembre 1993 - art. 2 () JORF 30 septembre 1993
 
 
 ## TITRE IV : Voirie communale.
