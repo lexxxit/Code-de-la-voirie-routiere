@@ -1,5 +1,5 @@
 # Code de la voirie routière  
-Version Consolidée au 2004-07-02
+Version Consolidée au 2004-08-17
 
 # Partie législative
 
@@ -12,15 +12,20 @@ Version Consolidée au 2004-07-02
 Le domaine public routier comprend l'ensemble des biens du domaine public de l'Etat, des départements et des communes
 affectés aux besoins de la circulation terrestre, à l'exception des voies ferrées.
 
+L'Etat veille à la cohérence et à l'efficacité du réseau routier dans son ensemble ; il veille en particulier à la sécurité,
+à la cohérence de l'exploitation et de l'information des usagers, à la connaissance statistique des réseaux et des trafics
+ainsi qu'au maintien, au développement et à la diffusion des règles de l'art.
+
+Sur les réseaux relevant de leur compétence, les collectivités territoriales et leurs groupements définissent conjointement
+avec l'Etat les programmes de recherche et de développement des savoir-faire techniques dans le domaine routier. Ils sont
+associés à la définition des normes et définitions techniques correspondantes, adaptées à la spécificité de chacun des
+réseaux.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Loi n°89-413 1989-06-22 JORF 24 juin 1989
-
-	**Créé par**:
-
-	  - Loi n°89-413 1989-06-22 jorf 24 juin 1989
 
 	**Cité par**:
 
@@ -35,6 +40,14 @@ affectés aux besoins de la circulation terrestre, à l'exception des voies ferr
 	  - Décret n°2013-535 du 24 juin 2013 (V)
 	  - Décret n°2016-922 du 5 juillet 2016 (V)
 	  - Code général de la propriété des personnes publ... - art. L3211-5-1 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2004-809 du 13 août 2004 - art. 18 (V) JORF 17 août 2004
+
+	**Nouveaux textes**:
+
+	  - Code général de la propriété des personnes publiqu - art. L2111-14 (V)
 
 
 ### Chapitre II : Emprise.
@@ -1171,6 +1184,13 @@ Les voies du domaine public routier national sont :
 
 2° Les routes nationales.
 
+Le domaine public routier national est constitué d'un réseau cohérent d'autoroutes et de routes d'intérêt national ou
+européen. Des décrets en Conseil d'Etat, actualisés tous les dix ans, fixent, parmi les itinéraires, ceux qui répondent aux
+critères précités.
+
+L'Etat conserve dans le domaine public routier national, jusqu'à leur déclassement, les tronçons de routes nationales n'ayant
+pas de vocation départementale et devant rejoindre le domaine public routier communal.
+
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
@@ -1181,9 +1201,9 @@ Les voies du domaine public routier national sont :
 
 	  - Loi n°89-413 1989-06-22 JORF 24 juin 1989
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°89-413 1989-06-22 jorf 24 juin 1989
+	  - Loi n°2004-809 du 13 août 2004 - art. 18 (V) JORF 17 août 2004
 
 	**Cité par**:
 
