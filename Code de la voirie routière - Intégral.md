@@ -1,5 +1,5 @@
 # Code de la voirie routière  
-Version Consolidée au 2003-01-04
+Version Consolidée au 2003-06-13
 
 # Partie législative
 
@@ -309,6 +309,9 @@ public et les services publics de transport ou de distribution d'électricité o
 routier en y installant des ouvrages, dans la mesure où cette occupation n'est pas incompatible avec son affectation à la
 circulation terrestre.
 
+Le gestionnaire du domaine public routier peut, dans l'intérêt de la sécurité routière, faire déplacer les installations et
+les ouvrages situés sur ce domaine aux frais de l'occupant dans des conditions définies par décret en Conseil d'Etat.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
@@ -317,7 +320,7 @@ circulation terrestre.
 
 	**Modifié par**:
 
-	  - Loi n°96-659 du 26 juillet 1996 - art. 19 ()
+	  - Loi n°2003-495 du 12 juin 2003 - art. 19 () JORF 13 juin 2003
 
 	**Cité par**:
 
@@ -1125,6 +1128,35 @@ route sont applicables.
 	  - CODE DE PROCEDURE PENALE - art. 529-1 (M)
 	  - CODE DE PROCEDURE PENALE - art. 529-8 (M)
 	  - Code de la route. - art. L121-4 (V)
+
+
+### Chapitre IX : Dispositifs d'information sur le réseau routier.
+
+###### Article L119-1
+
+Le préfet communique chaque année aux départements, aux communes ou à leurs groupements un rapport d'information sur les
+accidents de la circulation routière et les infractions graves commises sur le réseau routier dont ils assurent la gestion. 
+
+Les départements, les communes et leurs groupements établissent, dans les conditions prévues à l'article L. 1614-7 du code
+général des collectivités territoriales, les statistiques relatives au réseau routier dont ils assurent la gestion. Ils les
+communiquent au représentant de l'Etat dans le département. 
+
+Le seuil de population à partir duquel cette obligation s'applique, les éléments à fournir ainsi que la fréquence de leur
+mise à jour sont fixés par décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°89-413 1989-06-22 JORF 24 juin 1989
+
+	**Créé par**:
+
+	  - Loi n°2003-495 du 12 juin 2003 - art. 22 () JORF 13 juin 2003
+
+	**Cite**:
+
+	  - Code général des collectivités territoriales - art. L1614-7 (V)
 
 
 ## TITRE II : Voirie nationale.
