@@ -1,5 +1,5 @@
 # Code de la voirie routière  
-Version Consolidée au 1996-07-27
+Version Consolidée au 1996-12-10
 
 # Partie législative
 
@@ -4534,6 +4534,29 @@ conformité des dispositions qui précèdent.
 	**Créé par**:
 
 	  - Décret n°94-1235 du 29 décembre 1994 - art. 1 ()
+
+
+###### Article R122-5-1
+
+Les sociétés concessionnaires d'autoroutes ont le pouvoir de délivrer, dans les conditions prévues au II de l'article R. 57-4
+du code du domaine de l'Etat, les titres d'occupation du domaine public de l'Etat en application des articles L. 34-1 à L.
+34-9 dudit code et de l'article 3 de la loi n° 94-631 du 25 juillet 1994.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°89-631 1989-09-04
+
+	**Cite**:
+
+	  - Loi n°94-631 du 25 juillet 1994 - art. 3 (Ab)
+	  - Code du domaine de l'Etat - art. R57-4 (M)
+	  - Code du domaine de l'Etat R57-4, L34-1 à L34-9
+
+	**Créé par**:
+
+	  - Décret n°96-1058 du 2 décembre 1996 - art. 8 ()
 
 
 #### Section 2 : Dispositions financières.
