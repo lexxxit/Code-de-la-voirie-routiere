@@ -1,5 +1,5 @@
 # Code de la voirie routière  
-Version Consolidée au 2002-10-12
+Version Consolidée au 2003-01-04
 
 # Partie législative
 
@@ -357,9 +357,9 @@ des articles L. 46 et L. 47 du code des postes et communications électroniques.
 
 ###### Article L113-5
 
-Lorsqu'ils relèvent du régime de la concession, les travaux exécutés sur la voie publique pour l'établissement ou l'entretien
-des réseaux de transport ou de distribution d'électricité ou de gaz sont effectués dans les conditions fixées par l'article
-10 de la loi du 15 juin 1906 sur les distributions d'énergie.
+Lorsqu'ils relèvent du régime de la concession ou autorisation de transport de gaz naturel, les travaux exécutés sur la voie
+publique pour l'établissement ou l'entretien des réseaux de transport ou de distribution d'électricité ou de gaz sont
+effectués dans les conditions fixées par l'article 10 de la loi du 15 juin 1906 sur les distributions d'énergie.
 
 Lorsqu'ils relèvent du régime de la permission de voirie, ces mêmes travaux sont effectués dans les conditions fixées par les
 articles 1er et 2 de la loi du 27 février 1925 ayant pour objet de modifier et de compléter la loi du 15 juin 1906 sur les
@@ -388,9 +388,10 @@ particulières d'énergie électrique et de gaz.
 
 	  - Loi n°89-413 1989-06-22 JORF 24 juin 1989
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°89-413 1989-06-22 jorf 24 juin 1989
+	  - Loi n°2001-1276 2001-12-28 art. 81 jorf 29 décembre 2001
+	  - Loi n°2003-8 du 3 janvier 2003 - art. 25 (V)
 
 
 ###### Article L113-6
