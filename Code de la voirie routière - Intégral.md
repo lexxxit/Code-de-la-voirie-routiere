@@ -1,5 +1,5 @@
 # Code de la voirie routière  
-Version Consolidée au 2003-12-20
+Version Consolidée au 2004-06-02
 
 # Partie législative
 
@@ -4018,12 +4018,13 @@ Un décret en Conseil d'Etat précise les conditions d'application du présent a
 ###### Article R*111-1
 
 Les équipements routiers sont des dispositifs affectés aux besoins de la circulation routière, destinés à la signalisation, à
-la protection des usagers et à l'exploitation des voies du domaine public routier.
+la protection des usagers, à l'exploitation des voies du domaine public routier et à la constatation des infractions au code
+de la route.
 
 Ils doivent être conçus, fabriqués, commercialisés, utilisés et entretenus de façon à assurer aux usagers de la route le
 meilleur niveau de sécurité possible.
 
-Les équipements routiers sont classés en trois catégories définies ainsi qu'il suit :
+Les équipements routiers sont classés en quatre catégories définies ainsi qu'il suit :
 
 1° Les équipements de signalisation permanents ou temporaires, comprenant l'ensemble des dispositifs et produits destinés à
 la signalisation routière, notamment les produits de marquage de chaussées, les panneaux de signalisation, dont les panneaux
@@ -4033,7 +4034,9 @@ la signalisation routière, notamment les produits de marquage de chaussées, le
 piétons sur la chaussée ou ses dépendances, d'atténuation des chocs ou de protection contre l'éblouissement ;
 
 3° Les équipements d'exploitation des voies du domaine public routier, notamment ceux qui sont destinés à la régulation du
-trafic, à l'information ou au secours des usagers, au recueil des données routières et à l'éclairage des voies.
+trafic, à l'information ou au secours des usagers, au recueil des données routières et à l'éclairage des voies ;
+
+4° Les équipements de constatation des infractions au code de la route, qui sont intégrés aux infrastructures routières.
 
 **Liens relatifs à cet article**
 
@@ -4041,9 +4044,9 @@ trafic, à l'information ou au secours des usagers, au recueil des données rout
 
 	  - Décret n°89-631 1989-09-04
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2002-1251 du 10 octobre 2002 - art. 1 ()
+	  - Décret n°2004-472 du 1 juin 2004 - art. 1 () JORF 2 juin 2004
 
 	**Cité par**:
 
@@ -4052,6 +4055,10 @@ trafic, à l'information ou au secours des usagers, au recueil des données rout
 	  - Code de la voirie routière - art. R*119-1 (VD)
 	  - Code de la voirie routière - art. R*119-6 (V)
 	  - Code de la voirie routière - art. R*163-1 (V)
+
+	**Liens**:
+
+	  - TXT_SOURCE: Directive 98-34 CE 1998-06-22
 
 
 ### Chapitre II : Emprise.
@@ -4649,23 +4656,31 @@ domaine public routier ;
 
 ###### Article R*119-1
 
-Sont soumis aux dispositions du présent chapitre les équipements routiers définis à l'article R. 111-1 qui ont une incidence
+Sont soumis aux dispositions du présent chapitre les équipements routiers définis à l'article R.* 111-1 qui ont une incidence
 sur la sécurité des usagers de la route.
 
 Lorsque ces équipements sont soumis à l'obligation de marquage CE en application des dispositions du décret n° 92-647 du 8
 juillet 1992 concernant l'aptitude à l'usage des produits de construction, ils sont placés sous le régime de l'évaluation et
 de l'attestation de conformité défini à la sous-section 1 de la section 2 du présent chapitre et sont soumis aux règles de
-mise en service fixées à l'article R. 119-7.
+mise en service fixées à l'article R.* 119-7.
 
 Lorsqu'ils ne sont pas soumis à cette obligation, que ce soit à titre permanent ou à titre transitoire, ils sont placés sous
 le régime de l'évaluation et de l'attestation de conformité défini à la sous-section 2 de la section 2 du présent chapitre et
-sont soumis aux règles de mise en service fixées à l'article R. 119-8.
+sont soumis aux règles de mise en service fixées à l'article R.* 119-8. Les types d'équipements qui, par leur conception ou
+le caractère particulier de leur fabrication, ne peuvent être soumis à cette procédure d'évaluation et d'attestation de
+conformité, doivent néanmoins satisfaire à des exigences relatives à leurs caractéristiques et performances dans les
+conditions fixées à l'article R.* 119-9.
 
-**Nota:**
-
-Décret 2002-1251 2002-10-10 art. 4 : Modalités d'entrée en vigueur du chapitre IX du titre I du code de la voirie routière.
+Lorsque des types d'équipements appartenant à la quatrième catégorie définie à l'article R.* 111-1 contiennent des composants
+relevant du décret n° 2001-387 du 3 mai 2001 relatif au contrôle des instruments de mesure, les exigences techniques et les
+procédures applicables à ces composants sont celles fixées par ce décret et par les arrêtés pris en application de son
+article 3.
 
 **Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - TXT_SOURCE: Directive 98-34 CE 1998-06-22
 
 	**Codifié par**:
 
@@ -4674,11 +4689,14 @@ Décret 2002-1251 2002-10-10 art. 4 : Modalités d'entrée en vigueur du chapitr
 	**Cite**:
 
 	  - Décret n°92-647 1992-07-08
-	  - Code de la voirie routière R111-1, R119-7, R119-8
+	  - Décret n°2001-387 du 3 mai 2001 - art. 3 (V)
+	  - Code de la voirie routière - art. R*111-1 (M)
+	  - Code de la voirie routière - art. R*119-7 (M)
+	  - Code de la voirie routière - art. R*119-8 (M)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2002-1251 du 10 octobre 2002 - art. 2 ()
+	  - Décret n°2004-472 du 1 juin 2004 - art. 2 () JORF 2 juin 2004
 
 	**Cité par**:
 
@@ -4758,62 +4776,64 @@ dispositions de l'article 18 de la directive 89/106/CE du Conseil du 21 décembr
 
 ###### Article R**119-5
 
-I. - Les équipements mentionnés au 1° de l'article R. 119-4 ne peuvent être mis sur le marché que s'ils satisfont, tant en ce
-qui concerne leur conception que leur fabrication, aux exigences essentielles de sécurité fixées par la réglementation en
-vigueur.
+I.-Les équipements mentionnés à l'article R. * 119-4 ne peuvent être mis sur le marché que s'ils satisfont, tant en ce qui
+concerne leur conception que leur fabrication, aux exigences essentielles de sécurité fixées par la réglementation en
+vigueur. 
 
 Le respect de ces exigences essentielles de sécurité est attesté par un marquage spécifique à chacune des procédures
 d'attestation de conformité ou d'équivalence décrites aux a, b et c du II et au III du présent article. Ce marquage est
 apposé par les soins du fabricant ou de l'importateur selon les modalités définies par l'arrêté mentionné au IV du même
-article.
+article. 
 
-II. - Ne peuvent être munis du marquage prévu au I du présent article que les équipements dont la conformité à des normes ou
-à d'autres spécifications techniques a été attestée à l'issue de l'une des procédures définies comme suit :
+II.-Ne peuvent être munis du marquage prévu au I du présent article que les équipements dont l'équivalence est attestée selon
+la procédure prévue aux III et IV du présent article ou les équipements dont la conformité à des normes ou à d'autres
+spécifications techniques a été attestée à l'issue de l'une des procédures définies comme suit : 
 
 a) La conformité des équipements à des normes et, le cas échéant, à des spécifications complémentaires qui a été évaluée, par
 des organismes agréés, sur la base d'essais de type et d'une surveillance de la production, est attestée par la délivrance de
-la marque NF "Equipements de la route" par un organisme certificateur habilité, dans les conditions fixées par l'article 15
+la marque NF " Equipements de la route " par un organisme certificateur habilité, dans les conditions fixées par l'article 15
 du décret n° 84-74 du 26 janvier 1984 ;
 
 b) La conformité des équipements à des réglementations techniques, qui a été évaluée dans les mêmes conditions qu'au a ci-
 dessus, est attestée par la délivrance par le ministre chargé de l'équipement, dans les conditions fixées par l'arrêté
-interministériel prévu au IV du présent article, d'une homologation accordée pour une année renouvelable ;
+interministériel prévu au IV du présent article, d'une homologation accordée pour une année renouvelable ; 
 
 c) La conformité des équipements à des normes ou à des réglementations techniques, qui a été évaluée sur la base d'essais de
 type réalisés par un laboratoire agréé et d'un contrôle de la production réalisé par le fabricant, est attestée par une
-déclaration établie par ce dernier dans les conditions fixées par l'arrêté interministériel prévu au IV du présent article.
+déclaration établie par ce dernier dans les conditions fixées par l'arrêté interministériel prévu au IV du présent article. 
 
-Les arrêtés mentionnés à l'article R. 119-4 fixent, pour chaque type d'équipements, celle des procédures prévues aux a, b et
-c ci-dessus qui lui est applicable ainsi que les modalités administratives et techniques particulières à cette procédure pour
-ce type d'équipements.
+Les arrêtés mentionnés à l'article R. * 119-4 fixent, pour chaque type d'équipements, celle des procédures prévues aux a, b
+et c ci-dessus qui lui est applicable ainsi que les modalités administratives et techniques particulières à cette procédure
+pour ce type d'équipements. 
 
-III. - Les équipements routiers fabriqués dans d'autres Etats membres de l'Union européenne ou dans d'autres Etats parties à
+Ces arrêtés fixent également les niveaux d'exigence relatifs aux caractéristiques et aux performances des produits. Ces
+niveaux d'exigence sont définis, selon le mode d'évaluation et d'attestation de conformité prévu, par référence soit aux
+normes françaises publiées au Journal officiel de la République française ou à d'autres normes garantissant un niveau de
+sécurité équivalent, soit à des spécifications techniques fixées dans les mêmes conditions. 
+
+III.-Les équipements routiers fabriqués dans d'autres Etats membres de l'Union européenne ou dans d'autres Etats parties à
 l'accord sur l'Espace économique européen, conformément aux règles techniques ou aux normes en vigueur dans ces Etats, et
 dont la conformité à ces règles ou à ces normes a été évaluée et attestée sur la base d'essais et de contrôles réalisés dans
 ces mêmes Etats, sont réputés équivalents aux équipements conformes aux prescriptions du présent chapitre à la condition
-d'offrir de façon durable des niveaux de sécurité et d'aptitude à l'usage équivalents.
+d'offrir de façon durable des niveaux de sécurité et d'aptitude à l'usage équivalents. 
 
 Une attestation d'équivalence est délivrée par le ministre chargé de l'équipement dans les conditions fixées par l'arrêté
-interministériel mentionné au IV du présent article.
+interministériel mentionné au IV du présent article. 
 
-IV. - Les ministres chargés de l'équipement, de l'intérieur et de l'industrie fixent, par arrêté conjoint, les modalités
+IV.-Les ministres chargés de l'équipement, de l'intérieur et de l'industrie fixent, par arrêté conjoint, les modalités
 générales, administratives et techniques, des procédures d'évaluation de la conformité à des spécifications techniques et
-d'attestation de conformité décrites au II du présent article.
+d'attestation de conformité et d'équivalence décrites aux II et III du présent article. 
 
 Cet arrêté définit les conditions d'agrément, par le ministre chargé de l'équipement, des organismes certificateurs chargés
 de l'homologation des produits, des laboratoires d'essais ainsi que des organismes chargés du contrôle de la production au
 regard, notamment, du respect des normes des séries NF EN 45000 et EN ISO 17000.
 
-**Nota:**
-
-Décret 2002-1251 2002-10-10 art. 4 : Modalités d'entrée en vigueur du chapitre IX du titre I du code de la voirie routière.
-
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Décret n°84-74 du 26 janvier 1984 - art. 15 (M)
-	  - Code de la voirie routière R119-4
+	  - Décret n°84-74 du 26 janvier 1984 - art. 15 (V)
+	  - Code de la voirie routière - art. R*119-4 (V)
 
 	**Codifié par**:
 
@@ -4844,34 +4864,25 @@ Décret 2002-1251 2002-10-10 art. 4 : Modalités d'entrée en vigueur du chapitr
 	  - Code de la voirie routière - art. R*119-8 (M)
 	  - Code de la voirie routière - art. R119-11 (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2002-1251 du 10 octobre 2002 - art. 2 ()
+	  - Décret n°2004-472 du 1 juin 2004 - art. 4 () JORF 2 juin 2004
+
+	**Liens**:
+
+	  - TXT_SOURCE: Directive 98-34 CE 1998-06-22
 
 
 ###### Article R*119-4
 
-Des arrêtés du ministre chargé de l'équipement déterminent :
-
-1° Les types d'équipements routiers qui, mis sur le marché sans marquage CE, sont soumis à des procédures d'attestation de
-conformité à des normes ou à d'autres spécifications techniques ;
-
-2° Les autres types d'équipements qui, non mis sur le marché, doivent répondre à des exigences de performances, compte tenu
-de leur usage.
-
-**Nota:**
-
-Décret 2002-1251 2002-10-10 art. 4 : Modalités d'entrée en vigueur du chapitre IX du titre I du code de la voirie routière.
+Des arrêtés du ministre chargé de l'équipement déterminent les types d'équipements routiers qui, mis sur le marché sans
+marquage CE, sont soumis à des procédures d'attestation de conformité à des normes ou à d'autres spécifications techniques.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°89-631 1989-09-04
-
-	**Créé par**:
-
-	  - Décret n°2002-1251 du 10 octobre 2002 - art. 2 ()
 
 	**Cité par**:
 
@@ -4884,57 +4895,53 @@ Décret 2002-1251 2002-10-10 art. 4 : Modalités d'entrée en vigueur du chapitr
 	  - Code de la voirie routière - art. R*119-6 (V)
 	  - Code de la voirie routière - art. R*119-8 (V)
 
+	**Modifié par**:
+
+	  - Décret n°2004-472 du 1 juin 2004 - art. 3 () JORF 2 juin 2004
+
+	**Liens**:
+
+	  - TXT_SOURCE: Directive 98-34 CE 1998-06-22
+
 
 #### Section 3 : Règles de mise en service
 
 ###### Article R*119-6
 
-Les types d'équipements inscrits dans les arrêtés prévus aux articles R. 119-2 et R. 119-4 font, en tant que de besoin,
-l'objet de prescriptions d'emploi fixées par arrêté conjoint du ministre chargé de l'équipement et du ministre de
-l'intérieur, afin d'imposer le respect d'exigences de sécurité et d'aptitude à l'usage particulières dépendant du type de
-route ou d'ouvrage dans lesquels ces équipements sont utilisés, installés ou incorporés.
-
-Ils font également l'objet, aux mêmes fins, de règles techniques de mise en service dans les conditions fixées aux articles
-R. 119-7 et R. 119-8.
-
-**Nota:**
-
-Décret 2002-1251 2002-10-10 art. 4 : Modalités d'entrée en vigueur du chapitre IX du titre I du code de la voirie routière.
+Les types d'équipements inscrits dans les arrêtés prévus aux articles R.* 119-2, R.* 119-4 et R.* 119-9 font, en tant que de
+besoin, l'objet de prescriptions d'emploi et de règles techniques de mise en oeuvre fixées par arrêté conjoint du ministre
+chargé de l'équipement et du ministre de l'intérieur.
 
 **Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - TXT_SOURCE: Directive 98-34 CE 1998-06-22
 
 	**Codifié par**:
 
 	  - Décret n°89-631 1989-09-04
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2002-1251 du 10 octobre 2002 - art. 2 ()
+	  - Décret n°2004-472 du 1 juin 2004 - art. 5 () JORF 2 juin 2004
 
 	**Cite**:
 
-	  - Code de la voirie routière R119-2, R119-4, R119-7, R119-8
+	  - Code de la voirie routière - art. R*119-2 (V)
+	  - Code de la voirie routière - art. R*119-4 (M)
+	  - Code de la voirie routière - art. R*119-9 (M)
 
 
 ###### Article R*119-7
 
-Les types d'équipements routiers inscrits dans les arrêtés prévus à l'article R. 119-2 ne peuvent être mis en service sur les
-voies du domaine public routier que s'ils sont munis du marquage CE et respectent, le cas échéant, les performances ou les
-classes de performances que le ministre chargé de l'équipement fixe par arrêté.
-
-**Nota:**
-
-Décret 2002-1251 2002-10-10 art. 4 : Modalités d'entrée en vigueur du chapitre IX du titre I du code de la voirie routière.
+Les types d'équipements routiers inscrits dans les arrêtés prévus à l'article R.* 119-2 ne peuvent être mis en service sur
+les voies du domaine public routier que s'ils sont munis du marquage CE et respectent, le cas échéant, les performances ou
+les classes de performances que le ministre chargé de l'équipement fixe par arrêté afin d'imposer le respect d'exigences de
+sécurité et d'aptitude à l'usage, dépendant du type de route ou d'ouvrage dans lesquels ces équipements sont utilisés,
+installés ou incorporés.
 
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°89-631 1989-09-04
-
-	**Créé par**:
-
-	  - Décret n°2002-1251 du 10 octobre 2002 - art. 2 ()
 
 	**Cité par**:
 
@@ -4942,29 +4949,35 @@ Décret 2002-1251 2002-10-10 art. 4 : Modalités d'entrée en vigueur du chapitr
 
 	**Cite**:
 
-	  - Code de la voirie routière R119-2
+	  - Code de la voirie routière - art. R*119-2 (V)
+
+	**Liens**:
+
+	  - TXT_SOURCE: Directive 98-34 CE 1998-06-22
+
+	**Codifié par**:
+
+	  - Décret n°89-631 1989-09-04
+
+	**Modifié par**:
+
+	  - Décret n°2004-472 du 1 juin 2004 - art. 6 () JORF 2 juin 2004
 
 
 ###### Article R*119-8
 
-Les types d'équipements routiers mentionnés au 1° de l'article R. 119-4 ne peuvent être mis en service sur les voies du
-domaine public routier que s'ils bénéficient d'une attestation de conformité obtenue conformément aux dispositions du II de
-l'article R. 119-5 ou d'une attestation d'équivalence obtenue en application du III du même article, et respectent, le cas
-échéant, les exigences de performances que le ministre de l'équipement fixe par arrêté.
-
-**Nota:**
-
-Décret 2002-1251 2002-10-10 art. 4 : Modalités d'entrée en vigueur du chapitre IX du titre I du code de la voirie routière.
+Les types d'équipements routiers mentionnés à l'article R.* 119-4 ne peuvent être mis en service sur les voies du domaine
+public routier que s'ils bénéficient d'une attestation de conformité obtenue conformément aux dispositions du II de l'article
+R.* 119-5 ou d'une attestation d'équivalence obtenue en application du III du même article, et respectent, le cas échéant,
+les exigences de performances que le ministre de l'équipement fixe par arrêté afin d'imposer le respect d'exigences de
+sécurité et d'aptitude à l'usage, dépendant du type de route ou d'ouvrage dans lesquels ces équipements sont utilisés,
+installés ou incorporés.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°89-631 1989-09-04
-
-	**Créé par**:
-
-	  - Décret n°2002-1251 du 10 octobre 2002 - art. 2 ()
 
 	**Cité par**:
 
@@ -4973,36 +4986,42 @@ Décret 2002-1251 2002-10-10 art. 4 : Modalités d'entrée en vigueur du chapitr
 	  - Code de la voirie routière - art. R*119-1 (VD)
 	  - Code de la voirie routière - art. R119-10 (V)
 
+	**Modifié par**:
+
+	  - Décret n°2004-472 2004-06-01 art. 6 I, II JORF 2 juin 2004
+	  - Décret n°2004-472 du 1 juin 2004 - art. 6 () JORF 2 juin 2004
+
 	**Cite**:
 
-	  - Code de la voirie routière - art. R119-5 (M)
-	  - Code de la voirie routière R119-4, R119-5
+	  - Code de la voirie routière - art. R*119-4 (M)
+	  - Code de la voirie routière R*119-4, R*119-5
+
+	**Liens**:
+
+	  - TXT_SOURCE: Directive 98-34 CE 1998-06-22
 
 
 ###### Article R*119-9
 
-Les types d'équipements routiers mentionnés au 2° de l'article R. 119-4 satisfont aux exigences techniques et de performances
-fixées en tant que de besoin par arrêté du ministre chargé de l'équipement. Ces exigences sont définies, selon les différents
-types d'ouvrages :
-
-- soit par référence aux normes ou parties de normes françaises ou à d'autres normes garantissant un niveau de sécurité
-équivalent, publiées au Journal officiel de la République française ;
-
-- soit par des spécifications déterminées par cet arrêté.
-
-**Nota:**
-
-Décret 2002-1251 2002-10-10 art. 4 : Modalités d'entrée en vigueur du chapitre IX du titre I du code de la voirie routière.
+Le ministre chargé de l'équipement détermine, par arrêté, les types d'équipements routiers définis au quatrième alinéa de
+l'article R.* 119-1 qui doivent satisfaire, lors de leur mise en service, à des exigences techniques relatives à leurs
+caractéristiques et performances établies, le cas échéant selon les différents types d'ouvrage, par référence soit aux normes
+françaises publiées au Journal officiel de la République française ou à d'autres normes garantissant un niveau de sécurité
+équivalent, soit à des spécifications techniques fixées par cet arrêté.
 
 **Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - TXT_SOURCE: Directive 98-34 CE 1998-06-22
 
 	**Codifié par**:
 
 	  - Décret n°89-631 1989-09-04
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2002-1251 du 10 octobre 2002 - art. 2 ()
+	  - Décret n°2004-472 du 1 juin 2004 - art. 7 () JORF 2 juin 2004
 
 	**Cité par**:
 
@@ -5010,21 +5029,13 @@ Décret 2002-1251 2002-10-10 art. 4 : Modalités d'entrée en vigueur du chapitr
 	  - Code de la voirie routière - art. R*119-6 (V)
 	  - Code de la voirie routière - art. R119-10 (V)
 
-	**Cite**:
-
-	  - Code de la voirie routière R119-4
-
 
 ###### Article R119-10
 
-Par dérogation aux dispositions des articles R. 119-8 et R. 119-9, des dispositifs innovants ou expérimentaux peuvent, à
-titre exceptionnel et pour une durée limitée, être mis en service sur certaines sections des voies du domaine public routier.
-Des autorisations d'emploi à titre expérimental sont, dans ce cas, accordées aux fabricants ou importateurs par le ministre
-chargé de l'équipement à la demande des gestionnaires de ces voies.
-
-**Nota:**
-
-Décret 2002-1251 2002-10-10 art. 4 : Modalités d'entrée en vigueur du chapitre IX du titre I du code de la voirie routière.
+Par dérogation aux dispositions des articles R.* 119-8 et R.* 119-9, des dispositifs innovants ou expérimentaux peuvent être
+mis en service sur certaines sections des voies du domaine public routier dans les conditions d'expérimentation et d'aptitude
+en service fixées par le ministre chargé de l'équipement. Des autorisations d'emploi à titre expérimental sont, dans ce cas,
+accordées aux fabricants ou importateurs par le ministre chargé de l'équipement à la demande des gestionnaires de ces voies.
 
 **Liens relatifs à cet article**
 
@@ -5039,13 +5050,18 @@ Décret 2002-1251 2002-10-10 art. 4 : Modalités d'entrée en vigueur du chapitr
 	  - Arrêté du 21 septembre 2016 (V)
 	  - Code de la voirie routière - art. R119-11 (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2002-1251 du 10 octobre 2002 - art. 2 ()
+	  - Décret n°2004-472 du 1 juin 2004 - art. 8 () JORF 2 juin 2004
 
 	**Cite**:
 
-	  - Code de la voirie routière R119-8, R119-9
+	  - Code de la voirie routière - art. R*119-8 (M)
+	  - Code de la voirie routière - art. R*119-9 (M)
+
+	**Liens**:
+
+	  - TXT_SOURCE: Directive 98-34 CE 1998-06-22
 
 
 #### Section 4 : Dispositions diverses
