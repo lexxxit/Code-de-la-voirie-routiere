@@ -1,5 +1,5 @@
 # Code de la voirie routière  
-Version Consolidée au 2001-03-31
+Version Consolidée au 2001-06-01
 
 # Partie législative
 
@@ -244,28 +244,35 @@ Les mêmes dispositions s'appliquent aux délaissés résultant d'une modificati
 
 ###### Article L113-1
 
-Le droit de placer en vue du public, par tous les moyens appropriés, des indications ou signaux concernant, à un titre
-quelconque, la circulation n'appartient qu'aux autorités nationales, départementales ou communales chargées des services de
-la voirie.
+Les règles relatives au droit de placer en vue du public des indications ou signaux concernant la circulation sont fixées par
+l'article L. 411-6 du code de la route, ci-après reproduit : 
+
+Art.L. 411-6.-Le droit de placer en vue du public, par tous les moyens appropriés, des indications ou signaux concernant, à
+un titre quelconque, la circulation n'appartient qu'aux autorités chargées des services de la voirie.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°1934-07-03 art. 3 al. 1
 
 	**Codifié par**:
 
 	  - Loi n°89-413 1989-06-22 JORF 24 juin 1989
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°89-413 1989-06-22 jorf 24 juin 1989
+	  - Ordonnance 2000-930 2000-09-22 art. 4 jorf 24 septembre 2000, en vigueur le 1er juin 2001
+	  - Ordonnance n°2000-930 du 22 septembre 2000 - art. 4 ()
 
 	**Cité par**:
 
 	  - Code de la voirie routière - art. L161-2 (V)
 	  - Code de la voirie routière - art. L162-1 (V)
+
+	**Liens**:
+
+	  - PILOTE_SUIVEUR: Code de la route. - art. L411-6 (V)
+
+	**Anciens textes**:
+
+	  - Loi n°1934-07-03 art. 3 al. 1
 
 
 ###### Article L113-2
