@@ -1,5 +1,5 @@
 # Code de la voirie routière  
-Version Consolidée au 1989-06-24
+Version Consolidée au 1989-09-08
 
 # Partie législative
 
@@ -3696,5 +3696,2963 @@ lavage ; compte y sera tenu également, s'il y a lieu, des règles et usages pro
 	**Anciens textes**:
 
 	  - Loi n°1930-05-15 art. 11 (partie)
+
+
+# Partie réglementaire
+
+## TITRE Ier : Dispositions communes aux voies du domaine public routier.
+
+### Chapitre II : Emprise.
+
+#### Section 1 : Alignement.
+
+###### Article R*112-1
+
+Lorsqu'un plan d'alignement a pour effet de frapper d'une servitude de reculement un immeuble inscrit sur l'inventaire
+supplémentaire des monuments historiques, il ne peut être adopté qu'après l'avis du directeur régional des affaires
+culturelles. Cet avis est réputé délivré en l'absence de réponse dans le délai de quatre mois. 
+
+Lorsqu'un plan d'alignement a pour effet de frapper d'une servitude de reculement un immeuble qui est compris dans le champ
+de visibilité d'un édifice classé ou inscrit ou qui est protégé au titre des articles 4,9,17 et 28 de la loi du 2 mai 1930,
+il ne peut être adopté qu'après avis, selon le cas, de l'architecte des Bâtiments de France ou du ministre chargé des sites.
+Cet avis est réputé délivré en l'absence de réponse dans le délai de quatre mois.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°64-262 1964-03-14 art. 11 al. 3
+
+	**Codifié par**:
+
+	  - Décret n°89-631 1989-09-04
+
+	**Créé par**:
+
+	  - Décret n°89-631 1989-09-04 jorf 8 septembre 1989
+
+	**Cite**:
+
+	  - Loi n°1930-05-02 du 2 mai 1930 - art. 4 (Ab)
+
+
+###### Article R*112-2
+
+Le transfert de propriétés des terrains non bâtis et les limitations au droit de propriété des terrains bâtis résultant d'un
+plan d'alignement donnent lieu aux formalités de publicité foncière. Il en va de même du transfert de la propriété du sol
+prévue au deuxième alinéa de l'article L. 112-2.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°89-631 1989-09-04
+
+	**Créé par**:
+
+	  - Décret n°89-631 1989-09-04 jorf 8 septembre 1989
+
+	**Cite**:
+
+	  - Code de la voirie routière - art. L112-2 (V)
+
+	**Cité par**:
+
+	  - Code de la voirie routière - art. R172-1 (V)
+
+
+###### Article R*112-3
+
+Des arrêtés portant règlement de voirie pris par le préfet, le président du conseil général ou le maire, selon qu'il s'agit
+d'une route nationale, d'une route départementale ou d'une voie communale, fixent les dimensions maximales des saillies
+autorisées.
+
+**Nota:**
+
+
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°89-631 1989-09-04
+
+	**Créé par**:
+
+	  - Décret n°89-631 1989-09-04 jorf 8 septembre 1989
+
+
+### Chapitre III : Utilisation.
+
+###### Article R*113-1
+
+En application des dispositions de l'article R. 44 du code de la route, le ministre chargé de la voirie routière nationale et
+le ministre de l'intérieur fixent par arrêté conjoint publié au Journal officiel de la République française les conditions
+dans lesquelles est établie la signalisation routière destinée à porter à la connaissance des usagers la réglementation
+édictée par l'autorité compétente.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°89-631 1989-09-04
+
+	**Créé par**:
+
+	  - Décret n°89-631 1989-09-04 jorf 8 septembre 1989
+
+	**Cité par**:
+
+	  - Code de la voirie routière - art. R*161-2 (V)
+	  - Code de la voirie routière - art. R*162-1 (V)
+
+	**Cite**:
+
+	  - Code de la route - art. R44 (Ab)
+
+
+###### Article R*113-2
+
+Les lignes de télécommunications empruntant le domaine public routier sont établies, après concertation avec l'autorité
+gestionnaire de la voie publique, dans les conditions prévues à l'article D. 407 du code des postes et télécommunications.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code des postes et télécommunications D407
+
+	**Codifié par**:
+
+	  - Décret n°89-631 1989-09-04
+
+	**Créé par**:
+
+	  - Décret n°89-631 1989-09-04 jorf 8 septembre 1989
+
+
+###### Article R*113-3
+
+Les obligations des concessionnaires ou des permissionnaires des réseaux de distribution d'énergie électrique empruntant le
+domaine public routier sont définies par les articles 68, 69, 71 et 72 du décret du 29 juillet 1927 relatif à l'application
+de la loi du 15 juillet 1906 sur la distribution d'énergie.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°1927-07-29 art. 68, 69, 71, 72
+	  - Loi n°1906-07-15
+
+	**Codifié par**:
+
+	  - Décret n°89-631 1989-09-04
+
+	**Créé par**:
+
+	  - Décret n°89-631 1989-09-04 jorf 8 septembre 1989
+
+
+###### Article R*113-4
+
+L'utilisation du domaine public routier par les entreprises de transport de gaz combustible par canalisations est régie par
+les articles 30 et 36 du décret n° 85-1108 du 15 octobre 1985 relatif au régime des transports de gaz combustibles par
+canalisations.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°85-1108 du 15 octobre 1985 - art. 30 (Ab)
+	  - Décret n°85-1108 du 15 octobre 1985 - art. 36 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°89-631 1989-09-04
+
+	**Créé par**:
+
+	  - Décret n°89-631 1989-09-04 jorf 8 septembre 1989
+
+
+###### Article R*113-5
+
+Les redevances pour l'occupation du domaine public routier par les ouvrages de transport et de distribution d'énergie
+électrique sont fixées dans les conditions prévues par le décret n° 56-151 du 27 janvier 1956 pris pour l'application de la
+loi n° 53-661 du 1er août 1953 en ce qui concerne la fixation du régime des redevances pour l'occupation du domaine public
+par les ouvrages de transport et de distribution et par les lignes ou canalisations particulières d'énergie électrique.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°53-661 du 1 août 1953 (V)
+
+	**Codifié par**:
+
+	  - Décret n°89-631 1989-09-04
+
+	**Créé par**:
+
+	  - Décret n°89-631 1989-09-04 jorf 8 septembre 1989
+
+
+###### Article R*113-6
+
+Les redevances pour l'occupation du domaine public routier par les ouvrages de transport et de distribution et par les
+canalisations particulières de gaz combustible sont fixées dans les conditions prévues par le décret n° 58-367 du 2 avril
+1958 pris pour l'application de la loi n° 53-661 du 1er août 1953 en ce qui concerne la fixation du régime des redevances
+pour l'occupation du domaine public par les ouvrages de transport et de distribution et par les canalisations particulières
+de gaz combustible.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°53-661 du 1 août 1953 (V)
+
+	**Codifié par**:
+
+	  - Décret n°89-631 1989-09-04
+
+	**Créé par**:
+
+	  - Décret n°89-631 1989-09-04 jorf 8 septembre 1989
+
+
+###### Article R*113-7
+
+L'utilisation du domaine public routier pour la construction des oléoducs d'intérêt général est régie par les dispositions
+des articles 23,24,25,27,28,29 et 32 du décret n° 59-645 du 16 mai 1959 relatif à l'application de l'article 11 de la loi de
+finances n° 58-336 du 29 mars 1958 relatif à la construction dans la métropole des pipe-lines d'intérêt général destinés aux
+transports d'hydrocarbures liquides ou liquéfiés sous pression.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°59-645 du 16 mai 1959 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°89-631 1989-09-04
+
+	**Créé par**:
+
+	  - Décret n°89-631 1989-09-04 jorf 8 septembre 1989
+
+
+###### Article R*113-8
+
+Les redevances pour l'occupation du domaine public routier par les canalisations d'intérêt général destinées au transport
+d'hydrocarbures liquides ou liquéfiés sous pression sont fixées dans les conditions prévues aux articles 1er à 4 du décret n°
+73-870 du 28 août 1973 pris pour l'application des dispositions de l'article 11 de la loi de finances n° 58-336 du 29 mars
+1958 relatives aux redevances d'occupation du domaine public pour la construction et l'exploitation des pipe-lines d'intérêt
+général.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°58-336 du 29 mars 1958 - art. 1, v. init.
+	  - Décret n°73-870 1973-08-28 art. 1, 2, 3, 4
+
+	**Codifié par**:
+
+	  - Décret n°89-631 1989-09-04
+
+	**Créé par**:
+
+	  - Décret n°89-631 1989-09-04 jorf 8 septembre 1989
+
+
+###### Article R*113-9
+
+L'occupation du domaine public routier par les canalisations de transport de produits chimiques et la redevance due pour
+celle-ci sont soumises aux dispositions des articles 32, 36 et 45 du décret n° 65-881 du 18 octobre 1965 portant application
+de la loi n° 65-498 du 25 juin 1965 relative au transport des produits chimiques par canalisations.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°65-881 du 18 octobre 1965 - art. 32 (V)
+	  - Décret n°65-881 du 18 octobre 1965 - art. 36 (V)
+	  - Décret n°65-881 du 18 octobre 1965 - art. 45 (V)
+	  - Loi n°65-498 1965-06-25
+
+	**Codifié par**:
+
+	  - Décret n°89-631 1989-09-04
+
+	**Créé par**:
+
+	  - Décret n°89-631 1989-09-04 jorf 8 septembre 1989
+
+
+###### Article R*113-10
+
+L'occupation du domaine public routier par les canalisations de transport de chaleur est soumise aux dispositions des
+articles 32, 33 et 34 du décret n° 81-542 du 13 mai 1981 pris pour l'application des titres Ier, II et III de la loi n°
+80-531 du 15 juillet 1980 relative aux économies d'énergie et à l'utilisation de la chaleur.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°80-531 1980-07-15 titre I, II, III
+	  - Décret n°81-542 du 13 mai 1981 - art. 32 (V)
+	  - Décret n°81-542 du 13 mai 1981 - art. 33 (V)
+	  - Décret n°81-542 du 13 mai 1981 - art. 34 (V)
+
+	**Codifié par**:
+
+	  - Décret n°89-631 1989-09-04
+
+	**Créé par**:
+
+	  - Décret n°89-631 1989-09-04 jorf 8 septembre 1989
+
+
+### Chapitre IV : Riveraineté.
+
+#### Section 1 : Servitudes de visibilité.
+
+###### Article R*114-1
+
+L'enquête prévue à l'article L. 114-3 s'effectue dans les formes prescrites pour les plans d'alignement.
+
+Notification du plan est faite aux propriétaires intéressés et l'exercice des servitudes commence à la date de cette
+notification.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°89-631 1989-09-04
+
+	**Créé par**:
+
+	  - Décret n°89-631 1989-09-04 jorf 8 septembre 1989
+
+	**Cite**:
+
+	  - Code de la voirie routière - art. L114-3 (V)
+
+	**Anciens textes**:
+
+	  - Décret-loi 1935-10-30 art. 3 (partie)
+
+
+###### Article R*114-2
+
+L'infraction mentionnée à l'article L. 114-5 est punie des peines d'amende prévues pour les contraventions de la 5e classe.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°89-631 1989-09-04
+
+	**Créé par**:
+
+	  - Décret n°89-631 1989-09-04 jorf 8 septembre 1989
+
+	**Cite**:
+
+	  - Code de la voirie routière - art. L114-5 (V)
+
+	**Anciens textes**:
+
+	  - Décret-loi 1935-10-30 art. 5 (partie)
+
+
+### Chapitre V : Travaux
+
+#### Section unique : Coordination des travaux exécutés sur les voies publiques situées à l'intérieur des agglomérations.
+
+###### Article R*115-1
+
+Le maire fixe chaque année la date à laquelle doivent lui être adressés par les propriétaires, affectataires des voies,
+permissionnaires, concessionnaires et occupants de droit ceux de leurs programmes de travaux qui affectent la voirie. Il fixe
+également les renseignements qui doivent lui être adressés, notamment sur la nature des travaux, leur localisation, la date
+de leur début et leur durée. Les demandes adressées au maire en application du quatrième alinéa de l'article L. 115-1 doivent
+comporter les mêmes renseignements.
+
+La décision du maire est publiée. Elle est notifiée aux personnes mentionnées à l'alinéa 1er ci-dessus.
+
+Deux semaines au moins avant la date fixée par le maire, celui-ci porte à la connaissance des mêmes personnes les projets de
+réfection des voies communales.
+
+Les programmes de travaux mentionnés aux alinéas 1er et 3 ci-dessus distinguent les opérations qui doivent être entreprises
+dans un délai d'un an de celles prévues à plus long terme.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°85-1263 du 27 novembre 1985 - art. 1 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°89-631 1989-09-04
+
+	**Cite**:
+
+	  - Code de la voirie routière - art. L115-1 (V)
+
+	**Cité par**:
+
+	  - Code de la voirie routière - art. R*115-2 (V)
+	  - Code de la voirie routière - art. R*141-12 (V)
+
+
+###### Article R*115-2
+
+Le calendrier établi par le maire, qui comprend l'ensemble des travaux à exécuter sur les voies publiques situées à
+l'intérieur de l'agglomération et sur leurs dépendances, est notifié aux personnes ayant présenté des programmes dans les
+deux mois à compter de la date prévue à l'article R.* 115-1.
+
+Passé ce délai, les travaux peuvent être exécutés aux dates prévues dans ces programmes.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°85-1263 1985-11-27 art. 2 al. 1, 2
+	  - Décret n°85-1263 du 27 novembre 1985 - art. 2 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°89-631 1989-09-04
+
+	**Créé par**:
+
+	  - Décret n°89-631 1989-09-04 jorf 8 septembre 1989
+
+	**Cite**:
+
+	  - Code de la voirie routière - art. R*115-1 (V)
+
+	**Cité par**:
+
+	  - Code de la voirie routière - art. R*141-12 (V)
+	  - Code de la voirie routière - art. R*171-8 (V)
+
+
+###### Article R*115-3
+
+L'arrêté de suspension des travaux prévu au cinquième alinéa de l'article L. 115-1 est notifié à l'entreprise et au maître de
+l'ouvrage. Cet arrêté prévoit les mesures nécessaires pour assurer la sécurité de la circulation ; il peut prescrire la
+remise en état de la voie.
+
+S'il n'est pas satisfait aux mesures prescrites par l'arrêté de suspension des travaux, le maire peut, en cas d'urgence,
+faire exécuter d'office les travaux prescrits par l'arrêté dans les conditions prévues par le deuxième alinéa de l'article L.
+141-11.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°85-1263 du 27 novembre 1985 - art. 4 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°89-631 1989-09-04
+
+	**Créé par**:
+
+	  - Décret n°89-631 1989-09-04 jorf 8 septembre 1989
+
+	**Cite**:
+
+	  - Code de la voirie routière - art. L115-1 (V)
+	  - Code de la voirie routière - art. L141-11 (V)
+
+	**Cité par**:
+
+	  - Code de la voirie routière - art. R*141-12 (V)
+	  - Code des ports maritimes - art. R*115-6 (V)
+
+
+###### Article R*115-4
+
+Lorsque le préfet envisage d'user des pouvoirs qu'il tient du septième alinéa de l'article L. 115-1, il en informe
+préalablement le maire. A défaut de réponse du maire dans un délai de quinze jours ou en cas d'urgence, il peut prescrire les
+mesures prévues par cet article.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°85-1263 du 27 novembre 1985 - art. 5 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°89-631 1989-09-04
+
+	**Créé par**:
+
+	  - Décret n°89-631 1989-09-04 jorf 8 septembre 1989
+
+	**Cite**:
+
+	  - Code de la voirie routière - art. L115-1 (V)
+
+	**Cité par**:
+
+	  - Code de la voirie routière - art. R*141-12 (V)
+
+
+### Chapitre VI : Police de la conservation.
+
+###### Article R*116-1
+
+Les conditions de l'assermentation, prévue à l'article L. 116-2, sont déterminées par un arrêté conjoint du garde des sceaux,
+ministre de la justice, et du ministre chargé de la voirie routière nationale s'il s'agit de la voirie nationale ou du
+ministre de l'intérieur dans les autres cas.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Ordonnance 58-1351 1958-12-27 art. 1 al. 1 (partie)
+
+	**Codifié par**:
+
+	  - Décret n°89-631 1989-09-04
+
+	**Créé par**:
+
+	  - Décret n°89-631 1989-09-04 jorf 8 septembre 1989
+
+	**Cite**:
+
+	  - Code de la voirie routière - art. L116-2 (M)
+
+	**Cité par**:
+
+	  - Code général de la propriété des personnes publ... - art. R2132-1 (V)
+
+
+###### Article R*116-2
+
+Seront punis d'amende prévue pour les contraventions de la cinquième classe ceux qui : [*infraction*]    1° Sans
+autorisation, auront empiété sur le domaine public routier ou accompli un acte portant ou de nature à porter atteinte à
+l'intégrité de ce domaine ou de ses dépendances, ainsi qu'à celle des ouvrages, installations, plantations établis sur ledit
+domaine ;
+
+2° Auront dérobé des matériaux entreposés sur le domaine public routier et ses dépendances pour les besoins de la voirie ;
+
+3° Sans autorisation préalable et d'une façon non conforme à la destination du domaine public routier, auront occupé tout ou
+partie de ce domaine ou de ses dépendances ou y auront effectué des dépôts ;
+
+4° Auront laissé écouler ou auront répandu ou jeté sur les voies publiques des substances susceptibles de nuire à la
+salubrité et à la sécurité publiques ou d'incommoder le public ;
+
+5° En l'absence d'autorisation, auront établi ou laissé croître des arbres ou haies à moins de deux mètres de la limite du
+domaine public routier ;
+
+6° Sans autorisation préalable, auront exécuté un travail sur le domaine public routier ;
+
+7° Sans autorisation, auront creusé un souterrain sous le domaine public routier.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°58-1354 du 27 décembre 1958 - art. 1 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°89-631 1989-09-04
+
+	**Créé par**:
+
+	  - Décret n°89-631 1989-09-04 jorf 8 septembre 1989
+
+	**Cité par**:
+
+	  - Arrêté du 29 mars 2013 - art. 1 (V)
+
+
+## TITRE II : Voirie nationale.
+
+### Chapitre Ier : Dispositions communes aux autoroutes et aux routes nationales.
+
+###### Article R*121-1
+
+L'autorisation prévue à l'article L. 121-2 est délivrée dans les conditions fixées à l'article R. 53 du code du domaine de
+l'Etat.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code du domaine de l'Etat r53 renvoi
+
+	**Codifié par**:
+
+	  - Décret n°89-631 1989-09-04
+
+	**Créé par**:
+
+	  - Décret n°89-631 1989-09-04 jorf 8 septembre 1989
+
+	**Cite**:
+
+	  - Code du domaine de l'Etat R53 Code de la voirie routière L121-2
+
+
+### Chapitre II : Autoroutes.
+
+#### Section 1 : Dispositions générales.
+
+###### Article R*122-1
+
+Le classement dans la catégorie des autoroutes :
+
+D'une route nouvelle ou d'une route projetée ;
+
+D'une route nationale existante,
+
+est prononcé par décret en Conseil d'Etat, pris après enquête publique. Ce décret peut en même temps prononcer la déclaration
+d'utilité publique de la route ainsi classée ou d'une de ses sections.
+
+Le classement dans la catégorie des autoroutes des ouvrages annexes et des raccordements à d'autres voies publiques est
+prononcé par arrêté du préfet, pris après enquête publique, lorsque ces ouvrages sont créés sur une autoroute en service.
+L'ouverture de l'enquête publique est autorisée par le ministre chargé de la voirie routière nationale.
+
+Le classement dans la catégorie des autoroutes d'une route appartenant à une voirie autre que la voirie routière nationale
+est prononcé, selon le cas, dans les formes prévues au premier ou au deuxième alinéa ci-dessus lorsque la collectivité
+territoriale dont la voirie est intéressée, dûment consultée, n'a pas, dans un délai de cinq mois, donné un avis défavorable.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°56-1425 du 27 décembre 1956 - art. 1 (M)
+
+	**Codifié par**:
+
+	  - Décret n°89-631 1989-09-04
+
+	**Créé par**:
+
+	  - Décret n°89-631 1989-09-04 jorf 8 septembre 1989
+
+
+###### Article R*122-2
+
+Le déclassement d'une autoroute est prononcé par décret. Toutefois, en cas de création d'un point d'accès nouveau sur un
+raccordement autoroutier en service, le ministre chargé de la voirie routière nationale peut déclasser par arrêté la portion
+du raccordement située au-delà de ce point d'accès.
+
+Ces actes peuvent, simultanément, prononcer l'incorporation dans une voirie autre que la voirie routière nationale mais dans
+ce dernier cas sous réserve des dispositions de l'article L. 122-5.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°56-1425 1956-12-27 art. 1 al. 1, 2
+	  - Décret n°56-1425 du 27 décembre 1956 - art. 2 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°89-631 1989-09-04
+
+	**Créé par**:
+
+	  - Décret n°89-631 1989-09-04 jorf 8 septembre 1989
+
+	**Cite**:
+
+	  - Code de la voirie routière - art. L122-5 (V)
+
+
+###### Article R*122-3
+
+Les propriétés riveraines des autoroutes ne jouissent du droit de déverser les eaux d'égout des toitures sur les autoroutes
+et du droit d'y déverser les eaux ménagères que sous forme de permissions de voirie prescrivant le cas échéant le paiement
+d'une redevance, qui peuvent être accordées dans les cas exceptionnels où l'administration estimerait que ces déversements ne
+sont pas incompatibles avec les conditions d'établissement et d'exploitation de l'autoroute.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°56-1425 du 27 décembre 1956 - art. 9 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°89-631 1989-09-04
+
+	**Créé par**:
+
+	  - Décret n°89-631 1989-09-04 jorf 8 septembre 1989
+
+
+###### Article R*122-4
+
+Les servitudes destinées à éviter les abus de la publicité prévues à l'article L. 122-2 sont celles de l'article 9 du décret
+n° 76-148 du 11 février 1976.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°76-148 1976-02-11 renvoi à l'article 9
+
+	**Cite**:
+
+	  - Décret n°76-148 du 11 février 1976 - art. 9 (Ab)
+	  - Code de la voirie routière - art. L122-2 (V)
+
+	**Codifié par**:
+
+	  - Décret n°89-631 1989-09-04
+
+	**Créé par**:
+
+	  - Décret n°89-631 1989-09-04 jorf 8 septembre 1989
+
+
+###### Article R*122-5
+
+A l'exception des installations nécessaires à l'exploitation de l'autoroute, aucune autorisation ne peut être accordée pour
+la pose, à l'intérieur des emprises des autoroutes, de canalisations aériennes ou souterraines longitudinales de quelque
+nature que ce soit. Des dérogations peuvent toutefois être accordées par arrêté du ministre chargé de la voirie routière
+nationale pour des canalisations souterraines dans les cas exceptionnels où toute autre solution serait impossible pour leur
+passage et sous réserve que leur implantation ne soit pas de nature à faire obstacle à des améliorations de l'autoroute ou à
+les rendre plus onéreuses.
+
+Les traversées aériennes peuvent être autorisées sous réserve qu'elles satisfassent à la réglementation en vigueur et
+qu'aucun support ne soit implanté dans les emprises de l'autoroute ni qu'aucun point d'une canalisation ne soit à moins de
+huit mètres de hauteur au-dessus du sol de l'autoroute.
+
+Les canalisations autres que les lignes électriques aériennes doivent emprunter les ouvrages d'art existants ; en cas
+d'impossibilité, les dispositions imposées pour la traversée sont précisées dans chaque cas d'espèce par l'arrêté
+d'autorisation.
+
+Les canalisations franchissant une autoroute et préexistantes à la construction de celle-ci doivent être modifiées en
+conformité des dispositions qui précèdent.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°56-1425 du 27 décembre 1956 - art. 12 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°89-631 1989-09-04
+
+	**Créé par**:
+
+	  - Décret n°89-631 1989-09-04 jorf 8 septembre 1989
+
+
+#### Section 2 : Dispositions financières.
+
+##### Sous-section 1 : Caisse nationale des autoroutes.
+
+###### Article R*122-6
+
+La Caisse nationale des autoroutes est un établissement public national à caractère administratif doté de l'autonomie
+financière.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°63-585 1963-06-20 art. 1
+
+	**Codifié par**:
+
+	  - Décret n°89-631 1989-09-04
+
+	**Créé par**:
+
+	  - Décret n°89-631 1989-09-04 jorf 8 septembre 1989
+
+
+###### Article R*122-7
+
+La Caisse nationale des autoroutes est chargée d'émettre des emprunts affectés au financement de la construction ou de
+l'aménagement des autoroutes donnant lieu à la perception des péages et de répartir le produit de ces emprunts entre les
+collectivités ou sociétés ayant reçu la concession de la construction ou de l'exploitation d'autoroutes en application des
+dispositions de l'article L. 122-4.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°63-585 1963-06-20 art. 2
+
+	**Codifié par**:
+
+	  - Décret n°89-631 1989-09-04
+
+	**Créé par**:
+
+	  - Décret n°89-631 1989-09-04 jorf 8 septembre 1989
+
+	**Cite**:
+
+	  - Code de la voirie routière - art. L122-4 (M)
+
+	**Cité par**:
+
+	  - Code de la voirie routière - art. R*122-10 (V)
+
+
+###### Article R*122-8
+
+La caisse est administrée par un conseil de huit membres qui comprend :
+
+a) Deux représentants du ministre chargé de la voirie routière nationale ;
+
+b) Deux représentants du ministre de l'économie et des finances ;
+
+c) Un représentant du ministre de l'intérieur ;
+
+d) Le commissaire général au Plan ou son représentant désigné à titre permanent ;
+
+e) Le directeur général de la Caisse des dépôts et consignations ou son représentant désigné à titre permanent ;
+
+f) Un président de société d'économie mixte concessionnaire d'autoroutes désigné par arrêté du ministre chargé de la voirie
+routière nationale.
+
+Le président et le vice-président du conseil d'administration, choisis parmi les membres de celui-ci, sont désignés par
+arrêté conjoint du ministre de l'économie et des finances et du ministre chargé de la voirie routière nationale.
+
+En cas de partage égal des voix, le président du conseil d'administration a voix prépondérante.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°63-585 1963-06-20 art. 3
+
+	**Codifié par**:
+
+	  - Décret n°89-631 1989-09-04
+
+	**Créé par**:
+
+	  - Décret n°89-631 1989-09-04 jorf 8 septembre 1989
+
+
+###### Article R*122-9
+
+Le conseil d'administration règle les affaires de la caisse. Il délibère notamment sur les points suivants :
+
+a) Budget et compte financier ;
+
+b) Montant et caractéristiques des emprunts à émettre ;
+
+c) Affectation du produit des emprunts ;
+
+d) Etablissement des comptes annuels.
+
+Le conseil d'administration se réunit sur convocation de son président et au moins une fois par an.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°63-585 1963-06-20 art. 4
+
+	**Codifié par**:
+
+	  - Décret n°89-631 1989-09-04
+
+	**Créé par**:
+
+	  - Décret n°89-631 1989-09-04 jorf 8 septembre 1989
+
+
+###### Article R*122-10
+
+Les ressources de la caisse comprennent :
+
+a) Le produit des emprunts qu'elle émet avec l'autorisation du ministre de l'économie et des finances ;
+
+b) Les sommes versées par les concessionnaires mentionnés à l'article R.* 122-7 en vue d'assurer le service desdits emprunts
+et de couvrir les frais de fonctionnement de la caisse ;
+
+c) Des ressources de trésorerie.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°63-585 1963-06-20 art. 5
+
+	**Codifié par**:
+
+	  - Décret n°89-631 1989-09-04
+
+	**Créé par**:
+
+	  - Décret n°89-631 1989-09-04 jorf 8 septembre 1989
+
+	**Cite**:
+
+	  - Code de la voirie routière - art. R*122-7 (V)
+
+
+###### Article R*122-11
+
+La caisse met le produit de ses emprunts à la disposition des concessionnaires d'autoroutes. Après accord du ministre de
+l'économie et des finances et du ministre chargé de la voirie routière nationale, les versements sont effectués sur ordre du
+président du conseil d'administration ou de toute personne mandatée par lui à cet effet.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°63-585 1963-06-20 art. 6
+
+	**Codifié par**:
+
+	  - Décret n°89-631 1989-09-04
+
+	**Créé par**:
+
+	  - Décret n°89-631 1989-09-04 jorf 8 septembre 1989
+
+
+###### Article R*122-12
+
+Le président du conseil d'administration représente la caisse en justice et dans tous les actes de la vie civile.
+
+Il a la qualité d'ordonnateur.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°63-585 1963-06-20 art. 7, 8 al. 2
+
+	**Codifié par**:
+
+	  - Décret n°89-631 1989-09-04
+
+	**Créé par**:
+
+	  - Décret n°89-631 1989-09-04 jorf 8 septembre 1989
+
+
+###### Article R*122-13
+
+Le fonctionnement financier et comptable de la caisse est assuré dans les conditions prévues par le décret n° 62-1587 du 29
+décembre 1962 portant règlement général sur la comptabilité publique selon les modalités définies ci-après.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°62-1587 1962-12-29
+
+	**Anciens textes**:
+
+	  - Décret n°63-585 1963-06-20 art. 8 al. 1
+
+	**Codifié par**:
+
+	  - Décret n°89-631 1989-09-04
+
+	**Créé par**:
+
+	  - Décret n°89-631 1989-09-04 jorf 8 septembre 1989
+
+
+###### Article R*122-14
+
+Sous le contrôle du conseil d'administration, la Caisse des dépôts et consignations assure la gestion administrative des
+opérations de la Caisse nationale des autoroutes dans les conditions fixées par une convention qui est conclue entre les deux
+établissements.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°63-585 1963-06-20 art. 9
+
+	**Codifié par**:
+
+	  - Décret n°89-631 1989-09-04
+
+	**Créé par**:
+
+	  - Décret n°89-631 1989-09-04 jorf 8 septembre 1989
+
+
+###### Article R*122-15
+
+L'agent comptable de la Caisse nationale des autoroutes est nommé par arrêté conjoint du ministre de l'économie et des
+finances et du ministre chargé de la voirie routière nationale.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°63-585 1963-06-20 art. 10
+
+	**Codifié par**:
+
+	  - Décret n°89-631 1989-09-04
+
+	**Créé par**:
+
+	  - Décret n°89-631 1989-09-04 jorf 8 septembre 1989
+
+
+##### Sous-section 2 : Autoroutes de France.
+
+###### Article R*122-16
+
+L'établissement public national dénommé Autoroutes de France a le caractère administratif et est doté de la personnalité
+morale et de l'autonomie financière.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°83-774 1983-08-31 art. 1
+
+	**Codifié par**:
+
+	  - Décret n°89-631 1989-09-04
+
+	**Créé par**:
+
+	  - Décret n°89-631 1989-09-04 jorf 8 septembre 1989
+
+
+###### Article R*122-17
+
+Cet établissement a pour mission, dans les conditions fixées par les articles L. 122-7 à L. 122-11, d'assurer une péréquation
+des ressources des sociétés d'économie mixte concessionnaires d'autoroutes et de contribuer ainsi à l'équilibre de leur
+trésorerie.
+
+Il peut faire des apports en fonds propres à ces sociétés, notamment sous la forme de prises de participations et d'avances
+d'actionnaires.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°83-774 1983-08-31 art. 2 (partie)
+
+	**Codifié par**:
+
+	  - Décret n°89-631 1989-09-04
+
+	**Créé par**:
+
+	  - Décret n°89-631 1989-09-04 jorf 8 septembre 1989
+
+	**Cite**:
+
+	  - Code de la voirie routière - art. L122-10 (V)
+	  - Code de la voirie routière - art. L122-11 (V)
+	  - Code de la voirie routière - art. L122-7 (V)
+	  - Code de la voirie routière - art. L122-8 (V)
+	  - Code de la voirie routière - art. L122-9 (V)
+
+
+###### Article R*122-18
+
+L'établissement est administré par un conseil d'administration de douze membres. Ce conseil d'administration comprend :
+
+a) Un président, désigné par décret parmi les membres du Conseil d'Etat, de la Cour des comptes ou de l'inspection générale
+des finances ;
+
+b) Deux parlementaires désignés pour trois ans, l'un par l'Assemblée nationale, l'autre par le Sénat ;
+
+c) Un conseiller régional désigné pour trois ans par l'association nationale des élus régionaux ;
+
+d) Un conseiller général désigné pour trois ans par l'assemblée des présidents de conseils généraux ;
+
+e) Le directeur des routes, vice-président ;
+
+f) Le directeur du Trésor ou son représentant ;
+
+g) Le directeur général de la concurrence, de la consommation et de la répression des fraudes ou son représentant ;
+
+h) Le directeur du budget ou son représentant ;
+
+i) Le directeur de la comptabilité publique ou son représentant ;
+
+j) Le directeur général de la Caisse des dépôts et consignations ou son représentant ;
+
+k) Un membre désigné par arrêté du ministre chargé de la voirie routière nationale parmi les présidents de sociétés
+d'économie mixte concessionnaires d'autoroutes.
+
+Le président et le membre choisi parmi les présidents des sociétés sont nommés pour une durée de trois ans renouvelable. En
+cas de vacance d'un siège pour quelque cause que ce soit, un autre membre est nommé dans les mêmes conditions jusqu'à
+l'expiration du mandat en cours.
+
+Les fonctions de président et d'administrateur ne sont pas rémunérées.
+
+Le conseil d'administration se réunit au moins deux fois par an sur convocation de son président.
+
+Les délibérations sont prises à la majorité simple des membres présents. En cas de partage égal des voix, celle du président
+est prépondérante.
+
+Le contrôleur financier et l'agent comptable assistent avec voix consultative aux délibérations du conseil d'administration.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°83-774 1983-08-31 art. 3
+
+	**Codifié par**:
+
+	  - Décret n°89-631 1989-09-04
+
+	**Créé par**:
+
+	  - Décret n°89-631 1989-09-04 jorf 8 septembre 1989
+
+
+###### Article R*122-19
+
+Le conseil d'administration règle les affaires de l'établissement *attributions*.
+
+Il délibère notamment sur son budget, sur son compte financier ainsi que sur ses opérations financières.
+
+Il vérifie et arrête le montant des sommes qui reviennent à l'établissement en vertu de l'article L. 122-7 ; à cet effet, le
+président et le contrôleur financier peuvent se faire communiquer toutes les justifications utiles ainsi que tous documents
+relatifs à la gestion et aux comptes des sociétés d'économie mixte concessionnaires d'autoroutes.
+
+Il arrête les conditions des avances qu'il accorde aux sociétés d'économie mixte concessionnaires d'autoroutes bénéficiaires
+de ces concours, ainsi que de ses apports en fonds propres.
+
+Sous réserve des dispositions de l'article R. 122-23, ses délibérations sont exécutoires de plein droit, sauf opposition,
+dans le délai de quinze jours, du ministre chargé de la voirie routière nationale ou du ministre chargé de l'économie et des
+finances.
+
+Le budget de l'établissement et ses comptes annuels sont approuvés par le ministre de l'économie et des finances.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°83-774 1983-08-31 art. 4
+
+	**Codifié par**:
+
+	  - Décret n°89-631 1989-09-04
+
+	**Créé par**:
+
+	  - Décret n°89-631 1989-09-04 jorf 8 septembre 1989
+
+	**Cite**:
+
+	  - Code de la voirie routière - art. L122-7 (V)
+	  - Code de la voirie routière L122-7, R122-23
+
+
+###### Article R*122-20
+
+Les ressources de l'établissement comprennent notamment :
+
+a) Les sommes versées par les sociétés d'économie mixte concessionnaires d'autoroutes, conformément aux dispositions de
+l'article L. 122-7 ;
+
+b) Le produit d'avances reçues de l'Etat ;
+
+c) Le produit d'emprunts ;
+
+d) Les dotations reçues de l'Etat.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°83-774 1983-08-31 art. 5
+
+	**Codifié par**:
+
+	  - Décret n°89-631 1989-09-04
+
+	**Créé par**:
+
+	  - Décret n°89-631 1989-09-04 jorf 8 septembre 1989
+
+	**Cite**:
+
+	  - Code de la voirie routière - art. L122-7 (V)
+
+
+###### Article R*122-21
+
+Sous le contrôle du conseil d'administration, la Caisse des dépôts et consignations assure la gestion de l'établissement dans
+les conditions définies par une convention passée avec celui-ci. Son directeur général désigne l'ordonnateur de
+l'établissement public parmi les agents de la caisse.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°83-774 1983-08-31 art. 6
+
+	**Codifié par**:
+
+	  - Décret n°89-631 1989-09-04
+
+	**Créé par**:
+
+	  - Décret n°89-631 1989-09-04 jorf 8 septembre 1989
+
+	**Cité par**:
+
+	  - Code de la voirie routière - art. R*122-26 (V)
+
+
+###### Article R*122-22
+
+Le président du conseil d'administration représente l'établissement en justice et dans tous les actes de la vie civile.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°83-774 1983-08-31 art. 7
+
+	**Codifié par**:
+
+	  - Décret n°89-631 1989-09-04
+
+	**Créé par**:
+
+	  - Décret n°89-631 1989-09-04 jorf 8 septembre 1989
+
+
+###### Article R*122-23
+
+Le fonctionnement financier et comptable de l'établissement est assuré dans les conditions prévues par les décrets n° 62-1587
+du 29 décembre 1962 et n° 53-1227 du 10 décembre 1953.
+
+La comptabilité de l'établissement est distincte de celle de la Caisse des dépôts et consignations.
+
+Les fonds de l'établissement sont déposés en compte propre au Trésor.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°53-1227 1953-12-10
+	  - Décret n°62-1587 1962-12-29
+
+	**Anciens textes**:
+
+	  - Décret n°83-774 1983-08-31 art. 8
+
+	**Codifié par**:
+
+	  - Décret n°89-631 1989-09-04
+
+	**Créé par**:
+
+	  - Décret n°89-631 1989-09-04 jorf 8 septembre 1989
+
+	**Cité par**:
+
+	  - Code de la voirie routière - art. R*122-19 (V)
+
+
+###### Article R*122-24
+
+L'agent comptable de l'établissement est nommé par arrêté du ministre de l'économie et des finances.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°83-774 1983-08-31 art. 9
+
+	**Codifié par**:
+
+	  - Décret n°89-631 1989-09-04
+
+	**Créé par**:
+
+	  - Décret n°89-631 1989-09-04 jorf 8 septembre 1989
+
+
+###### Article R*122-25
+
+L'établissement est soumis au contrôle financier de l'Etat prévu par le décret du 25 octobre 1935 instituant le contrôle des
+établissements publics autonomes de l'Etat ; un arrêté du ministre de l'économie et des finances détermine en tant que de
+besoin les modalités d'exercice de ce contrôle.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°1935-10-25
+
+	**Anciens textes**:
+
+	  - Décret n°83-774 1983-08-31 art. 10
+
+	**Codifié par**:
+
+	  - Décret n°89-631 1989-09-04
+
+	**Créé par**:
+
+	  - Décret n°89-631 1989-09-04 jorf 8 septembre 1989
+
+
+###### Article R*122-26
+
+L'établissement rembourse chaque année à la Caisse des dépôts et consignations les dépenses afférentes à sa gestion dans les
+conditions définies par la convention prévue à l'article R.* 122-21.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°83-774 1983-08-31 art. 11
+
+	**Codifié par**:
+
+	  - Décret n°89-631 1989-09-04
+
+	**Créé par**:
+
+	  - Décret n°89-631 1989-09-04 jorf 8 septembre 1989
+
+	**Cite**:
+
+	  - Code de la voirie routière - art. R*122-21 (M)
+
+
+### Chapitre III : Routes nationales.
+
+#### Section 1 : Classement et déclassement.
+
+###### Article R*123-1
+
+Le classement dans la voirie nationale d'une route nouvelle ou d'une route existante non classée dans la voirie d'une
+collectivité territoriale résulte soit de l'acte déclaratif d'utilité publique soit, s'il n'y a pas lieu à déclaration
+d'utilité publique, d'un arrêté du ministre chargé de la voirie routière nationale.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°73-981 1973-10-18 art. 1
+
+	**Codifié par**:
+
+	  - Décret n°89-631 1989-09-04
+
+	**Créé par**:
+
+	  - Décret n°89-631 1989-09-04 jorf 8 septembre 1989
+
+
+###### Article R*123-2
+
+Le déclassement d'une route nationale est prononcé par arrêté du ministre chargé de la voirie routière nationale.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°73-981 1973-10-18 art. 3
+
+	**Codifié par**:
+
+	  - Décret n°89-631 1989-09-04
+
+	**Créé par**:
+
+	  - Décret n°89-631 1989-09-04 jorf 8 septembre 1989
+
+
+#### Section 2 : Alignement.
+
+###### Article R*123-3
+
+L'enquête préalable à l'approbation des plans d'alignement des routes nationales s'effectue dans les conditions fixées aux
+articles R. 11-19 à R. 11-27 du code de l'expropriation pour cause d'utilité publique. Toutefois, le dossier soumis à enquête
+comprend outre les pièces prévues à l'article R. 11-19 dudit code, une notice explicative.
+
+Les intéressés peuvent faire connaître leurs observations sur le projet.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°62-1245 1962-10-20 art. 1 (partie)
+
+	**Codifié par**:
+
+	  - Décret n°89-631 1989-09-04
+
+	**Créé par**:
+
+	  - Décret n°89-631 1989-09-04 jorf 8 septembre 1989
+
+	**Cite**:
+
+	  - Code de l'expropriation  pour cause d'utilité publique R11-19 à R11-27
+
+
+###### Article R*123-4
+
+Dans le cas où, en vue de la réalisation des alignements, il est nécessaire d'exproprier des immeubles bâtis, et quel que
+soit le délai écoulé depuis l'approbation du plan d'alignement, le préfet prend, sans autre enquête ni formalité, l'arrêté de
+cessibilité prévu aux articles L. 11-8 et R. 11-28 du code de l'expropriation pour cause d'utilité publique. 
+
+Il est ensuite procédé conformément aux dispositions des chapitres II et suivants du titre Ier du même code. 
+
+Toutefois le dossier prévu à l'article R. 12-1 du code de l'expropriation pour cause d'utilité publique est remplacé par un
+dossier comprenant les copies certifiées conformes : 
+
+a) De l'acte approuvant le plan d'alignement ; 
+
+b) D'un extrait du plan d'alignement se rapportant aux immeubles bâtis à exproprier ; 
+
+c) De l'arrêté de cessibilité ayant moins de six mois de date.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°62-1245 du 20 octobre 1962 - art. 3 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°89-631 1989-09-04
+
+	**Créé par**:
+
+	  - Décret n°89-631 1989-09-04 jorf 8 septembre 1989
+
+	**Cite**:
+
+	  - Code de l'expropriation pour cause d'utilité pu... - art. **R11-28 (V)
+	  - Code de l'expropriation pour cause d'utilité pu... - art. L11-8 (VT)
+	  - Code de l'expropriation pour cause d'utilité pu... - art. R12-1 (V)
+
+
+#### Section 3 : Disposition relative à la création de voies accédant aux routes nationales.
+
+###### Article R*123-5
+
+L'agrément prévu à l'article L. 123-8 est donné par le préfet.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°89-631 1989-09-04
+
+	**Créé par**:
+
+	  - Décret n°89-631 1989-09-04 jorf 8 septembre 1989
+
+	**Cite**:
+
+	  - Code de la voirie routière - art. L123-8 (V)
+
+	**Anciens textes**:
+
+	  - Décret-loi 1938-05-24 art. 4 (partie)
+
+
+## TITRE III : Voirie départementale.
+
+### Chapitre unique.
+
+###### Article R*131-1
+
+Les profils en long et en travers des routes départementales doivent être établis de manière à permettre l'écoulement des
+eaux pluviales et l'assainissement de la plate-forme.
+
+Sous les ouvrages d'art qui franchissent une route départementale un tirant d'air d'au moins 4,30 mètres doit être réservé
+sur toute la largeur de la chaussée.
+
+Les caractéristiques techniques de la chaussée doivent, sur une même voie, être homogènes en matière de déclivité et de rayon
+des courbes.
+
+Les modalités d'application du présent article sont fixées par arrêté conjoint du ministre chargé de la voirie routière
+nationale et du ministre de l'intérieur.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°89-631 1989-09-04
+
+	**Créé par**:
+
+	  - Décret n°89-631 1989-09-04 jorf 8 septembre 1989
+
+
+###### Article R*131-2
+
+Le président du conseil général peut interdire d'une manière temporaire ou permanente l'usage de tout ou partie du réseau des
+routes départementales aux catégories de véhicules dont les caractéristiques sont incompatibles avec la constitution de ces
+routes, et notamment avec la résistance et la largeur de la chaussée ou des ouvrages d'art.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°89-631 1989-09-04
+
+	**Créé par**:
+
+	  - Décret n°89-631 1989-09-04 jorf 8 septembre 1989
+
+
+###### Article R*131-3
+
+Lorsque les travaux relatifs à la voirie départementale doivent donner lieu à enquête publique en application de la loi du 12
+juillet 1983 et du décret n° 85-453 du 23 avril 1985, cette enquête est organisée par le président du conseil général
+conformément aux dispositions des chapitres Ier et II dudit décret.
+
+Toutefois, lorsque ces travaux doivent donner lieu à déclaration d'utilité publique, l'enquête est organisée par le préfet
+conformément aux dispositions des articles R. 11-14-1 à R. 11-14-15 du code de l'expropriation pour cause d'utilité publique.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°1938-10-25 article 13 ajouté par le décret 85-453 du 23 avril 1985
+
+	**Cite**:
+
+	  - Loi n°83-630 1983-07-12
+	  - Décret n°85-453 1985-04-23
+	  - Code de l'expropriation pour cause d'utilité publique R11-14-1 à R11-14-15
+
+	**Codifié par**:
+
+	  - Décret n°89-631 1989-09-04
+
+	**Créé par**:
+
+	  - Décret n°89-631 1989-09-04 jorf 8 septembre 1989
+
+	**Nouveaux textes**:
+
+	  - Code de la voirie routière R.131-9
+
+
+###### Article R*131-4
+
+A l'extérieur des agglomérations le président du conseil général exerce les compétences qu'il tient de l'article L. 131-7 en
+matière de coordination des travaux sur les routes départementales dans les mêmes conditions que celles fixées pour le maire
+aux articles R. 115-1 à R. 115-4.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°85-1262 du 27 novembre 1985 - art. 7 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°89-631 1989-09-04
+
+	**Créé par**:
+
+	  - Décret n°89-631 1989-09-04 jorf 8 septembre 1989
+
+	**Cite**:
+
+	  - Code de la voirie routière - art. L131-7 (V)
+	  - Code de la voirie routière L131-7, R115-1, R115-2, R115-3, R115-4
+
+	**Nouveaux textes**:
+
+	  - Code de la voirie routière R.131-10
+
+
+###### Article R*131-5
+
+Les dispositions des articles R. 141-13 à R. 141-21 relatives aux modalités d'exécution des travaux de réfection des voies
+communales et aux évaluations des frais en résultant sont applicables aux travaux de remblaiement des tranchées ouvertes dans
+les routes départementales et aux travaux de réfection de celles-ci, sous réserve des adaptations ci-après :
+
+1° Le département est substitué à la commune ; le conseil général et le président du conseil général sont substitués
+respectivement au conseil municipal et au maire ;
+
+2° Pour l'application de l'article R. 141-20, les prix de référence sont ceux qui sont constatés dans les marchés passés par
+le département ou, à défaut, les prix constatés couramment dans le département.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°85-1262 du 27 novembre 1985 - art. 10 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°89-631 1989-09-04
+
+	**Créé par**:
+
+	  - Décret n°89-631 1989-09-04 jorf 8 septembre 1989
+
+	**Nouveaux textes**:
+
+	  - Code de la voirie routière R.131-11
+
+	**Cite**:
+
+	  - Code de la voirie routière R141-13 à R141-21
+
+
+## TITRE IV : Voirie communale.
+
+### Chapitre unique
+
+#### Section 1 : Emprise du domaine public routier communal.
+
+##### Sous-section 1 : Alignement et caractéristiques techniques.
+
+###### Article R*141-1
+
+L'enquête préalable à l'établissement d'un plan d'alignement a lieu conformément aux dispositions des articles R.* 141-4 et
+suivants.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°89-631 1989-09-04
+
+	**Créé par**:
+
+	  - Décret n°89-631 1989-09-04 jorf 8 septembre 1989
+
+	**Cite**:
+
+	  - Code de la voirie routière - art. R*141-4 (V)
+
+
+###### Article R*141-2
+
+Les profils en long et en travers des voies communales doivent être établis de manière à permettre l'écoulement des eaux
+pluviales et l'assainissement de la plate-forme.
+
+Sous les ouvrages d'art qui franchissent une voie communale, un tirant d'air d'au moins 4,30 mètres doit être réservé sur
+toute la largeur de la chaussée.
+
+Les caractéristiques techniques de la chaussée doivent, sur une même voie, être homogènes en matière de déclivité et de rayon
+des courbes.
+
+Les modalités d'application du présent article sont fixées par arrêté conjoint du ministre chargé de la voirie routière
+nationale et du ministre de l'intérieur.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°64-262 1964-03-14 art. 1, 2, 3
+
+	**Codifié par**:
+
+	  - Décret n°89-631 1989-09-04
+
+	**Créé par**:
+
+	  - Décret n°89-631 1989-09-04 jorf 8 septembre 1989
+
+
+###### Article R*141-3
+
+Le maire peut interdire d'une manière temporaire ou permanente l'usage de tout ou partie du réseau des voies communales aux
+catégories de véhicules dont les caractéristiques sont incompatibles avec la constitution de ces voies, et notamment avec la
+résistance et la largeur de la chaussée ou des ouvrages d'art.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°64-262 1964-03-14 art. 6
+
+	**Codifié par**:
+
+	  - Décret n°89-631 1989-09-04
+
+	**Créé par**:
+
+	  - Décret n°89-631 1989-09-04 jorf 8 septembre 1989
+
+
+##### Sous-section 2 : Enquête publique relative au classement, à l'ouverture, au redressement, à la fixation de la largeur et au déclassement des voies communales.
+
+###### Article R*141-4
+
+L'enquête publique prévue au deuxième alinéa de l'article L. 141-3 s'effectue dans les conditions fixées par la présente
+sous-section.
+
+Un arrêté du maire désigne un commissaire enquêteur et précise l'objet de l'enquête, la date à laquelle celle-ci sera ouverte
+et les heures et le lieu où le public pourra prendre connaissance du dossier et formuler ses observations.
+
+La durée de l'enquête est fixée à quinze jours.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°76-790 1976-08-20 art. 1, 3, 4 (première phrase)
+	  - Décret n°76-790 du 20 août 1976 - art. 1 (Ab)
+	  - Décret n°76-790 du 20 août 1976 - art. 3 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°89-631 1989-09-04
+
+	**Créé par**:
+
+	  - Décret n°89-631 1989-09-04 jorf 8 septembre 1989
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. R*318-10 (V)
+	  - Code de la voirie routière - art. R*141-1 (V)
+
+	**Cite**:
+
+	  - Code de la voirie routière - art. L141-3 (M)
+
+
+###### Article R*141-5
+
+Quinze jours au moins avant l'ouverture de l'enquête et durant toute la durée de celle-ci, l'arrêté du maire est publié par
+voie d'affiche et éventuellement par tout autre procédé.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°76-790 1976-08-20 art. 4 (deuxième phrase)
+
+	**Codifié par**:
+
+	  - Décret n°89-631 1989-09-04
+
+	**Créé par**:
+
+	  - Décret n°89-631 1989-09-04 jorf 8 septembre 1989
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. R*318-10 (V)
+
+
+###### Article R*141-6
+
+Le dossier d'enquête comprend :
+
+a) Une notice explicative ;
+
+b) Un plan de situation ;
+
+c) S'il y a lieu, une appréciation sommaire par nature de dépense à effectuer ;
+
+d) L'étude d'impact, lorsqu'elle est prévue par la réglementation en vigueur.
+
+Lorsque le projet mis à l'enquête est relatif à la délimitation ou à l'alignement des voies communales, il comprend en
+outre :
+
+a) Un plan parcellaire comportant l'indication d'une part des limites existantes de la voie communale, des parcelles
+riveraines et des bâtiments existants, d'autre part des limites projetées de la voie communale ;
+
+b) La liste des propriétaires des parcelles comprises, en tout ou partie, dans l'emprise du projet ;
+
+c) Eventuellement, un projet de plan de nivellement.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°76-790 du 20 août 1976 - art. 2 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°89-631 1989-09-04
+
+	**Créé par**:
+
+	  - Décret n°89-631 1989-09-04 jorf 8 septembre 1989
+
+
+###### Article R*141-7
+
+Une notification individuelle du dépôt du dossier à la mairie est faite aux propriétaires des parcelles comprises en tout ou
+partie dans l'emprise du projet, sous pli recommandé, avec demande d'avis de réception lorsque leur domicile est connu ou à
+leurs mandataires, gérants administrateurs ou syndics.
+
+Lorsque leur domicile est inconnu la notification est faite, le cas échéant, aux locataires et preneurs à bail rural.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°76-790 du 20 août 1976 - art. 5 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°89-631 1989-09-04
+
+	**Créé par**:
+
+	  - Décret n°89-631 1989-09-04 jorf 8 septembre 1989
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. R*318-10 (V)
+
+
+###### Article R*141-8
+
+Les observations formulées par le public sont recueillies sur un registre spécialement ouvert à cet effet. Ce registre, à
+feuillets non mobiles, est coté et paraphé par le commissaire enquêteur.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°76-790 du 20 août 1976 - art. 6 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°89-631 1989-09-04
+
+	**Créé par**:
+
+	  - Décret n°89-631 1989-09-04 jorf 8 septembre 1989
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. R*318-11 (V)
+
+
+###### Article R*141-9
+
+A l'expiration du délai d'enquête, le registre d'enquête est clos et signé par le commissaire enquêteur qui dans le délai
+d'un mois transmet au maire le dossier et le registre accompagnés de ses conclusions motivées.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°76-790 du 20 août 1976 - art. 7 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°89-631 1989-09-04
+
+	**Créé par**:
+
+	  - Décret n°89-631 1989-09-04 jorf 8 septembre 1989
+
+
+###### Article R*141-10
+
+Lorsque des travaux intéressant la voirie communale donnent lieu à enquête publique en application de la loi n° 83-630 du 12
+juillet 1983 et du décret n° 85-453 du 23 avril 1985, cette enquête est organisée :
+
+a) Par le maire, dans les conditions fixées aux chapitres Ier et II du décret du 23 avril 1985 précité, quand les travaux ne
+donnent pas lieu à expropriation ;
+
+b) Par le préfet, dans les conditions fixées aux articles R. 11-14-1 à R. 11-14-15 du code de l'expropriation pour cause
+d'utilité publique, dans le cas contraire.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°83-630 1983-07-12
+	  - Décret n°85-453 1985-04-23 chapitre I, II
+	  - Code de l'expropriation pour cause d'utilité publique R11-14-1 à R11-14-15
+
+	**Codifié par**:
+
+	  - Décret n°89-631 1989-09-04
+
+	**Créé par**:
+
+	  - Décret n°89-631 1989-09-04 jorf 8 septembre 1989
+
+
+##### Sous-section 3 : Publicité foncière.
+
+###### Article R*141-11
+
+Le transfert des propriétés des terrains non bâtis résultant de la délibération du conseil municipal décidant le redressement
+ou l'élargissement d'une voie existante donne lieu aux formalités de publicité foncière.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°89-631 1989-09-04
+
+	**Créé par**:
+
+	  - Décret n°89-631 1989-09-04 jorf 8 septembre 1989
+
+	**Cité par**:
+
+	  - Code de la voirie routière - art. R172-1 (V)
+
+
+#### Section 3 : Coordination des travaux exécutés sur les voies communales situées à l'extérieur des agglomérations.
+
+###### Article R*141-12
+
+Les compétences confiées au maire en vertu des dispositions de l'article L. 141-10 pour la coordination des travaux sur les
+voies communales situées à l'extérieur des agglomérations s'exercent dans les conditions définies aux articles R.* 115-1 à
+R.* 115-4.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°85-1263 du 27 novembre 1985 - art. 6 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°89-631 1989-09-04
+
+	**Créé par**:
+
+	  - Décret n°89-631 1989-09-04 jorf 8 septembre 1989
+
+	**Cite**:
+
+	  - Code de la voirie routière - art. L141-10 (V)
+	  - Code de la voirie routière - art. R*115-1 (V)
+	  - Code de la voirie routière - art. R*115-2 (V)
+	  - Code de la voirie routière - art. R*115-3 (V)
+	  - Code de la voirie routière - art. R*115-4 (V)
+
+
+#### Section 4 : Dispositions relatives aux travaux affectant le sol et le sous-sol des voies communales.
+
+###### Article R*141-13
+
+Le remblaiement des tranchées ouvertes dans les voies communales est assuré par les personnes qui ont été autorisées à
+exécuter les travaux, ci-après dénommées intervenants.
+
+Il en est de même, sauf disposition contraire du règlement de voirie mentionné à l'article R. * 141-14 ou, à défaut d'un
+règlement de voirie, sauf délibération contraire prise dans les conditions mentionnées à l'article R.* 141-15, de la
+réfection provisoire et de la réfection définitive des chaussées, trottoirs, accotements et autres ouvrages dépendant de la
+voie.
+
+Le délai entre la réfection provisoire et la réfection définitive ne peut excéder un an.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°85-1262 du 27 novembre 1985 - art. 1 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°89-631 1989-09-04
+
+	**Créé par**:
+
+	  - Décret n°89-631 1989-09-04 jorf 8 septembre 1989
+
+	**Cite**:
+
+	  - Code de la voirie routière - art. R*141-14 (V)
+	  - Code de la voirie routière - art. R*141-15 (V)
+
+
+###### Article R*141-14
+
+Un règlement de voirie fixe les modalités d'exécution des travaux de remblaiement, de réfection provisoire et de réfection
+définitive conformément aux normes techniques et aux règles de l'art. Il détermine les conditions dans lesquelles le maire
+peut décider que certains des travaux de réfection seront exécutés par la commune.
+
+Ce règlement est établi par le conseil municipal après avis d'une commission présidée par le maire et comprenant, notamment,
+des représentants des affectataires, permissionnaires, concessionnaires et autres occupants de droit des voies communales.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°85-1262 du 27 novembre 1985 - art. 2 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°89-631 1989-09-04
+
+	**Créé par**:
+
+	  - Décret n°89-631 1989-09-04 jorf 8 septembre 1989
+
+	**Cité par**:
+
+	  - Code de l'environnement - art. R554-23 (VD)
+	  - Code de la voirie routière - art. R*141-13 (V)
+	  - Code de la voirie routière - art. R*141-18 (V)
+	  - Code de la voirie routière - art. R*141-19 (V)
+
+
+###### Article R*141-15
+
+Dans les communes où il n'a pas été établi un règlement de voirie, le conseil municipal détermine à l'occasion de chaque
+opération, après concertation avec les intervenants, les modalités d'exécution des travaux de remblaiement et de réfection
+des voies et de leurs dépendances. Le conseil peut décider, dans les mêmes conditions, que certains des travaux de réfection
+seront exécutés par la commune.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°85-1262 du 27 novembre 1985 - art. 3 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°89-631 1989-09-04
+
+	**Créé par**:
+
+	  - Décret n°89-631 1989-09-04 jorf 8 septembre 1989
+
+	**Cité par**:
+
+	  - Code de la voirie routière - art. R*141-13 (V)
+	  - Code de la voirie routière - art. R*141-18 (V)
+	  - Code de la voirie routière - art. R*141-19 (V)
+
+
+###### Article R*141-16
+
+Lorsque les travaux de réfection des voies communales ne sont pas exécutés dans les délais prescrits ou lorsqu'ils ne sont
+pas conformes aux prescriptions édictées par le conseil municipal, l'intervenant est mis en demeure d'exécuter les travaux
+conformément à ces prescriptions ; si les travaux ne sont pas exécutés dans le délai fixé par la mise en demeure, le maire
+fait exécuter les travaux d'office aux frais de l'intervenant. Toutefois, la mise en demeure n'est pas obligatoire lorsque
+l'exécution des travaux présente un caractère d'urgente nécessité pour le maintien de la sécurité routière.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°85-1262 du 27 novembre 1985 - art. 4 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°89-631 1989-09-04
+
+	**Créé par**:
+
+	  - Décret n°89-631 1989-09-04 jorf 8 septembre 1989
+
+	**Cité par**:
+
+	  - Code de la voirie routière - art. R*141-19 (V)
+
+
+###### Article R*141-17
+
+Lorsque la réfection définitive est effectuée par l'intervenant, celui-ci assure sur les parties de chaussées, accotements,
+trottoirs ou autres ouvrages concernés les travaux d'entretien liés aux conditions dans lesquelles la réfection a été
+exécutée. Toutefois, par accord entre la commune et l'intervenant, il peut être décidé, dans des conditions et délais fixés
+par convention, que cet entretien est assuré par la commune.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°85-1262 du 27 novembre 1985 - art. 5 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°89-631 1989-09-04
+
+	**Créé par**:
+
+	  - Décret n°89-631 1989-09-04 jorf 8 septembre 1989
+
+
+###### Article R*141-18
+
+Les sommes qui peuvent être réclamées à l'intervenant, lorsque tout ou partie des travaux de réfection provisoire ou
+définitive sont exécutés par la commune en application des dispositions des articles R.* 141-14 et R.* 141-15 ou lorsque les
+travaux sont exécutés d'office en application de l'article R.* 141-16, comprennent le prix des travaux augmentés d'une
+majoration correspondant aux frais généraux et aux frais de contrôle. Ces sommes sont déterminées dans les conditions prévues
+aux articles R.* 141-19, R.* 141-20 et R.* 141-21.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°85-1262 du 27 novembre 1985 - art. 6 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°89-631 1989-09-04
+
+	**Créé par**:
+
+	  - Décret n°89-631 1989-09-04 jorf 8 septembre 1989
+
+	**Cite**:
+
+	  - Code de la voirie routière - art. R*141-14 (V)
+	  - Code de la voirie routière - art. R*141-15 (V)
+	  - Code de la voirie routière - art. R*141-19 (V)
+	  - Code de la voirie routière - art. R*141-20 (V)
+	  - Code de la voirie routière - art. R*141-21 (V)
+
+
+###### Article R*141-19
+
+Lorsque les travaux sont exécutés par la commune en vertu des articles R.* 141-14 et R.* 141-15, le montant des sommes qui
+leur sont dues est fixé d'un commun accord avec l'intervenant après un constat contradictoire des quantités de travaux à
+exécuter.
+
+A défaut d'accord, ces sommes sont fixées par le conseil municipal.
+
+Dans le cas de travaux exécutés d'office en application de l'article R.* 141-16, les sommes dues à la commune peuvent être
+fixées par le conseil municipal sans que soit recherché l'accord de l'intervenant.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°85-1262 du 27 novembre 1985 - art. 7 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°89-631 1989-09-04
+
+	**Créé par**:
+
+	  - Décret n°89-631 1989-09-04 jorf 8 septembre 1989
+
+	**Cite**:
+
+	  - Code de la voirie routière - art. R*141-14 (V)
+	  - Code de la voirie routière - art. R*141-15 (V)
+	  - Code de la voirie routière - art. R*141-16 (V)
+
+	**Cité par**:
+
+	  - Code de la voirie routière - art. R*141-18 (V)
+
+
+###### Article R*141-20
+
+Les prix unitaires sont fixés par le conseil municipal d'après les prix constatés dans les marchés passés par la commune pour
+les travaux de même nature et de même importance et, à défaut, d'après les prix constatés couramment dans le département.
+
+Lorsque les travaux de réfection font l'objet d'un marché passé par la commune, le prix réclamé à l'intervenant ne peut
+excéder celui que fait apparaître le décompte définitif de ce marché.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°85-1262 du 27 novembre 1985 - art. 8 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°89-631 1989-09-04
+
+	**Créé par**:
+
+	  - Décret n°89-631 1989-09-04 jorf 8 septembre 1989
+
+	**Cité par**:
+
+	  - Code de la voirie routière - art. R*141-18 (V)
+
+
+###### Article R*141-21
+
+La majoration pour frais généraux et frais de contrôle est fixée par le conseil municipal. Le taux de cette majoration ne
+peut excéder 20 % du montant des travaux pour la tranche de travaux comprise entre 0,15 et 2 286,74 euros, 15 % pour la
+tranche comprise entre 2 286,89 et 7 622,45 euros et 10 % pour la tranche au-delà de 7 622,45 euros.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°85-1262 du 27 novembre 1985 - art. 9 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°89-631 1989-09-04
+
+	**Créé par**:
+
+	  - Décret n°89-631 1989-09-04 jorf 8 septembre 1989
+
+	**Cité par**:
+
+	  - Code de la voirie routière - art. R*141-18 (V)
+
+
+#### Section 5 : Dispositions applicables dans le cas où il existe un établissement public de coopération intercommunale.
+
+###### Article R*141-22
+
+Les attributions dévolues au maire et au conseil municipal par les dispositions du présent code sont exercées, le cas
+échéant, par le président et par l'assemblée délibérante de l'établissement public de coopération intercommunale compétent.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°89-631 1989-09-04
+
+	**Créé par**:
+
+	  - Décret n°89-631 1989-09-04 jorf 8 septembre 1989
+
+
+## TITRE V : Voies à statuts particuliers.
+
+### Chapitre Ier : Routes express.
+
+###### Article R*151-1
+
+Le décret prévu à l'article L. 151-2 est pris :
+
+a) Sur le rapport du ministre chargé de la voirie routière nationale, lorsqu'il s'agit de routes ou de sections de routes
+appartenant au domaine public routier de l'Etat ;
+
+b) Sur le rapport du ministre de l'intérieur lorsqu'il s'agit de routes ou de sections de routes appartenant au domaine
+public routier des départements ou des communes.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°70-759 1970-08-18 art. 1 (partie)
+
+	**Codifié par**:
+
+	  - Décret n°89-631 1989-09-04
+
+	**Créé par**:
+
+	  - Décret n°89-631 1989-09-04 jorf 8 septembre 1989
+
+	**Cite**:
+
+	  - Code de la voirie routière - art. L151-2 (M)
+
+
+###### Article R*151-2
+
+Le décret conférant à une route ou section de route le caractère de route express fixe la liste des catégories de véhicules
+ou d'usagers auxquelles tout ou partie de la route express seront en permanence interdits.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°70-759 1970-08-18 art. 2 al. 1
+
+	**Codifié par**:
+
+	  - Décret n°89-631 1989-09-04
+
+	**Créé par**:
+
+	  - Décret n°89-631 1989-09-04 jorf 8 septembre 1989
+
+
+###### Article R*151-3
+
+L'enquête préalable au décret conférant le caractère de route express est effectuée dans les conditions prévues aux articles
+R. 11-3 à R. 11-17 du code de l'expropriation pour cause d'utilité publique. Toutefois, le dossier soumis à enquête comprend,
+outre les documents énumérés audit article R. 11-3 :
+
+1° Un plan général de la route indiquant les limites entre lesquelles le caractère de route express doit lui être conféré ;
+
+2° L'indication des dispositions prévues pour l'aménagement des points d'accès à la route express et pour le rétablissement
+des communications ;
+
+3° La liste des catégories de véhicules ou d'usagers auxquelles tout ou partie de la route express seront en permanence
+interdits.
+
+Lorsqu'il y a lieu à expropriation, l'enquête publique peut être effectuée conjointement avec l'enquête préalable à la
+déclaration d'utilité publique des travaux. Le dossier soumis à l'enquête est constitué conformément à l'alinéa précédent.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°70-759 du 18 août 1970 - art. 3 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°89-631 1989-09-04
+
+	**Créé par**:
+
+	  - Décret n°89-631 1989-09-04 jorf 8 septembre 1989
+
+	**Cite**:
+
+	  - Code de l'expropriation  pour cause d'utilité publique R11-3 à R11-17
+
+
+###### Article R*151-4
+
+Lorsqu'il y a lieu à expropriation, l'enquête parcellaire est effectuée dans les conditions prévues aux articles R. 11-19 à
+R. 11-31 du code de l'expropriation pour cause d'utilité publique. Toutefois, le dossier soumis à enquête comprend, outre les
+documents énumérés à l'article R. 11-19, une notice accompagnée des plans précisant les dispositions prévues pour assurer le
+désenclavement des parcelles que la réalisation de la route doit priver d'accès.
+
+Lorsqu'il n'y a pas lieu à expropriation, l'établissement des plans de désenclavement des parcelles privées d'accès est
+précédé d'une enquête parcellaire, organisée dans les conditions fixées à l'alinéa précédent. Les plans sont approuvés dans
+les formes prévues pour les plans d'alignement des routes de la catégorie domaniale à laquelle appartient la route express.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°70-759 1970-08-18 art. 4 al. 1, 2, 3 (partie)
+	  - Décret n°70-759 du 18 août 1970 - art. 2 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°89-631 1989-09-04
+
+	**Créé par**:
+
+	  - Décret n°89-631 1989-09-04 jorf 8 septembre 1989
+
+	**Cite**:
+
+	  - Code de l'expropriation pour cause d'utilité publique R11-19 à R11-31
+
+
+###### Article R*151-5
+
+I. - La décision de création ou de suppression d'un point d'accès prévue à l'article L. 151-4 sur une route existante est
+prise après enquête publique et avis des départements et des communes intéressés :
+
+1° Par un arrêté du ministre chargé de la voirie routière nationale lorsque la route express appartient au domaine public de
+l'Etat ;
+
+2° Par un arrêté du ministre de l'intérieur lorsque la route express appartient au domaine public d'un département ou d'une
+commune.
+
+II. - L'enquête publique est effectuée dans les formes prévues aux articles R. 11-3 à R. 11-17 du code de l'expropriation
+pour cause d'utilité publique. Toutefois, le dossier soumis à enquête comprend, outre les documents énumérés au I de
+l'article R. 11-3 dudit code, l'indication de l'emplacement des accès et la description des aménagements projetés ainsi que
+les dispositions envisagées pour assurer le rétablissement des communications.
+
+S'il y a lieu à déclaration d'utilité publique, les deux enquêtes sont confondues.
+
+III. - Lorsque la création ou la suppression de points d'accès sur une route express existante n'est pas compatible avec les
+prescriptions d'un plan d'occupation des sols rendu public ou approuvé, ou d'un document d'urbanisme en tenant lieu et qu'il
+n'est pas fait application de l'article L. 123-8 du code de l'urbanisme, la décision concernant les accès ne peut être prise
+qu'après l'approbation de la modification du plan d'occupation des sols ou du document d'urbanisme en tenant lieu.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°70-759 1970-08-18 art. 5
+
+	**Codifié par**:
+
+	  - Décret n°89-631 1989-09-04
+
+	**Créé par**:
+
+	  - Décret n°89-631 1989-09-04 jorf 8 septembre 1989
+
+	**Cite**:
+
+	  - Code de la voirie routière - art. L151-4 (V)
+	  - Code de l'urbanisme - art. L123-8 (M)
+	  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PUBLI - art. R11-3 (M)
+	  - Code de l'expropriation pour cause d'utilité publique R11-3 à R11-17, R11-3
+
+
+###### Article R*151-6
+
+Lorsque le caractère de route express est retiré à une route, le dossier soumis à enquête publique ne comprend que les
+documents suivants :
+
+1° Une notice explicative ;
+
+2° Un plan de situation ;
+
+3° Un plan général de la route indiquant les limites entre lesquelles le caractère de route express sera supprimé.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°70-759 1970-08-18 art. 9
+
+	**Codifié par**:
+
+	  - Décret n°89-631 1989-09-04
+
+	**Créé par**:
+
+	  - Décret n°89-631 1989-09-04 jorf 8 septembre 1989
+
+
+###### Article R*151-7
+
+Les servitudes destinées à éviter les abus de la publicité prévues à l'article L. 151-3 sont celles de l'article 9 du décret
+n° 76-148 du 11 février 1976.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°76-148 1976-02-11 art. 9 renvoi
+
+	**Cite**:
+
+	  - Décret n°76-148 du 11 février 1976 - art. 9 (Ab)
+	  - Code de la voirie routière - art. L151-3 (V)
+
+	**Codifié par**:
+
+	  - Décret n°89-631 1989-09-04
+
+	**Créé par**:
+
+	  - Décret n°89-631 1989-09-04 jorf 8 septembre 1989
+
+
+### Chapitre II : Déviations.
+
+###### Article R*152-1
+
+La liste des routes à grande circulation est celle qui a été établie en application de l'article R. 1 du code de la route.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°89-631 1989-09-04
+
+	**Créé par**:
+
+	  - Décret n°89-631 1989-09-04 jorf 8 septembre 1989
+
+	**Cite**:
+
+	  - Code de la route R1
+
+
+###### Article R*152-2
+
+I.-Lorsqu'il y a lieu à expropriation, les articles R. 11-3 à R. 11-17 du code de l'expropriation pour cause d'utilité
+publique sont applicables. Toutefois, le dossier soumis à enquête comprend, outre les documents énumérés audit article R.
+11-3 : 
+
+1. Un plan général de la déviation indiquant les limites entre lesquelles s'applique l'interdiction d'accès prévue à
+l'article L. 152-1 ;
+
+2. L'indication des dispositions prévues pour l'aménagement des points d'accès à la déviation et pour le rétablissement des
+communications. 
+
+L'enquête parcellaire est effectuée dans les conditions prévues aux articles R. 11-19 à R. 11-31 du code de l'expropriation
+pour cause d'utilité publique. Toutefois, le dossier soumis à enquête comprend, outre les documents énumérés à l'article R.
+11-19, une notice accompagnée des plans précisant les dispositions prévues pour assurer le désenclavement des parcelles que
+la réalisation de la déviation doit priver d'accès. 
+
+II.-Lorsque la décision incorporant une route dans une déviation ne donne pas lieu à expropriation, l'établissement des plans
+de désenclavement des parcelles privées d'accès est précédé d'une enquête parcellaire, organisée dans les conditions prévues
+à l'alinéa précédent. Les plans sont approuvés dans les formes prévues pour les plans d'alignement des routes de la catégorie
+domaniale à laquelle appartient la déviation.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°70-759 1970-08-18 article 12 alinéas 1, 2, 3, 4
+	  - Décret n°70-759 du 18 août 1970 - art. 2 (Ab)
+	  - Décret n°70-759 du 18 août 1970 - art. 3 (Ab)
+	  - Décret n°70-759 du 18 août 1970 - art. 4 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°89-631 1989-09-04
+
+	**Créé par**:
+
+	  - Décret n°89-631 1989-09-04 jorf 8 septembre 1989
+
+	**Cite**:
+
+	  - Code de la voirie routière - art. L152-1 (V)
+	  - Code de l'expropriation pour cause d'utilité pu... - art. **R11-19 (V)
+	  - Code de l'expropriation pour cause d'utilité pu... - art. **R11-3 (V)
+
+
+### Chapitre III : Ouvrages d'art.
+
+#### Section 1 : Dispositions générales.
+
+###### Article R*153-1
+
+La redevance prévue à l'article L. 153-1 au profit des communes ou groupements de communes peut être perçue sur les ouvrages
+d'art répondant aux conditions de dimension et de coût suivantes :
+
+1° Une surface de chaussée de pont, de tunnel ou de tranchée couverte égale ou supérieure à 4 000 mètres carrés ;
+
+2° Un coût prévisionnel total égal ou supérieur à 100 millions de francs, ce seuil variant par application d'un coefficient
+égal au rapport entre l'index national des travaux publics TP 02 publié au Bulletin officiel de la concurrence et de la
+consommation tel que constaté le jour de la délibération se prononçant sur le recours à la redevance et l'index TP 02
+applicable à la date du 5 mai 1988.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°88-500 du 29 avril 1988 - art. 1 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°89-631 1989-09-04
+
+	**Créé par**:
+
+	  - Décret n°89-631 1989-09-04 jorf 8 septembre 1989
+
+	**Cite**:
+
+	  - Code de la voirie routière - art. L153-1 (M)
+
+
+###### Article R*153-2
+
+L'institution d'une redevance sur un ouvrage d'art à comprendre dans le domaine public routier communal est, conformément à
+l'article L. 153-5, autorisée par décret en Conseil d'Etat au vu d'un dossier comportant la déclaration d'utilité publique
+des travaux et les délibérations du conseil municipal ou de l'assemblée délibérante du groupement de communes :
+
+1° Décidant la réalisation de l'ouvrage ;
+
+2° Précisant les conditions dans lesquelles sera assurée soit la couverture des charges de remboursement des emprunts
+garantis ou contractés par la commune ou le groupement de communes pour la construction de l'ouvrage, soit la couverture des
+charges d'exploitation et d'entretien ainsi que la rémunération et l'amortissement des capitaux investis par le
+concessionnaire assurant l'exploitation de l'ouvrage d'art ;
+
+3° Approuvant un plan de financement lorsque l'ouvrage doit être construit ou exploité en régie ou les projets de convention
+de concession et de cahier des charges lorsque la construction ou l'exploitation de l'ouvrage est confiée à un
+concessionnaire ;
+
+4° Fixant les tarifs des redevances ainsi que les modalités de leur application.
+
+Le décret en Conseil d'Etat mentionné au présent article est pris sur le rapport des ministres chargés de l'économie, des
+collectivités locales et de la voirie routière nationale.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°88-500 du 29 avril 1988 - art. 2 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°89-631 1989-09-04
+
+	**Créé par**:
+
+	  - Décret n°89-631 1989-09-04 jorf 8 septembre 1989
+
+	**Abrogé par**:
+
+	  - Décret n°2009-1574 du 16 décembre 2009 - art. 2
+
+	**Cite**:
+
+	  - Code de la voirie routière - art. L153-5 (M)
+
+
+#### Section 2: Dispositions particulières.
+
+###### Article R*153-3
+
+Les dispositions des articles R.* 122-16 à R.* 122-26 relatives à l'établissement public Autoroutes de France sont
+applicables à la société française concessionnaire du tunnel routier du Fréjus dans les mêmes conditions qu'aux sociétés
+d'économie mixte concessionnaires d'autoroutes.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°72-627 1972-07-05
+	  - Code de la voirie routière R*112-16 à R*122-26
+
+	**Anciens textes**:
+
+	  - Décret n°83-774 1983-08-31 art. 2 (partie) modifié par le décret 87-971 du 3 décembre 1987
+
+	**Codifié par**:
+
+	  - Décret n°89-631 1989-09-04
+
+	**Créé par**:
+
+	  - Décret n°89-631 1989-09-04 jorf 8 septembre 1989
+
+
+## TITRE VI : Dispositions applicables aux voies n'appartenant pas au domaine public.
+
+### Chapitre Ier : Chemins ruraux.
+
+###### Article R*161-1
+
+Sont applicables aux chemins ruraux les dispositions du décret n° 64-527 du 5 juin 1964 et du décret n° 69-897 du 18
+septembre 1969 pris en application du chapitre Ier du titre II du livre Ier du code rural.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°64-527 1964-06-05
+	  - Décret n°69-897 1969-09-18
+
+	**Anciens textes**:
+
+	  - Décret n°68-897 1969-09-18 renvoi
+	  - Décrets 64-527 1964-06-05 renvoi
+
+	**Codifié par**:
+
+	  - Décret n°89-631 1989-09-04
+
+	**Créé par**:
+
+	  - Décret n°89-631 1989-09-04 jorf 8 septembre 1989
+
+
+###### Article R*161-2
+
+Les dispositions des articles R.* 113-1, R.* 115-1 à R.* 115-4 et R.* 141-12 à R.* 141-21 sont applicables aux chemins
+ruraux.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°89-631 1989-09-04
+
+	**Créé par**:
+
+	  - Décret n°89-631 1989-09-04 jorf 8 septembre 1989
+
+	**Cite**:
+
+	  - Code de la voirie routière - art. R*113-1 (V)
+	  - Code de la voirie routière R*113-1, R*115-1 à R*115-4, R*141-12 à R*141-21
+
+
+### Chapitre II : Voies privées.
+
+#### Section 1 : Dispositions générales.
+
+###### Article R*162-1
+
+Les dispositions de l'article R.* 113-1 sont applicables aux voies privées ouvertes à la circulation publique.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°89-631 1989-09-04
+
+	**Créé par**:
+
+	  - Décret n°89-631 1989-09-04 jorf 8 septembre 1989
+
+	**Cite**:
+
+	  - Code de la voirie routière - art. R*113-1 (V)
+
+
+#### Section 3 : Autres voies privées.
+
+###### Article R*162-2
+
+L'enquête prévue à l'article L. 162-5 en vue du transfert dans le domaine public communal de voies privées ouvertes à la
+circulation publique dans un ensemble d'habitation est effectuée selon les dispositions des articles R. 318-10 à R. 318-12 du
+code de l'urbanisme.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code de l'urbanisme art. R318-10, R318-11, R318-12 renvoi
+
+	**Codifié par**:
+
+	  - Décret n°89-631 1989-09-04
+
+	**Créé par**:
+
+	  - Décret n°89-631 1989-09-04 jorf 8 septembre 1989
+
+	**Cite**:
+
+	  - Code de la voirie routière L162-5 Code de l'urbanisme R318-10, R318-11, R318-12
+
+
+## TITRE VII : Dispositions particulières.
+
+### Chapitre Ier : Dispositions applicables à la ville de Paris.
+
+#### Section 1 : Voies publiques.
+
+###### Article R*171-1
+
+L'avis prévu au dernier alinéa de l'article L. 171-5 est donné par lettre recommandée avec demande d'avis de réception.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°89-631 1989-09-04
+
+	**Créé par**:
+
+	  - Décret n°89-631 1989-09-04 jorf 8 septembre 1989
+
+	**Cite**:
+
+	  - Code de la voirie routière - art. L171-5 (V)
+
+	**Anciens textes**:
+
+	  - Décret-loi 1935-10-30 art. 3 alinéa 4 (partie)
+
+
+###### Article R*171-2
+
+L'autorisation prévue à l'article L. 171-6 est donnée par arrêté du préfet.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°89-631 1989-09-04
+
+	**Créé par**:
+
+	  - Décret n°89-631 1989-09-04 jorf 8 septembre 1989
+
+	**Cite**:
+
+	  - Code de la voirie routière - art. L171-6 (V)
+
+	**Anciens textes**:
+
+	  - Décret-loi 1935-10-30 art. 4 (partie)
+
+
+###### Article R*171-3
+
+L'enquête prévue à l'article L. 171-7 se déroule dans les conditions ci-après. Le dossier d'enquête indique les propriétés
+privées où il doit être placé des supports, des canalisations ou des appareillages. Il est déposé à la mairie de
+l'arrondissement où ces propriétés sont situées.
+
+Un délai de huit jours court à dater de l'avertissement qui est donné aux parties intéressées de prendre communication du
+projet déposé à la mairie.
+
+Cet avertissement est affiché à la porte de la mairie d'arrondissement et inséré dans l'un des journaux publiés dans la ville
+de Paris.
+
+Le maire fait ouvrir un registre pour recevoir les observations ou les réclamations. A l'expiration du délai il arrête le
+projet définitif et autorise toutes les opérations que comportent l'établissement, l'entretien et la surveillance des
+installations projetées.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°89-631 1989-09-04
+
+	**Créé par**:
+
+	  - Décret n°89-631 1989-09-04 jorf 8 septembre 1989
+
+	**Cite**:
+
+	  - Code de la voirie routière - art. L171-7 (V)
+
+	**Anciens textes**:
+
+	  - Décret-loi 1935-10-30 art. 5 (partie), 6
+
+
+###### Article R*171-4
+
+Les notifications et avertissements prévus à l'article L. 171-8 peuvent être valablement déposés à la mairie de
+l'arrondissement en cas d'absence des intéressés.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°89-631 1989-09-04
+
+	**Créé par**:
+
+	  - Décret n°89-631 1989-09-04 jorf 8 septembre 1989
+
+	**Cite**:
+
+	  - Code de la voirie routière - art. L171-8 (V)
+
+	**Anciens textes**:
+
+	  - Décret-loi 1935-10-30 art. 8
+
+
+###### Article R*171-5
+
+La juridiction compétente en premier ressort pour la fixation des indemnités prévues à l'article L. 171-10 est le tribunal
+d'instance.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°89-631 1989-09-04
+
+	**Créé par**:
+
+	  - Décret n°89-631 1989-09-04 jorf 8 septembre 1989
+
+	**Cite**:
+
+	  - Code de la voirie routière - art. L171-10 (V)
+
+	**Anciens textes**:
+
+	  - Décret-loi 1935-10-30 art. 9 (partie)
+
+
+#### Section 2 : Voies privées.
+
+###### Article R*171-6
+
+L'enquête en vue du classement dans la voirie de la ville de Paris, prévu à l'article L. 171-14, se déroule selon les
+modalités fixées par les articles R. 11-1 et suivants du code de l'expropriation pour cause d'utilité publique.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°89-631 1989-09-04
+
+	**Créé par**:
+
+	  - Décret n°89-631 1989-09-04 jorf 8 septembre 1989
+
+	**Cite**:
+
+	  - Code de la voirie routière - art. L171-14 (V)
+	  - Code de l'expropriation pour cause d'utilité pu... - art. **R11-1 (V)
+
+	**Anciens textes**:
+
+	  - Loi n°1930-05-15 art. 4 al. 1 (partie)
+
+
+###### Article R*171-7
+
+L'enquête prévue à l'article L. 171-16 s'effectue selon les modalités fixées aux articles 7 et 8 de la loi du 22 juillet
+1912.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°89-631 1989-09-04
+
+	**Créé par**:
+
+	  - Décret n°89-631 1989-09-04 jorf 8 septembre 1989
+
+	**Cite**:
+
+	  - Code de la voirie routière - art. L171-16 (V)
+	  - Loi n°1912-07-22 art. 7, 8
+
+	**Anciens textes**:
+
+	  - Loi n°1930-05-15 art. 3 al. 1 (partie)
+
+
+#### Section 3 : Coordination des travaux.
+
+###### Article R*171-8
+
+Le calendrier des travaux prévu aux articles L. 115-1 et R.* 115-2 est établi par le maire après avis du préfet de police.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°85-1263 1985-11-27 art. 2 al. 3
+
+	**Codifié par**:
+
+	  - Décret n°89-631 1989-09-04
+
+	**Créé par**:
+
+	  - Décret n°89-631 1989-09-04 jorf 8 septembre 1989
+
+	**Cite**:
+
+	  - Code de la voirie routière - art. L115-1 (V)
+	  - Code de la voirie routière - art. R*115-2 (V)
+
+
+### Chapitre III : Dispositions diverses.
+
+###### Article R*173-1
+
+Le décret en Conseil d'Etat prévu à l'article L. 173-2 est pris après avis du conseil départemental d'hygiène et sur le
+rapport du ministre de l'intérieur et du ministre chargé de la santé.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°89-631 1989-09-04
+
+	**Créé par**:
+
+	  - Décret n°89-631 1989-09-04 jorf 8 septembre 1989
+
+	**Cite**:
+
+	  - Code de la voirie routière - art. L173-2 (V)
+
+	**Anciens textes**:
+
+	  - Loi n°1935-05-15 art. 11 alinéa 1 (partie)
 
 
