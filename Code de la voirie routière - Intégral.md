@@ -1,5 +1,5 @@
 # Code de la voirie routière  
-Version Consolidée au 2002-01-01
+Version Consolidée au 2002-01-04
 
 # Partie législative
 
@@ -987,6 +987,143 @@ de ces dispositifs par les gestionnaires du domaine public routier et leurs conc
 	**Créé par**:
 
 	  - Loi n°95-73 du 21 janvier 1995 - art. 14 ()
+
+
+### Chapitre VIII : Sécurité des ouvrages du réseau routier dont l'exploitation présente des risques particuliers pour la sécurité des personnes.
+
+###### Article L118-1
+
+Les travaux de construction ou de modification substantielle d'un ouvrage du réseau routier dont l'exploitation présente des
+risques particuliers pour la sécurité des personnes ne peuvent être engagés avant que l'Etat ait émis un avis sur un dossier
+préliminaire adressé au représentant de l'Etat, accompagné d'un rapport sur la sécurité établi par un expert ou un organisme
+qualifié, agréé. Ce rapport précise notamment les conditions d'exploitation de cet ouvrage au regard des risques naturels ou
+technologiques susceptibles de l'affecter.
+
+Les travaux ne peuvent être entrepris qu'à la réception de l'avis du représentant de l'Etat sur ce dossier ou, à défaut, à
+l'expiration d'un délai de quatre mois à compter de son dépôt.
+
+Un décret en Conseil d'Etat fixe les conditions d'application du présent article et, notamment, les catégories d'ouvrages
+auxquelles s'appliquent ses dispositions, ainsi que les ouvrages pour lesquels des moyens de lutte contre l'incendie et de
+secours doivent être mis en place à proximité et définis dans un dossier joint à la demande de l'autorisation visée à
+l'article L. 118-2.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°89-413 1989-06-22 JORF 24 juin 1989
+
+	**Cité par**:
+
+	  - Décret n°95-260 du 8 mars 1995 - art. 2 (VD)
+	  - Code de l'environnement - art. L551-2 (V)
+	  - Code de la sécurité intérieure - art. R741-42 (VD)
+	  - Code de la voirie routière - art. L118-2 (V)
+	  - Code de la voirie routière - art. L118-3 (V)
+	  - Code de la voirie routière - art. L118-5 (V)
+	  - Code de la voirie routière - art. R118-1-1 (V)
+	  - Code de la voirie routière - art. R118-2-4 (V)
+	  - Code de la voirie routière - art. R118-3-1 (V)
+	  - Code général des collectivités territoriales - art. L2215-9 (V)
+
+	**Créé par**:
+
+	  - Loi n°2002-3 du 3 janvier 2002 - art. 2 ()
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. L1613-5 (VD)
+
+
+###### Article L118-2
+
+La mise en service des ouvrages du réseau routier mentionnés à l'article L. 118-1 et appartenant aux catégories fixées par le
+décret prévu au dernier alinéa de ce même article est subordonnée à une autorisation. Celle-ci est délivrée par l'Etat, en
+fonction des garanties de sécurité offertes par les caractéristiques et les modalités d'exploitation de l'ouvrage, après avis
+d'une commission administrative assurant notamment la représentation des collectivités territoriales. Elle peut être assortie
+de conditions restrictives d'utilisation.
+
+Cette autorisation vaut approbation des prescriptions d'exploitation établies par le maître d'ouvrage et applicables à chaque
+ouvrage, lesquelles comportent au moins un examen périodique de sécurité par un expert ou un organisme qualifié, agréé.
+
+Pour les ouvrages en service, dont l'exploitation présente des risques particuliers pour la sécurité des personnes, le
+représentant de l'Etat peut prescrire l'établissement d'un diagnostic, des mesures restrictives d'exploitation ou, en cas de
+danger immédiat, ordonner la fermeture de l'ouvrage au public.
+
+Les conditions d'application du présent article sont fixées par décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°89-413 1989-06-22 JORF 24 juin 1989
+
+	**Cité par**:
+
+	  - Décret n°95-260 du 8 mars 1995 - art. 2 (V)
+	  - Décret n°2014-1273 du 30 octobre 2014 - art. (VD)
+	  - Code de la voirie routière - art. L118-1 (V)
+	  - Code de la voirie routière - art. R118-2-4 (V)
+	  - Code de la voirie routière - art. R118-3-5 (V)
+	  - Code des transports - art. R1613-3 (V)
+
+	**Créé par**:
+
+	  - Loi n°2002-3 du 3 janvier 2002 - art. 2 ()
+
+
+###### Article L118-3
+
+Des décrets peuvent fixer des caractéristiques techniques de sécurité en matière de conception ou d'exploitation, applicables
+à des ouvrages du réseau routier mentionnés à l'article L. 118-1.
+
+Ces décrets devront prendre en compte la spécificité des collectivités territoriales lorsque celles-ci sont maîtres
+d'ouvrage.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°89-413 1989-06-22 JORF 24 juin 1989
+
+	**Créé par**:
+
+	  - Loi n°2002-3 du 3 janvier 2002 - art. 2 ()
+
+	**Cite**:
+
+	  - Code de la voirie routière - art. L118-1 (V)
+
+
+###### Article L118-4
+
+Les dispositions du présent chapitre ne sont pas applicables aux ouvrages dont les conditions de construction et
+d'exploitation sont déterminées par des conventions internationales.
+
+Sur ces ouvrages, lorsque les engagements internationaux le permettent, les infractions au code de la route ou au règlement
+de circulation spécifique à l'ouvrage commises sur la partie française peuvent être relevées par un officier ou un agent de
+police judiciaire à la sortie de l'ouvrage en territoire étranger.
+
+S'il s'agit d'une contravention relevant de la procédure de l'amende forfaitaire, le contrevenant peut s'acquitter du montant
+de l'amende forfaitaire ou de l'amende forfaitaire minorée entre les mains de l'agent verbalisateur, conformément aux
+dispositions des articles 529-1 et 529-8 du code de procédure pénale, et les dispositions de l'article L. 121-4 du code de la
+route sont applicables.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°89-413 1989-06-22 JORF 24 juin 1989
+
+	**Créé par**:
+
+	  - Loi n°2002-3 du 3 janvier 2002 - art. 2 ()
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 529-1 (M)
+	  - CODE DE PROCEDURE PENALE - art. 529-8 (M)
+	  - Code de la route. - art. L121-4 (V)
 
 
 ## TITRE II : Voirie nationale.
