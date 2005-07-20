@@ -1,5 +1,5 @@
 # Code de la voirie routière  
-Version Consolidée au 2005-06-25
+Version Consolidée au 2005-07-21
 
 # Partie législative
 
@@ -2270,6 +2270,46 @@ communes.
 	  - CODE DES COMMUNES. - art. L122-19 (Ab)
 
 
+###### Article L141-3
+
+Le classement et le déclassement des voies communales sont prononcés par le conseil municipal. Ce dernier est également
+compétent pour l'établissement des plans d'alignement et de nivellement, l'ouverture, le redressement et l'élargissement des
+voies.
+
+Les délibérations concernant le classement ou le déclassement sont dispensées d'enquête publique préalable sauf lorsque
+l'opération envisagée a pour conséquence de porter atteinte aux fonctions de desserte ou de circulation assurées par la voie.
+
+A défaut d'enquête relevant d'une autre réglementation et ayant porté sur ce classement ou déclassement, l'enquête rendue
+nécessaire en vertu de l'alinéa précédent se déroule selon les modalités prévues aux articles R. 141-4 à R. 141-10.
+
+Les enquêtes prévues aux articles L. 123-3-1 et L. 318-3 du code de l'urbanisme tiennent lieu de l'enquête prévue à l'alinéa
+précédent. Il en va de même de l'enquête d'utilité publique lorsque l'opération comporte une expropriation.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Ordonnance n°59-115 du 7 janvier 1959 - art. 2 (Ab)
+
+	**Codifié par**:
+
+	  - Loi n°89-413 1989-06-22 JORF 24 juin 1989
+
+	**Modifié par**:
+
+	  - Loi n°2005-809 du 20 juillet 2005 - art. 9 () JORF 21 juillet 2005
+
+	**Cité par**:
+
+	  - Code de la voirie routière - art. R*141-4 (V)
+
+	**Cite**:
+
+	  - Code de la voirie routière R141-4 à R141-10
+	  - Code de l'urbanisme - art. L123-3-1 (Ab)
+	  - Code de l'urbanisme - art. L318-3 (M)
+
+
 ###### Article L141-4
 
 Lorsque les conclusions du commissaire enquêteur sont défavorables, le conseil municipal peut passer outre par une
@@ -2368,48 +2408,6 @@ Les caractéristiques techniques auxquelles doivent répondre les voies communal
 	**Cité par**:
 
 	  - Loi n°91-663 du 13 juillet 1991 - art. 2 (V)
-
-
-#### Section I : Emprise du domaine public routier communal.
-
-###### Article L141-3
-
-Le classement et le déclassement des voies communales sont prononcés par le conseil municipal. Ce dernier est également
-compétent pour l'établissement des plans d'alignement et de nivellement, l'ouverture, le redressement et l'élargissement des
-voies.
-
-Les délibérations prévues à l'alinéa précédent sont dispensées d'enquête publique préalable sauf lorsque le classement ou le
-déclassement envisagé a pour conséquence de porter atteinte aux fonctions de desserte ou de circulation assurées par la voie.
-
-A défaut d'enquête relevant d'une autre réglementation et ayant porté sur ce classement ou déclassement, l'enquête rendue
-nécessaire en vertu de l'alinéa précédent se déroule selon les modalités prévues aux articles R. 141-4 à R. 141-10.
-
-Les enquêtes prévues aux articles L. 123-3-1 et L. 318-3 du code de l'urbanisme tiennent lieu de l'enquête prévue à l'alinéa
-précédent. Il en va de même de l'enquête d'utilité publique lorsque l'opération comporte une expropriation.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Ordonnance n°59-115 du 7 janvier 1959 - art. 2 (Ab)
-
-	**Codifié par**:
-
-	  - Loi n°89-413 1989-06-22 JORF 24 juin 1989
-
-	**Modifié par**:
-
-	  - Loi n°2004-1343 du 9 décembre 2004 - art. 62 () JORF 10 décembre 2004
-
-	**Cité par**:
-
-	  - Code de la voirie routière - art. R*141-4 (V)
-
-	**Cite**:
-
-	  - Code de la voirie routière R141-4 à R141-10
-	  - Code de l'urbanisme - art. L123-3-1 (Ab)
-	  - Code de l'urbanisme - art. L318-3 (M)
 
 
 #### Section 2 : Entretien des voies communales.
