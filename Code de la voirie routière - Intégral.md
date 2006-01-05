@@ -1,5 +1,5 @@
 # Code de la voirie routière  
-Version Consolidée au 2005-12-31
+Version Consolidée au 2006-01-06
 
 # Partie législative
 
@@ -1151,6 +1151,41 @@ route sont applicables.
 	  - Code de la route. - art. L121-4 (V)
 
 
+###### Article L118-5
+
+Pour chaque tunnel de plus de 500 mètres situé sur le réseau routier transeuropéen, le maître de l'ouvrage désigne, après
+accord du représentant de l'Etat, un agent de sécurité qui coordonne les mesures de prévention et de sauvegarde visant à
+assurer la sécurité des usagers et du personnel d'exploitation. L'autonomie fonctionnelle de l'agent de sécurité est garantie
+pour l'exercice de ses attributions.
+
+Le maître de l'ouvrage transmet au représentant de l'Etat, à l'agent de sécurité et aux services d'intervention les comptes
+rendus d'incident ou d'accident et les rapports d'enquête.
+
+Les dérogations aux prescriptions de sécurité applicables à ces ouvrages font l'objet d'une consultation de la Commission
+européenne. Cette consultation suspend le délai prévu au deuxième alinéa de l'article L. 118-1.
+
+Un décret en Conseil d'Etat fixe les conditions d'application du présent article, notamment la liste des tunnels auxquels il
+s'applique.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°89-413 1989-06-22 JORF 24 juin 1989
+
+	**Créé par**:
+
+	  - Loi n°2006-10 du 5 janvier 2006 - art. 10
+
+	**Cite**:
+
+	  - Code de la voirie routière - art. L118-1 (V)
+
+	**Cité par**:
+
+	  - Code de la voirie routière - art. R118-4-2 (V)
+
+
 ### Chapitre IX : Dispositifs d'information sur le réseau routier.
 
 ###### Article L119-1
@@ -1178,6 +1213,57 @@ mise à jour sont fixés par décret en Conseil d'Etat.
 	**Cite**:
 
 	  - Code général des collectivités territoriales - art. L1614-7 (V)
+
+
+### Chapitre X : Service européen de télépéage.
+
+###### Article L119-2
+
+Le service européen de télépéage concerne les paiements effectués par les usagers des ouvrages du réseau routier au moyen
+d'un dispositif électronique nécessitant l'installation d'un équipement électronique embarqué à bord des véhicules.
+
+Ne sont pas concernés les systèmes de paiement installés sur des ouvrages d'intérêt purement local dont le chiffre d'affaires
+est inférieur à un montant fixé par décret.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°89-413 1989-06-22 JORF 24 juin 1989
+
+	**Créé par**:
+
+	  - Loi n°2006-10 du 5 janvier 2006 - art. 51 (V) JORF 6 janvier 2006
+
+	**Cité par**:
+
+	  - Arrêté du 13 août 2010 - art. 1 (V)
+	  - Code de la voirie routière - art. D119-20-1 (V)
+	  - Code de la voirie routière - art. L119-3 (V)
+
+
+###### Article L119-3
+
+Les systèmes de paiement visés au premier alinéa de l'article L. 119-2, mis en service à compter du 1er janvier 2007,
+utilisent un ou plusieurs procédés définis par décret.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°89-413 1989-06-22 JORF 24 juin 1989
+
+	**Créé par**:
+
+	  - Loi n°2006-10 du 5 janvier 2006 - art. 51 (V) JORF 6 janvier 2006
+
+	**Cite**:
+
+	  - Code de la voirie routière - art. L119-2 (V)
+
+	**Cité par**:
+
+	  - Code du travail - art. L6241-5 (V)
 
 
 ## TITRE II : Voirie nationale.
