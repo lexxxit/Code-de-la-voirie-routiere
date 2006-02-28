@@ -1,5 +1,5 @@
 # Code de la voirie routière  
-Version Consolidée au 2006-01-06
+Version Consolidée au 2006-03-01
 
 # Partie législative
 
@@ -4140,7 +4140,9 @@ Un décret en Conseil d'Etat précise les conditions d'application du présent a
 
 ## TITRE Ier : Dispositions communes aux voies du domaine public routier.
 
-### Chapitre I : Définition.
+### Chapitre Ier : Equipements routiers et enquêtes de circulation.
+
+#### Section 1 : Equipements routiers.
 
 ###### Article R*111-1
 
@@ -4167,13 +4169,17 @@ trafic, à l'information ou au secours des usagers, au recueil des données rout
 
 **Liens relatifs à cet article**
 
+	**Liens**:
+
+	  - TXT_SOURCE: Directive 98-34 CE 1998-06-22
+
 	**Codifié par**:
 
 	  - Décret n°89-631 1989-09-04
 
 	**Modifié par**:
 
-	  - Décret n°2004-472 du 1 juin 2004 - art. 1 () JORF 2 juin 2004
+	  - Décret n°2006-235 du 27 février 2006 - art. 1 () JORF 1er mars 2006
 
 	**Cité par**:
 
@@ -4183,9 +4189,46 @@ trafic, à l'information ou au secours des usagers, au recueil des données rout
 	  - Code de la voirie routière - art. R*119-6 (V)
 	  - Code de la voirie routière - art. R*163-1 (V)
 
-	**Liens**:
 
-	  - TXT_SOURCE: Directive 98-34 CE 1998-06-22
+#### Section 2 : Enquêtes de circulation.
+
+###### Article D111-2
+
+Afin d'assurer la connaissance statistique des réseaux et des trafics routiers, l'Etat mène, auprès des usagers de la route,
+des enquêtes sur leurs déplacements. Les données recueillies au cours de ces enquêtes sont anonymes.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°89-631 1989-09-04
+
+	**Créé par**:
+
+	  - Décret n°2006-235 du 27 février 2006 - art. 1 () JORF 1er mars 2006
+
+
+###### Article D111-3
+
+Lorsque le préfet décide de réaliser une enquête, sur son initiative ou à la demande d'une collectivité territoriale ou d'un
+groupement de collectivités, gestionnaires de la voirie, il autorise cette enquête par arrêté sur le domaine public routier
+de l'Etat ou des collectivités territoriales et autorise l'arrêt momentané des véhicules. Le cas échéant, l'autorité
+détentrice du pouvoir de police de circulation sur la voie faisant l'objet de l'enquête est préalablement informée.
+
+L'arrêté indique les buts et modalités de l'enquête, les dates et heures auxquelles elle se déroule et l'emplacement du poste
+d'enquête. Il précise, le cas échéant, les prescriptions temporaires relatives à la circulation aux abords et sur les lieux
+du poste d'enquête, les dispositifs prévus pour l'arrêt des véhicules et les mesures nécessaires à la sécurité des
+opérations.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°89-631 1989-09-04
+
+	**Créé par**:
+
+	  - Décret n°2006-235 du 27 février 2006 - art. 1 () JORF 1er mars 2006
 
 
 ### Chapitre II : Emprise.
