@@ -1,5 +1,5 @@
 # Code de la voirie routière  
-Version Consolidée au 2006-03-01
+Version Consolidée au 2006-03-04
 
 # Partie législative
 
@@ -7878,25 +7878,6 @@ n° 76-148 du 11 février 1976.
 
 ### Chapitre II : Déviations.
 
-###### Article R*152-1
-
-La liste des routes à grande circulation est celle qui a été établie en application de l'article R. 1 du code de la route.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°89-631 1989-09-04
-
-	**Créé par**:
-
-	  - Décret n°89-631 1989-09-04 jorf 8 septembre 1989
-
-	**Cite**:
-
-	  - Code de la route R1
-
-
 ###### Article R*152-2
 
 I.-Lorsqu'il y a lieu à expropriation, les articles R. 11-3 à R. 11-17 du code de l'expropriation pour cause d'utilité
@@ -7941,6 +7922,26 @@ domaniale à laquelle appartient la déviation.
 	  - Code de la voirie routière - art. L152-1 (V)
 	  - Code de l'expropriation pour cause d'utilité pu... - art. **R11-19 (V)
 	  - Code de l'expropriation pour cause d'utilité pu... - art. **R11-3 (V)
+
+
+###### Article R152-1
+
+Constituent des routes à grande circulation les routes qui figurent sur la liste établie en application de l'article L. 110-3
+du code de la route.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°89-631 1989-09-04
+
+	**Modifié par**:
+
+	  - Décret n°2006-253 du 27 février 2006 - art. 5 () JORF 4 mars 2006
+
+	**Cite**:
+
+	  - Code de la route. - art. L110-3 (M)
 
 
 ### Chapitre III : Ouvrages d'art.
