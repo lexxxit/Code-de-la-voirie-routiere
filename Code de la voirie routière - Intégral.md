@@ -1,5 +1,5 @@
 # Code de la voirie routière  
-Version Consolidée au 2006-06-08
+Version Consolidée au 2006-06-30
 
 # Partie législative
 
@@ -8397,8 +8397,8 @@ Le calendrier des travaux prévu aux articles L. 115-1 et R.* 115-2 est établi 
 
 ###### Article R*173-1
 
-Le décret en Conseil d'Etat prévu à l'article L. 173-2 est pris après avis du conseil départemental d'hygiène et sur le
-rapport du ministre de l'intérieur et du ministre chargé de la santé.
+Le décret en Conseil d'Etat prévu à l'article L. 173-2 est pris après avis du conseil départemental de l'environnement et des
+risques sanitaires et technologiques et sur le rapport du ministre de l'intérieur et du ministre chargé de la santé.
 
 **Liens relatifs à cet article**
 
@@ -8406,9 +8406,9 @@ rapport du ministre de l'intérieur et du ministre chargé de la santé.
 
 	  - Décret n°89-631 1989-09-04
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°89-631 1989-09-04 jorf 8 septembre 1989
+	  - Décret n°2006-665 du 7 juin 2006 - art. 19 (V) JORF 8 juin 2006 en vigueur le 30 juin 2006
 
 	**Cite**:
 
