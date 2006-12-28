@@ -1,5 +1,5 @@
 # Code de la voirie routière  
-Version Consolidée au 2006-11-09
+Version Consolidée au 2006-12-29
 
 # Partie législative
 
@@ -4188,6 +4188,32 @@ trafic, à l'information ou au secours des usagers, au recueil des données rout
 	  - Code de la voirie routière - art. R*119-1 (VD)
 	  - Code de la voirie routière - art. R*119-6 (V)
 	  - Code de la voirie routière - art. R*163-1 (V)
+
+
+###### Article R111-2
+
+Les systèmes de télépéage mis en service à partir du 1er janvier 2007 utilisent une ou plusieurs des technologies suivantes
+pour l'exécution des transactions de télépéage :
+
+a) La localisation par satellite ;
+
+b) Les communications mobiles selon la norme GSM-GPRS (référence GSM TS 03.60/23.060) ;
+
+c) Les micro-ondes de 5,8 GHz.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°89-631 1989-09-04
+
+	**Créé par**:
+
+	  - Décret n°2006-1711 du 22 décembre 2006 - art. 1 () JORF 29 décembre 2006
+
+	**Cité par**:
+
+	  - Arrêté du 11 juillet 2013 - art. 1 (V)
 
 
 #### Section 2 : Enquêtes de circulation.
