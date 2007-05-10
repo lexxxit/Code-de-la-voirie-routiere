@@ -1,5 +1,5 @@
 # Code de la voirie routière  
-Version Consolidée au 2006-12-29
+Version Consolidée au 2007-05-11
 
 # Partie législative
 
@@ -6346,6 +6346,28 @@ du code du domaine de l'Etat, les titres d'occupation du domaine public de l'Eta
 	**Créé par**:
 
 	  - Décret n°96-1058 du 2 décembre 1996 - art. 8 ()
+
+
+###### Article R122-5-2
+
+Les cahiers des charges des délégations de missions du service public autoroutier prévoient les conditions dans lesquelles
+est déterminé le montant actualisé des excédents financiers reversé au prorata de leurs apports respectifs aux collectivités
+territoriales et aux établissements publics de coopération intercommunale en application du dernier alinéa de l'article L.
+122-4.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°89-631 1989-09-04
+
+	**Créé par**:
+
+	  - Décret n°2007-777 du 10 mai 2007 - art. 1 () JORF 11 mai 2007
+
+	**Cite**:
+
+	  - Code de la voirie routière - art. L122-4 (M)
 
 
 #### Section 2 : Dispositions financières.
