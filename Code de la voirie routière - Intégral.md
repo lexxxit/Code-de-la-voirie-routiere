@@ -1,5 +1,5 @@
 # Code de la voirie routière  
-Version Consolidée au 2008-03-01
+Version Consolidée au 2008-12-29
 
 # Partie législative
 
@@ -1621,183 +1621,6 @@ l'exploitation des sociétés d'économie mixte dans lesquelles les intérêts p
 	  - Code de la voirie routière - art. L122-7 (Ab)
 
 
-###### Article L122-7
-
-Les créances que l'Etat détient sur les sociétés d'économie mixte concessionnaires d'autoroutes soit en application du
-dernier alinéa de l'article L. 122-4, soit en application du deuxième alinéa de l'article L. 122-6, soit enfin au titre de la
-mise en jeu de la garantie prévue à ce dernier article, sont transférées à un établissement public dénommé "Autoroutes de
-France".
-
-Les statuts de cet établissement sont fixés par décret en Conseil d'Etat.
-
-Son conseil d'administration comprend deux parlementaires désignés, l'un par l'Assemblée nationale, l'autre par le Sénat.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°82-1152 1982-12-30 art. 29 I al. 1
-
-	**Codifié par**:
-
-	  - Loi n°89-413 1989-06-22 JORF 24 juin 1989
-
-	**Créé par**:
-
-	  - Loi n°89-413 1989-06-22 jorf 24 juin 1989
-
-	**Abrogé par**:
-
-	  - Loi n°2008-1425 du 27 décembre 2008 - art. 63 (VD)
-
-	**Cité par**:
-
-	  - Code de la voirie routière - art. L122-10 (Ab)
-	  - Code de la voirie routière - art. R*122-17 (V)
-	  - Code de la voirie routière - art. R*122-19 (V)
-	  - Code de la voirie routière - art. R*122-20 (V)
-
-	**Cite**:
-
-	  - Code de la voirie routière - art. L122-4
-	  - Code de la voirie routière - art. L122-6
-
-
-###### Article L122-8
-
-La date du transfert prévu à l'article précédent est soit celle du 2 septembre 1983 pour les avances consenties avant cette
-date aux sociétés d'économie mixte existantes, soit, le cas échéant, celle de la transformation effective des sociétés
-concessionnaires à capitaux privés en sociétés d'économie mixte, soit, enfin, pour les autres avances consenties
-ultérieurement, la date de leur versement.
-
-Le montant des créances transférées est celui constaté à la date des transferts.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°82-1152 1982-12-30 art. 29 I al. 2
-
-	**Codifié par**:
-
-	  - Loi n°89-413 1989-06-22 JORF 24 juin 1989
-
-	**Créé par**:
-
-	  - Loi n°89-413 1989-06-22 jorf 24 juin 1989
-
-	**Abrogé par**:
-
-	  - Loi n°2008-1425 du 27 décembre 2008 - art. 63 (VD)
-
-	**Cité par**:
-
-	  - Code de la voirie routière - art. R*122-17 (V)
-
-
-###### Article L122-9
-
-Dès que sa situation financière le permettra, compte tenu de la mise en oeuvre des dispositions des articles L. 122-10 et L.
-122-11, l'établissement remboursera ces créances à l'Etat dans des conditions fixées par décret.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°82-1152 1982-12-30 art. 29 I al. 3
-
-	**Codifié par**:
-
-	  - Loi n°89-413 1989-06-22 JORF 24 juin 1989
-
-	**Créé par**:
-
-	  - Loi n°89-413 1989-06-22 jorf 24 juin 1989
-
-	**Abrogé par**:
-
-	  - Loi n°2008-1425 du 27 décembre 2008 - art. 63 (VD)
-
-	**Cite**:
-
-	  - Code de la voirie routière - art. L122-10
-
-	**Cité par**:
-
-	  - Code de la voirie routière - art. R*122-17 (V)
-
-
-###### Article L122-10
-
-Les cahiers des charges des sociétés d'économie mixte concessionnaires doivent prévoir que les sociétés dont les exercices
-annuels dégagent un solde excédentaire, tel que défini ci-après, sont tenues de rembourser immédiatement, dans la limite de
-cet excédent, les créances transférées à l'établissement en vertu de l'article L. 122-7.
-
-Le solde mentionné à l'alinéa précédent est égal à la différence entre, d'une part, les recettes d'exploitation de la
-société, et, d'autre part, ses dépenses d'exploitation majorées des remboursements d'emprunts.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°82-1152 1982-12-30 art. 29 II al. 1, 2
-	  - Loi n°82-1152 du 30 décembre 1982 - art. 2, v. init.
-
-	**Codifié par**:
-
-	  - Loi n°89-413 1989-06-22 JORF 24 juin 1989
-
-	**Créé par**:
-
-	  - Loi n°89-413 1989-06-22 jorf 24 juin 1989
-
-	**Abrogé par**:
-
-	  - Loi n°2008-1425 du 27 décembre 2008 - art. 63 (VD)
-
-	**Cité par**:
-
-	  - Code de la voirie routière - art. L122-11 (Ab)
-	  - Code de la voirie routière - art. L122-9 (Ab)
-	  - Code de la voirie routière - art. R*122-17 (V)
-
-	**Cite**:
-
-	  - Code de la voirie routière - art. L122-7
-
-
-###### Article L122-11
-
-L'établissement peut consentir aux sociétés d'économie mixte concessionnaires des avances qui lui sont remboursées dans les
-conditions prévues à l'article L. 122-10.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°82-1152 1982-12-30 art. 29 II al. 3
-
-	**Codifié par**:
-
-	  - Loi n°89-413 1989-06-22 JORF 24 juin 1989
-
-	**Créé par**:
-
-	  - Loi n°89-413 1989-06-22 jorf 24 juin 1989
-
-	**Abrogé par**:
-
-	  - Loi n°2008-1425 du 27 décembre 2008 - art. 63 (VD)
-
-	**Cite**:
-
-	  - Code de la voirie routière - art. L122-10
-
-	**Cité par**:
-
-	  - Code de la voirie routière - art. R*122-17 (V)
-
-
 ### Chapitre III : Routes nationales.
 
 ###### Article L123-1
@@ -3066,25 +2889,11 @@ Les conditions de construction et d'exploitation du tunnel routier du Fréjus fo
 relatif aux questions fiscales et douanières, signés à Paris le 23 février 1972 entre la République française et la
 République italienne, ratifiés par la loi n° 72-627 du 5 juillet 1972.
 
-Les dispositions des articles L. 122-7 à L. 122-11 relatives à l'établissement public " Autoroutes de France " sont
-applicables à la société française concessionnaire du tunnel du Fréjus dans les mêmes conditions qu'aux sociétés d'économie
-mixte concessionnaires d'autoroutes.
-
 **Liens relatifs à cet article**
 
-	**Cite**:
+	**Modifié par**:
 
-	  - Convention 1972-02-23 Paris
-	  - Loi n°72-627 1972-07-05
-	  - Code de la voirie routière L122-7 à L122-11
-
-	**Codifié par**:
-
-	  - Loi n°89-413 1989-06-22 JORF 24 juin 1989
-
-	**Créé par**:
-
-	  - Loi n°89-413 1989-06-22 jorf 24 juin 1989
+	  - Loi n°2008-1425 du 27 décembre 2008 - art. 63 (VD)
 
 
 ###### Article L153-9
