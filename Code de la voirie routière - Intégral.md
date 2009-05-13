@@ -1,5 +1,5 @@
 # Code de la voirie routière  
-Version Consolidée au 2009-04-09
+Version Consolidée au 2009-05-14
 
 # Partie législative
 
@@ -536,28 +536,20 @@ définit ces servitudes.
 
 Ce plan est soumis à une enquête publique.
 
-Il est approuvé par le représentant de l'Etat dans le département après avis du conseil municipal et, s'il y a lieu, du
-conseil général.
+Il est approuvé par le représentant de l'Etat dans le département, le conseil général ou le conseil municipal, selon qu'il
+s'agit d'une route nationale, d'une route départementale ou d'une voie communale.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Loi n°89-413 1989-06-22 JORF 24 juin 1989
-
-	**Créé par**:
-
-	  - Loi n°89-413 1989-06-22 jorf 24 juin 1989
+	  - Loi n°2009-526 du 12 mai 2009 - art. 99
 
 	**Cité par**:
 
 	  - Code de l'urbanisme - art. (V)
 	  - Code de la voirie routière - art. L114-2 (V)
 	  - Code de la voirie routière - art. R*114-1 (V)
-
-	**Anciens textes**:
-
-	  - Décret-loi 1935-10-30 art. 3 (partie)
 
 
 ###### Article L114-4
@@ -2529,28 +2521,20 @@ Le caractère de route express est retiré dans les mêmes formes.
 
 ###### Article L151-3
 
-Les propriétés riveraines des routes express n'ont pas d'accès direct à celles-ci.
+Les propriétés riveraines des routes express n'ont pas d'accès direct à celles-ci. 
 
-Dès la publication du décret conférant à une route ou section de route le caractère de route express, aucun accès ne peut
+Dès la publication de l'arrêté conférant à une route ou section de route le caractère de route express, aucun accès ne peut
 être créé ou modifié par les riverains, mais les interdictions applicables aux accès existants ne peuvent entrer en vigueur
-qu'après le rétablissement de la desserte des parcelles intéressées.
+qu'après le rétablissement de la desserte des parcelles intéressées. 
 
 Des servitudes destinées à éviter les abus de publicité peuvent être imposées aux propriétés riveraines ou voisines dans les
 conditions fixées par décret en Conseil d'Etat.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Loi n°69-7 1969-01-03 art. 4 Loi 70-759 1970-08-18 art. 4 al. 3
-
-	**Codifié par**:
-
-	  - Loi n°89-413 1989-06-22 JORF 24 juin 1989
-
-	**Créé par**:
-
-	  - Loi n°89-413 1989-06-22 jorf 24 juin 1989
+	  - Loi n°2009-526 du 12 mai 2009 - art. 99
 
 	**Cité par**:
 
