@@ -1,5 +1,5 @@
 # Code de la voirie routière  
-Version Consolidée au 2009-05-14
+Version Consolidée au 2009-12-10
 
 # Partie législative
 
@@ -2840,31 +2840,19 @@ Un décret en Conseil d'Etat fixe les conditions d'application des articles L. 1
 
 ###### Article L153-7
 
-Les conditions de construction et d'exploitation du tunnel routier sous le Mont-Blanc font l'objet :
-
-1° De la convention signée à Paris, le 14 mars 1953, entre la République française et la République italienne, ratifiée par
-la loi n° 57-506 du 17 avril 1957 ;
-
-2° De l'avenant à ladite convention en date du 25 mars 1965 ;
-
-3° De l'échange de lettres du 1er mars 1966 entre la France et l'Italie relatif à la constitution d'une commission franco-
-italienne de contrôle du tunnel sous le Mont-Blanc.
+Les conditions d'exploitation du tunnel routier sous le Mont-Blanc font l'objet de la convention relative au tunnel routier
+sous le Mont-Blanc signée à Lucques le 24 novembre 2006 entre le Gouvernement de la République française et le Gouvernement
+de la République italienne, dont l'approbation a été autorisée par la loi n° 2008-575 du 19 juin 2008.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Convention 1953-03-14 Paris
-	  - Lettre 1965-03-25
-	  - Loi n°57-506 1957-04-17
+	  - Loi n°2008-575 du 19 juin 2008, v. init.
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Loi n°89-413 1989-06-22 JORF 24 juin 1989
-
-	**Créé par**:
-
-	  - Loi n°89-413 1989-06-22 jorf 24 juin 1989
+	  - Loi n°2009-1503 du 8 décembre 2009 - art. 32 (V)
 
 
 ###### Article L153-8
