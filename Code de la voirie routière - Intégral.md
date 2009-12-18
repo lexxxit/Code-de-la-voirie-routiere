@@ -1,5 +1,5 @@
 # Code de la voirie routière  
-Version Consolidée au 2009-12-10
+Version Consolidée au 2009-12-19
 
 # Partie législative
 
@@ -8076,78 +8076,26 @@ du code de la route.
 
 ###### Article R*153-1
 
-La redevance prévue à l'article L. 153-1 au profit des communes ou groupements de communes peut être perçue sur les ouvrages
-d'art répondant aux conditions de dimension et de coût suivantes :
+Le péage prévu à l'article L. 153-1 au profit des communes, groupements de communes, départements et de l'Etat peut être
+perçu sur les ouvrages d'art répondant aux conditions de dimension et de coût suivantes : 
 
-1° Une surface de chaussée de pont, de tunnel ou de tranchée couverte égale ou supérieure à 4 000 mètres carrés ;
+1. Une surface de chaussée de pont, de tunnel ou de tranchée couverte égale ou supérieure à 4 000 mètres carrés ; 
 
-2° Un coût prévisionnel total égal ou supérieur à 100 millions de francs, ce seuil variant par application d'un coefficient
-égal au rapport entre l'index national des travaux publics TP 02 publié au Bulletin officiel de la concurrence et de la
-consommation tel que constaté le jour de la délibération se prononçant sur le recours à la redevance et l'index TP 02
-applicable à la date du 5 mai 1988.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°88-500 du 29 avril 1988 - art. 1 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°89-631 1989-09-04
-
-	**Créé par**:
-
-	  - Décret n°89-631 1989-09-04 jorf 8 septembre 1989
-
-	**Cite**:
-
-	  - Code de la voirie routière - art. L153-1 (M)
-
-
-###### Article R*153-2
-
-L'institution d'une redevance sur un ouvrage d'art à comprendre dans le domaine public routier communal est, conformément à
-l'article L. 153-5, autorisée par décret en Conseil d'Etat au vu d'un dossier comportant la déclaration d'utilité publique
-des travaux et les délibérations du conseil municipal ou de l'assemblée délibérante du groupement de communes :
-
-1° Décidant la réalisation de l'ouvrage ;
-
-2° Précisant les conditions dans lesquelles sera assurée soit la couverture des charges de remboursement des emprunts
-garantis ou contractés par la commune ou le groupement de communes pour la construction de l'ouvrage, soit la couverture des
-charges d'exploitation et d'entretien ainsi que la rémunération et l'amortissement des capitaux investis par le
-concessionnaire assurant l'exploitation de l'ouvrage d'art ;
-
-3° Approuvant un plan de financement lorsque l'ouvrage doit être construit ou exploité en régie ou les projets de convention
-de concession et de cahier des charges lorsque la construction ou l'exploitation de l'ouvrage est confiée à un
-concessionnaire ;
-
-4° Fixant les tarifs des redevances ainsi que les modalités de leur application.
-
-Le décret en Conseil d'Etat mentionné au présent article est pris sur le rapport des ministres chargés de l'économie, des
-collectivités locales et de la voirie routière nationale.
+2. Un coût prévisionnel égal ou supérieur à 28, 7 millions d'euros, ce seuil variant par l'application d'un coefficient égal
+au rapport entre l'index national des travaux publics TP 01 publié au Bulletin officiel de la concurrence et de la
+consommation tel que constaté au jour de la délibération de l'assemblée délibérante des communes, groupements de communes ou
+départements se prononçant sur le recours à un péage, ou, pour l'Etat, au jour de la décision d'instituer un péage, et
+l'index TP 01 applicable à la date du 1er janvier 2009.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Décret n°88-500 du 29 avril 1988 - art. 2 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°89-631 1989-09-04
-
-	**Créé par**:
-
-	  - Décret n°89-631 1989-09-04 jorf 8 septembre 1989
-
-	**Abrogé par**:
-
-	  - Décret n°2009-1574 du 16 décembre 2009 - art. 2
+	  - Décret n°2009-1574 du 16 décembre 2009 - art. 1
 
 	**Cite**:
 
-	  - Code de la voirie routière - art. L153-5 (M)
+	  - Code de la voirie routière - art. L153-1
 
 
 #### Section 2: Dispositions particulières.
