@@ -1,5 +1,5 @@
 # Code de la voirie routière  
-Version Consolidée au 2010-01-01
+Version Consolidée au 2010-05-08
 
 # Partie législative
 
@@ -1717,33 +1717,17 @@ Par dérogation à l'article L. 112-8, en cas de déclassement d'une section de 
 chargé de la voirie routière nationale ou, par délégation, le représentant de l'Etat dans le département peut remettre
 gratuitement, avant toute cession des terrains déclassés, une bande de terrain pour créer un chemin nécessaire à la desserte
 des propriétés riveraines, sur lequel sont applicables les dispositions du chapitre III du titre II du livre Ier du code
-rural.
+rural et de la pêche maritime.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°73-981 1973-10-18 art. 6
-
-	**Codifié par**:
-
-	  - Loi n°89-413 1989-06-22 JORF 24 juin 1989
-
-	**Créé par**:
-
-	  - Loi n°89-413 1989-06-22 jorf 24 juin 1989
 
 	**Cité par**:
 
 	  - Loi n°89-413 du 22 juin 1989 - art. 3 (V)
 
-	**Modifié par**:
-
-	  - Ordonnance n°2010-462 du 6 mai 2010 - art. 1
-
 	**Cite**:
 
-	  - Code de la voirie routière L112-8 Code rural livre I titre II chapitre III
+	  - Code de la voirie routière - art. L112-8 (V)
 
 
 ###### Article L123-5
@@ -2908,23 +2892,19 @@ Tancarville.
 ###### Article L161-1
 
 Les chemins ruraux appartiennent au domaine privé de la commune. Ils sont affectés à la circulation publique et soumis aux
-dispositions du chapitre Ier du titre II du livre Ier du code rural.
+dispositions du chapitre Ier du titre II du livre Ier du code rural et de la pêche maritime.
 
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°89-413 1989-06-22 JORF 24 juin 1989
-
-	**Créé par**:
-
-	  - Loi n°89-413 1989-06-22 jorf 24 juin 1989
 
 	**Cité par**:
 
 	  - Décret n°2002-1209 du 27 septembre 2002 - art. 5 (V)
 	  - Décret n°2016-922 du 5 juillet 2016 (V)
 	  - Code de la route. - art. L110-2 (V)
+
+	**Modifié par**:
+
+	  - Ordonnance n°2010-462 du 6 mai 2010 - art. 1
 
 	**Liens**:
 
@@ -8149,7 +8129,7 @@ d'économie mixte concessionnaires d'autoroutes.
 ###### Article R*161-1
 
 Sont applicables aux chemins ruraux les dispositions du décret n° 64-527 du 5 juin 1964 et du décret n° 69-897 du 18
-septembre 1969 pris en application du chapitre Ier du titre II du livre Ier du code rural.
+septembre 1969 pris en application du chapitre Ier du titre II du livre Ier du code rural et de la pêche maritime.
 
 **Liens relatifs à cet article**
 
@@ -8158,18 +8138,9 @@ septembre 1969 pris en application du chapitre Ier du titre II du livre Ier du c
 	  - Décret n°64-527 1964-06-05
 	  - Décret n°69-897 1969-09-18
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Décret n°68-897 1969-09-18 renvoi
-	  - Décrets 64-527 1964-06-05 renvoi
-
-	**Codifié par**:
-
-	  - Décret n°89-631 1989-09-04
-
-	**Créé par**:
-
-	  - Décret n°89-631 1989-09-04 jorf 8 septembre 1989
+	  - Ordonnance n°2010-462 du 6 mai 2010 - art. 1
 
 
 ###### Article R*161-2
