@@ -1,5 +1,5 @@
 # Code de la voirie routière  
-Version Consolidée au 2010-05-08
+Version Consolidée au 2010-07-14
 
 # Partie législative
 
@@ -57,23 +57,27 @@ réseaux.
 ###### Article L112-1
 
 L'alignement est la détermination par l'autorité administrative de la limite du domaine public routier au droit des
-propriétés riveraines. Il est fixé soit par un plan d'alignement, soit par un alignement individuel.
+propriétés riveraines. Il est fixé soit par un plan d'alignement, soit par un alignement individuel. 
 
-Le plan d'alignement, auquel est joint un plan parcellaire, détermine après enquête publique la limite entre voie publique et
-propriétés riveraines.
+Le plan d'alignement, auquel est joint un plan parcellaire, détermine après enquête publique ouverte par l'autorité exécutive
+de la collectivité territoriale ou de l'établissement public de coopération intercommunale, propriétaire de la voie, et
+organisée conformément aux dispositions du code de l'expropriation pour cause d'utilité publique la limite entre voie
+publique et propriétés riveraines.
 
 L'alignement individuel est délivré au propriétaire conformément au plan d'alignement s'il en existe un. En l'absence d'un
 tel plan, il constate la limite de la voie publique au droit de la propriété riveraine.
 
+**Nota:**
+
+Ces dispositions s'appliquent aux projets, plans, programmes ou autres documents de planification pour lesquels l'arrêté
+d'ouverture et d'organisation de l'enquête publique est publié à compter du premier jour du sixième mois après la publication
+du décret en Conseil d'Etat prévu à l'article L. 123-19 du code de l'environnement.
+
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Loi n°89-413 1989-06-22 JORF 24 juin 1989
-
-	**Créé par**:
-
-	  - Loi n°89-413 1989-06-22 jorf 24 juin 1989
+	  - Loi n°2010-788 du 12 juillet 2010 - art. 242
 
 	**Cité par**:
 
@@ -532,18 +536,24 @@ de manière à réaliser des conditions de vue satisfaisantes.
 ###### Article L114-3
 
 Un plan de dégagement détermine, pour chaque parcelle, les terrains sur lesquels s'exercent des servitudes de visibilité et
-définit ces servitudes.
+définit ces servitudes. 
 
-Ce plan est soumis à une enquête publique.
+Ce plan est soumis à une enquête publique ouverte par l'autorité exécutive de la collectivité territoriale ou de
+l'établissement public de coopération intercommunale, propriétaire de la voie, et organisée conformément aux dispositions du
+code de l'expropriation pour cause d'utilité publique. 
 
 Il est approuvé par le représentant de l'Etat dans le département, le conseil général ou le conseil municipal, selon qu'il
 s'agit d'une route nationale, d'une route départementale ou d'une voie communale.
+
+**Nota:**
+
+
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Loi n°2009-526 du 12 mai 2009 - art. 99
+	  - Loi n°2010-788 du 12 juillet 2010 - art. 242
 
 	**Cité par**:
 
@@ -1203,7 +1213,9 @@ mise à jour sont fixés par décret en Conseil d'Etat.
 	  - Code général des collectivités territoriales - art. L1614-7 (V)
 
 
-### Chapitre X : Service européen de télépéage.
+### Chapitre X :  Dispositions relatives aux péages
+
+#### Section 1 : Service européen de télépéage
 
 ###### Article L119-2
 
@@ -1215,13 +1227,9 @@ est inférieur à un montant fixé par décret.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Liens**:
 
-	  - Loi n°89-413 1989-06-22 JORF 24 juin 1989
-
-	**Créé par**:
-
-	  - Loi n°2006-10 du 5 janvier 2006 - art. 51 (V) JORF 6 janvier 2006
+	  - DEPLACE: Loi n°2010-788 du 12 juillet 2010 - art. 60
 
 	**Cité par**:
 
@@ -1237,13 +1245,9 @@ utilisent un ou plusieurs procédés définis par décret.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Liens**:
 
-	  - Loi n°89-413 1989-06-22 JORF 24 juin 1989
-
-	**Créé par**:
-
-	  - Loi n°2006-10 du 5 janvier 2006 - art. 51 (V) JORF 6 janvier 2006
+	  - DEPLACE: Loi n°2010-788 du 12 juillet 2010 - art. 60
 
 	**Cite**:
 
@@ -1252,6 +1256,193 @@ utilisent un ou plusieurs procédés définis par décret.
 	**Cité par**:
 
 	  - Code du travail - art. L6241-5 (V)
+
+
+###### Article L119-4
+
+I. ― Seuls les prestataires du service européen de télépéage, définis aux articles 2 et suivants de la décision 2009/750/CE
+de la Commission européenne du 6 octobre 2009 relative à la définition du service européen de télépéage et à ses aspects
+techniques, inscrits sur un registre ouvert dans un Etat membre de l'Union européenne où ils sont établis, peuvent exercer
+leur activité en France.
+
+Un décret en Conseil d'Etat fixe les conditions que doit remplir un prestataire de service européen de télépéage pour obtenir
+son inscription au registre national.
+
+II. ― L'Etat tient le registre des secteurs de péage prévu à l'article 19 de la décision visée au I. Acette fin, les
+percepteurs de péage fournissent à l'Etat les informations prévues par cette décision.
+
+III. ― Les prestataires et utilisateurs du service européen de télépéage et les percepteurs de péages sont soumis à des
+obligations définies par décret en Conseil d'Etat visant à assurer la mise en œuvre et la continuité du service rendu en
+garantissant un accès aux secteurs du service européen de télépéage sans discrimination pour les prestataires,
+l'interopérabilité du système, le bon fonctionnement des équipements ainsi que l'information des utilisateurs.
+
+IV. ― Les constituants permettant d'assurer l'interopérabilité du service européen de télépéage, qu'ils soient matériels ou
+immatériels, ne peuvent être mis sur le marché que s'ils sont munis d'un marquage "CE ”  . Ils sont alors présumés satisfaire
+aux exigences essentielles définies par la décision visée au I.
+
+Si un constituant muni d'un marquage "CE” ne satisfait pas aux exigences essentielles, l'autorité administrative peut en
+interdire l'emploi et le faire retirer du marché.
+
+Un décret en Conseil d'Etat fixe les règles relatives à la mise sur le marché, au retrait ou à l'interdiction de ces
+constituants.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2010-788 du 12 juillet 2010 - art. 59
+
+	**Liens**:
+
+	  - DEPLACE: Loi n°2010-788 du 12 juillet 2010 - art. 60
+
+	**Cité par**:
+
+	  - Décret n°2011-812 du 5 juillet 2011 - art. 6 (VD)
+	  - Décret n°2011-813 du 5 juillet 2011 (V)
+	  - Décret n°2012-313 du 5 mars 2012 (V)
+	  - Décret n°2012-645 du 3 mai 2012 - art. 1 (V)
+	  - Code de la voirie routière - art. R*119-13 (V)
+	  - Code de la voirie routière - art. R*119-18 (V)
+	  - Code de la voirie routière - art. R119-12 (VD)
+
+
+#### Section 2 : Péages applicables aux véhicules de transport 
+de marchandises par route 
+
+###### Article L119-5
+
+Les péages sont perçus sans discrimination directe ou indirecte en raison de la nationalité du transporteur, de
+l'immatriculation du véhicule, de l'origine ou de la destination du transport. Lorsqu'ils portent sur les véhicules à moteur
+ou ensembles de véhicules couplés qui sont destinés ou utilisés exclusivement au transport de marchandises par route et dont
+le poids total en charge autorisé est supérieur à 3,5 tonnes, ils font l'objet de modulations dans le respect de la présente
+section. 
+
+Les contrats de délégation de service public et leurs cahiers des charges mentionnés à l'article L. 122-4 fixent les
+conditions d'application de ces modulations.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2010-788 du 12 juillet 2010 - art. 60
+
+	**Cite**:
+
+	  - Code de la voirie routière - art. L122-4 (V)
+
+
+###### Article L119-6
+
+Les modulations des péages ont pour but de lutter contre les dommages causés à l'environnement, de résorber la congestion du
+trafic, de réduire les dommages causés aux infrastructures, de favoriser leur utilisation optimale et d'améliorer la sécurité
+routière.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2010-788 du 12 juillet 2010 - art. 60
+
+
+###### Article L119-7
+
+I. ― Les modulations des péages sont fixées de sorte qu'elles restent sans effet sur le montant total des recettes de
+l'exploitant. La structure de la modulation est modifiée dans les deux ans suivant la fin de l'exercice au cours duquel la
+structure précédente est mise en œuvre. 
+
+II. ― Au plus tard le 1er janvier 2010 ou, pour les contrats de délégation de service public en cours, dès leur
+renouvellement, les péages sont modulés en fonction de la classe d'émission EURO du véhicule, au sens de l'annexe 0 de la
+directive 1999 / 62 / CE du Parlement européen et du Conseil du 17 juin 1999 relative à la taxation des poids lourds pour
+l'utilisation de certaines infrastructures. Le péage modulé à acquitter ne peut être supérieur de plus de 100 % au péage
+appliqué aux véhicules équivalents qui respectent les normes d'émission les plus strictes. 
+
+III. ― Les péages peuvent être modulés en fonction du moment de la journée, de la date et du jour de la semaine. Le péage
+modulé à acquitter ne doit pas être d'un montant supérieur de plus de 100 % à celui prévu au titre de la période bénéficiant
+du tarif le plus bas. Si cette dernière période bénéficie d'une exonération tarifaire, la modulation prévue pour la période
+au tarif le plus élevé n'excède pas 50 % du montant du péage normalement applicable au véhicule en cause.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2010-788 du 12 juillet 2010 - art. 60
+
+	**Cité par**:
+
+	  - Décret n°2012-314 du 5 mars 2012 (V)
+	  - Arrêté du 16 mars 2012 (V)
+	  - Code de la voirie routière - art. D119-31-1 (V)
+	  - Code de la voirie routière - art. D119-31-2 (V)
+	  - Code de la voirie routière - art. L119-8 (V)
+
+
+###### Article L119-8
+
+Un décret en Conseil d'Etat détermine, en tant que de besoin, les conditions d'application de la présente section. Il précise
+en particulier les conditions dans lesquelles s'appliquent les dispositions de l'article L. 119-7 relatives aux véhicules non
+munis d'un équipement embarqué. 
+
+Le Gouvernement remet au Parlement un rapport annuel sur l'évolution des péages pour chaque exploitant autoroutier.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2010-788 du 12 juillet 2010 - art. 60
+
+	**Cité par**:
+
+	  - Loi n°2011-525 du 17 mai 2011 - art. 69 (V)
+	  - Décret n°2012-314 du 5 mars 2012 (V)
+
+	**Cite**:
+
+	  - Code de la voirie routière - art. L119-7 (V)
+
+
+#### Section 3 : Péages applicables aux véhicules de transport de personnes
+
+###### Article L119-9
+
+Les péages sont perçus sans discrimination directe ou indirecte en raison de la nationalité du conducteur, de
+l'immatriculation du véhicule ou du trajet effectué. Ils peuvent faire l'objet de modulations dans le respect des
+dispositions de la présente section.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2010-788 du 12 juillet 2010 - art. 60
+
+	**Cité par**:
+
+	  - Décret n°2012-315 du 5 mars 2012 (V)
+
+
+###### Article L119-10
+
+Les modulations des péages ont pour but de lutter contre les dommages causés à l'environnement, de résorber la congestion du
+trafic, de réduire au minimum les dommages causés aux infrastructures, de favoriser leur utilisation optimale ou d'améliorer
+la sécurité routière. 
+
+Les contrats de délégation de service public et leurs cahiers des charges mentionnés à l'article L. 122-4 fixent les
+conditions d'application de ces modulations. 
+
+Les modulations de péages sont fixées de sorte qu'elles restent sans effet sur le montant total des recettes de
+l'exploitant. 
+
+Un décret en Conseil d'Etat fixe les conditions d'application du présent article.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2010-788 du 12 juillet 2010 - art. 60
+
+	**Cite**:
+
+	  - Code de la voirie routière - art. L122-4 (V)
 
 
 ## TITRE II : Voirie nationale.
@@ -1501,32 +1692,6 @@ Le produit du péage couvre ses frais de perception.
 	**Modifié par**:
 
 	  - Loi n°2004-809 du 13 août 2004 - art. 20 () JORF 17 août 2004 en vigueur le 1er janvier 2005
-
-
-###### Article L122-4-1
-
-Les péages perçus sur les véhicules à moteur ou ensembles de véhicules couplés destinés exclusivement au transport de
-marchandises par route, et ayant un poids total en charge autorisé égal ou supérieur à 12 tonnes, sont appliqués sans
-discrimination directe ou indirecte en raison de la nationalité du transporteur ou de l'origine ou de la destination du
-transport.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°89-413 1989-06-22 JORF 24 juin 1989
-
-	**Créé par**:
-
-	  - Ordonnance n°2001-273 du 28 mars 2001 - art. 1
-
-	**Abrogé par**:
-
-	  - Loi n°2010-788 du 12 juillet 2010 - art. 60
-
-	**Cité par**:
-
-	  - Code de la voirie routière - art. R122-5-5 (V)
 
 
 ###### Article L122-4-2
@@ -1938,7 +2103,9 @@ sauf lorsque l'opération envisagée a pour conséquence de porter atteinte aux 
 par la voie.
 
 A défaut d'enquête relevant d'une autre réglementation et ayant porté sur ce classement ou déclassement, l'enquête rendue
-nécessaire en vertu de l'alinéa précédent se déroule selon les modalités prévues aux articles R. 131-3 à R. 131-8.
+nécessaire en vertu du deuxième alinéa est ouverte par l'autorité exécutive de la collectivité territoriale ou de
+l'établissement public de coopération intercommunale, propriétaire de la voie, et organisée conformément aux dispositions du
+code de l'expropriation pour cause d'utilité publique. 
 
 Lorsque l'opération comporte une expropriation, l'enquête d'utilité publique tient lieu de l'enquête prévue à l'alinéa
 précédent.
@@ -1946,15 +2113,11 @@ précédent.
 Le conseil général est également compétent pour approuver les projets, les plans et les devis des travaux à exécuter pour la
 construction et la rectification des routes.
 
+**Nota:**
+
+
+
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°1938-10-25 art. 3
-
-	**Codifié par**:
-
-	  - Loi n°89-413 1989-06-22 JORF 24 juin 1989
 
 	**Cité par**:
 
@@ -1963,11 +2126,7 @@ construction et la rectification des routes.
 
 	**Modifié par**:
 
-	  - Loi n°2004-1343 du 9 décembre 2004 - art. 62 () JORF 10 décembre 2004
-
-	**Cite**:
-
-	  - Code de la voirie routière R131-3 à R131-8
+	  - Loi n°2010-788 du 12 juillet 2010 - art. 242
 
 
 ###### Article L131-5
@@ -2155,30 +2314,31 @@ communes.
 
 Le classement et le déclassement des voies communales sont prononcés par le conseil municipal. Ce dernier est également
 compétent pour l'établissement des plans d'alignement et de nivellement, l'ouverture, le redressement et l'élargissement des
-voies.
+voies. 
 
 Les délibérations concernant le classement ou le déclassement sont dispensées d'enquête publique préalable sauf lorsque
-l'opération envisagée a pour conséquence de porter atteinte aux fonctions de desserte ou de circulation assurées par la voie.
+l'opération envisagée a pour conséquence de porter atteinte aux fonctions de desserte ou de circulation assurées par la
+voie. 
 
 A défaut d'enquête relevant d'une autre réglementation et ayant porté sur ce classement ou déclassement, l'enquête rendue
-nécessaire en vertu de l'alinéa précédent se déroule selon les modalités prévues aux articles R. 141-4 à R. 141-10.
+nécessaire en vertu du deuxième alinéa est ouverte par l'autorité exécutive de la collectivité territoriale ou de
+l'établissement public de coopération intercommunale, propriétaire de la voie, et organisée conformément aux dispositions du
+code de l'expropriation pour cause d'utilité publique. 
 
-Les enquêtes prévues aux articles L. 123-3-1 et L. 318-3 du code de l'urbanisme tiennent lieu de l'enquête prévue à l'alinéa
-précédent. Il en va de même de l'enquête d'utilité publique lorsque l'opération comporte une expropriation.
+L'enquête prévue à l'article L. 318-3 du code de l'urbanisme tient lieu de l'enquête prévue à l'alinéa précédent. Il en va de
+même de l'enquête d'utilité publique lorsque l'opération comporte une expropriation.
+
+**Nota:**
+
+Ces dispositions s'appliquent aux projets, plans, programmes ou autres documents de planification pour lesquels l'arrêté
+d'ouverture et d'organisation de l'enquête publique est publié à compter du premier jour du sixième mois après la publication
+du décret en Conseil d'Etat prévu à l'article L. 123-19 du code de l'environnement.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Ordonnance n°59-115 du 7 janvier 1959 - art. 2 (Ab)
-
-	**Codifié par**:
-
-	  - Loi n°89-413 1989-06-22 JORF 24 juin 1989
-
 	**Modifié par**:
 
-	  - Loi n°2005-809 du 20 juillet 2005 - art. 9 () JORF 21 juillet 2005
+	  - Loi n°2010-788 du 12 juillet 2010 - art. 242
 
 	**Cité par**:
 
@@ -2186,9 +2346,7 @@ précédent. Il en va de même de l'enquête d'utilité publique lorsque l'opér
 
 	**Cite**:
 
-	  - Code de la voirie routière R141-4 à R141-10
-	  - Code de l'urbanisme - art. L123-3-1 (Ab)
-	  - Code de l'urbanisme - art. L318-3 (M)
+	  - Code de l'urbanisme - art. L318-3 (V)
 
 
 ###### Article L141-4
@@ -2474,12 +2632,13 @@ d'usagers et de véhicules.
 ###### Article L151-2
 
 Le caractère de route express est conféré à une route ou à une section de route, existante ou à créer, par arrêté ministériel
-lorsque la voie appartient au domaine public de l'Etat et par arrêté préfectoral dans les autres cas.S'il s'agit d'une route
-nouvelle, l'arrêté peut emporter déclaration d'utilité publique. Il est alors pris après enquête publique et avis des
-départements et des communes dont le territoire est traversé par la route. 
+lorsque la voie appartient au domaine public de l'Etat et par arrêté préfectoral dans les autres cas. S'il s'agit d'une route
+nouvelle, l'arrêté peut emporter déclaration d'utilité publique. Il est alors pris après enquête publique réalisée
+conformément aux dispositions du code de l'expropriation pour cause d'utilité publique et avis des départements et des
+communes dont le territoire est traversé par la route.
 
 Sur route express existante, les travaux de réalisation d'ouvrages annexes, d'élargissement et de raccordement à d'autres
-voies publiques sont réalisés et classés en route express par arrêté préfectoral.L'enquête préalable à la déclaration de
+voies publiques sont réalisés et classés en route express par arrêté préfectoral. L'enquête préalable à la déclaration de
 projet ou préalable à la déclaration d'utilité publique porte également sur le classement et sur les conditions de
 désenclavement des propriétés riveraines éventuellement concernées par une modification de leurs conditions d'accès à une
 voie publique.
@@ -2488,6 +2647,12 @@ Les avis mentionnés au premier alinéa doivent être donnés par les assemblée
 la saisine. L'absence d'avis dans ce délai vaut avis favorable.
 
 Le caractère de route express est retiré dans les mêmes formes.
+
+**Nota:**
+
+Ces dispositions s'appliquent aux projets, plans, programmes ou autres documents de planification pour lesquels l'arrêté
+d'ouverture et d'organisation de l'enquête publique est publié à compter du premier jour du sixième mois après la publication
+du décret en Conseil d'Etat prévu à l'article L. 123-19 du code de l'environnement.
 
 **Liens relatifs à cet article**
 
@@ -2500,7 +2665,7 @@ Le caractère de route express est retiré dans les mêmes formes.
 
 	**Modifié par**:
 
-	  - Loi n°2007-1787 du 20 décembre 2007 - art. 17 (V)
+	  - Loi n°2010-788 du 12 juillet 2010 - art. 242
 
 
 ###### Article L151-3
@@ -2760,28 +2925,6 @@ notamment, de ceux qui ont leur domicile ou leur lieu de travail dans le ou les 
 
 	  - Code de la voirie routière - art. L153-5 (M)
 	  - Code général des collectivités territoriales - art. L3213-4 (VD)
-
-
-###### Article L153-4-1
-
-Les péages perçus sur les véhicules à moteur ou ensembles de véhicules couplés destinés exclusivement au transport de
-marchandises par route, et ayant un poids total en charge autorisé égal ou supérieur à 12 tonnes, sont appliqués sans
-discrimination directe ou indirecte en raison de la nationalité du transporteur ou de l'origine ou de la destination du
-transport.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°89-413 1989-06-22 JORF 24 juin 1989
-
-	**Créé par**:
-
-	  - Ordonnance n°2001-273 du 28 mars 2001 - art. 1
-
-	**Abrogé par**:
-
-	  - Loi n°2010-788 du 12 juillet 2010 - art. 60
 
 
 ###### Article L153-5
@@ -3263,25 +3406,25 @@ la loi du 29 décembre 1892 sur les dommages causés à la propriété privée p
 ###### Article L171-7
 
 A défaut d'accord amiable avec les propriétaires intéressés, la décision autorisant la pose de supports, de canalisations ou
-d'appareillages sur les propriétés privées est prise après enquête publique.
+d'appareillages sur les propriétés privées est prise après enquête publique ouverte par l'autorité exécutive de la
+collectivité territoriale ou de l'établissement public de coopération intercommunale, propriétaire de la voie, et organisée
+conformément aux dispositions du code de l'expropriation pour cause d'utilité publique.
+
+**Nota:**
+
+Ces dispositions s'appliquent aux projets, plans, programmes ou autres documents de planification pour lesquels l'arrêté
+d'ouverture et d'organisation de l'enquête publique est publié à compter du premier jour du sixième mois après la publication
+du décret en Conseil d'Etat prévu à l'article L. 123-19 du code de l'environnement.
 
 **Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°2010-788 du 12 juillet 2010 - art. 242
 
 	**Cité par**:
 
 	  - Code de la voirie routière - art. R*171-3 (V)
-
-	**Anciens textes**:
-
-	  - Décret-loi 1935-10-30 art. 5 al. 1 (partie)
-
-	**Codifié par**:
-
-	  - Loi n°89-413 1989-06-22 JORF 24 juin 1989
-
-	**Créé par**:
-
-	  - Loi n°89-413 1989-06-22 jorf 24 juin 1989
 
 
 ###### Article L171-8
@@ -3480,38 +3623,37 @@ exécuter d'office, sans mise en demeure préalable, les travaux nécessaires po
 ###### Article L171-14
 
 La propriété des voies privées ouvertes à la circulation publique, peut, sur délibération du conseil municipal, et après
-enquête publique être transférée dans le domaine public de la ville de Paris.
+enquête publique réalisée conformément aux dispositions du code de l'expropriation pour cause d'utilité publique être
+transférée dans le domaine public de la ville de Paris. 
 
 La décision de classement est prise par arrêté motivé du maire lorsque aucune déclaration contraire au projet n'est produite
-à l'enquête par un des propriétaires intéressés et que l'avis du commissaire enquêteur est favorable.
+à l'enquête par un des propriétaires intéressés et que l'avis du commissaire enquêteur est favorable. 
 
 Cette décision, qui comporte l'approbation d'un plan d'alignement, incorpore de plein droit au domaine public de la ville
 tout le terrain non clos et non couvert de constructions compris entre les alignements approuvés. Elle autorise l'exécution
 immédiate des travaux de viabilité et d'assainissement, ainsi que le recouvrement de la part de dépense correspondante à la
-charge des riverains.
+charge des riverains. 
 
 Le droit des propriétaires se résout en une indemnité, qui, à défaut d'accord amiable, est fixée comme en matière
 d'expropriation.
 
+**Nota:**
+
+Ces dispositions s'appliquent aux projets, plans, programmes ou autres documents de planification pour lesquels l'arrêté
+d'ouverture et d'organisation de l'enquête publique est publié à compter du premier jour du sixième mois après la publication
+du décret en Conseil d'Etat prévu à l'article L. 123-19 du code de l'environnement.
+
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Loi n°89-413 1989-06-22 JORF 24 juin 1989
-
-	**Créé par**:
-
-	  - Loi n°89-413 1989-06-22 jorf 24 juin 1989
+	  - Loi n°2010-788 du 12 juillet 2010 - art. 242
 
 	**Cité par**:
 
 	  - Code de la voirie routière - art. L171-15 (V)
 	  - Code de la voirie routière - art. L171-18 (V)
 	  - Code de la voirie routière - art. R*171-6 (V)
-
-	**Anciens textes**:
-
-	  - Loi n°1930-05-15 art. 4 al. 1 (partie), 2, 3
 
 
 ###### Article L171-15
