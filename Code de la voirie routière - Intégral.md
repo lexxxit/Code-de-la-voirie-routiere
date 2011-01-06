@@ -1,5 +1,5 @@
 # Code de la voirie routière  
-Version Consolidée au 2010-07-14
+Version Consolidée au 2011-01-07
 
 # Partie législative
 
@@ -1012,7 +1012,9 @@ de ces dispositifs par les gestionnaires du domaine public routier et leurs conc
 	  - Loi n°95-73 du 21 janvier 1995 - art. 14 ()
 
 
-### Chapitre VIII : Sécurité des ouvrages du réseau routier dont l'exploitation présente des risques particuliers pour la sécurité des personnes.
+### Chapitre VIII : Sécurité des ouvrages et des infrastructures
+
+#### Section 1 : Sécurité des ouvrages du réseau routier dont l'exploitation présente des risques particuliers pour la sécurité des personnes
 
 ###### Article L118-1
 
@@ -1020,10 +1022,10 @@ Les travaux de construction ou de modification substantielle d'un ouvrage du ré
 risques particuliers pour la sécurité des personnes ne peuvent être engagés avant que l'Etat ait émis un avis sur un dossier
 préliminaire adressé au représentant de l'Etat, accompagné d'un rapport sur la sécurité établi par un expert ou un organisme
 qualifié, agréé. Ce rapport précise notamment les conditions d'exploitation de cet ouvrage au regard des risques naturels ou
-technologiques susceptibles de l'affecter.
+technologiques susceptibles de l'affecter. 
 
 Les travaux ne peuvent être entrepris qu'à la réception de l'avis du représentant de l'Etat sur ce dossier ou, à défaut, à
-l'expiration d'un délai de quatre mois à compter de son dépôt.
+l'expiration d'un délai de quatre mois à compter de son dépôt. 
 
 Un décret en Conseil d'Etat fixe les conditions d'application du présent article et, notamment, les catégories d'ouvrages
 auxquelles s'appliquent ses dispositions, ainsi que les ouvrages pour lesquels des moyens de lutte contre l'incendie et de
@@ -1034,7 +1036,7 @@ l'article L. 118-2.
 
 	**Codifié par**:
 
-	  - Loi n°89-413 1989-06-22 JORF 24 juin 1989
+	  - Loi n°89-413 du 22 juin 1989
 
 	**Cité par**:
 
@@ -1049,13 +1051,13 @@ l'article L. 118-2.
 	  - Code de la voirie routière - art. R118-3-1 (V)
 	  - Code général des collectivités territoriales - art. L2215-9 (V)
 
-	**Créé par**:
+	**Liens**:
 
-	  - Loi n°2002-3 du 3 janvier 2002 - art. 2 ()
+	  - DEPLACE: Loi n°2011-12 du 5 janvier 2011 - art. 9
 
 	**Nouveaux textes**:
 
-	  - Code des transports - art. L1613-5 (VD)
+	  - Code des transports - art. R1613-3 (V)
 
 
 ###### Article L118-2
@@ -1064,14 +1066,14 @@ La mise en service des ouvrages du réseau routier mentionnés à l'article L. 1
 décret prévu au dernier alinéa de ce même article est subordonnée à une autorisation. Celle-ci est délivrée par l'Etat, en
 fonction des garanties de sécurité offertes par les caractéristiques et les modalités d'exploitation de l'ouvrage, après avis
 d'une commission administrative assurant notamment la représentation des collectivités territoriales. Elle peut être assortie
-de conditions restrictives d'utilisation.
+de conditions restrictives d'utilisation. 
 
 Cette autorisation vaut approbation des prescriptions d'exploitation établies par le maître d'ouvrage et applicables à chaque
-ouvrage, lesquelles comportent au moins un examen périodique de sécurité par un expert ou un organisme qualifié, agréé.
+ouvrage, lesquelles comportent au moins un examen périodique de sécurité par un expert ou un organisme qualifié, agréé. 
 
 Pour les ouvrages en service, dont l'exploitation présente des risques particuliers pour la sécurité des personnes, le
 représentant de l'Etat peut prescrire l'établissement d'un diagnostic, des mesures restrictives d'exploitation ou, en cas de
-danger immédiat, ordonner la fermeture de l'ouvrage au public.
+danger immédiat, ordonner la fermeture de l'ouvrage au public. 
 
 Les conditions d'application du présent article sont fixées par décret en Conseil d'Etat.
 
@@ -1079,7 +1081,7 @@ Les conditions d'application du présent article sont fixées par décret en Con
 
 	**Codifié par**:
 
-	  - Loi n°89-413 1989-06-22 JORF 24 juin 1989
+	  - Loi n°89-413 du 22 juin 1989
 
 	**Cité par**:
 
@@ -1090,15 +1092,15 @@ Les conditions d'application du présent article sont fixées par décret en Con
 	  - Code de la voirie routière - art. R118-3-5 (V)
 	  - Code des transports - art. R1613-3 (V)
 
-	**Créé par**:
+	**Liens**:
 
-	  - Loi n°2002-3 du 3 janvier 2002 - art. 2 ()
+	  - DEPLACE: Loi n°2011-12 du 5 janvier 2011 - art. 9
 
 
 ###### Article L118-3
 
 Des décrets peuvent fixer des caractéristiques techniques de sécurité en matière de conception ou d'exploitation, applicables
-à des ouvrages du réseau routier mentionnés à l'article L. 118-1.
+à des ouvrages du réseau routier mentionnés à l'article L. 118-1. 
 
 Ces décrets devront prendre en compte la spécificité des collectivités territoriales lorsque celles-ci sont maîtres
 d'ouvrage.
@@ -1107,11 +1109,11 @@ d'ouvrage.
 
 	**Codifié par**:
 
-	  - Loi n°89-413 1989-06-22 JORF 24 juin 1989
+	  - Loi n°89-413 du 22 juin 1989
 
-	**Créé par**:
+	**Liens**:
 
-	  - Loi n°2002-3 du 3 janvier 2002 - art. 2 ()
+	  - DEPLACE: Loi n°2011-12 du 5 janvier 2011 - art. 9
 
 	**Cite**:
 
@@ -1121,7 +1123,7 @@ d'ouvrage.
 ###### Article L118-4
 
 Les dispositions du présent chapitre ne sont pas applicables aux ouvrages dont les conditions de construction et
-d'exploitation sont déterminées par des conventions internationales.
+d'exploitation sont déterminées par des conventions internationales. 
 
 Sur ces ouvrages, lorsque les engagements internationaux le permettent, les infractions au code de la route ou au règlement
 de circulation spécifique à l'ouvrage commises sur la partie française peuvent être relevées par un officier ou un agent de
@@ -1136,31 +1138,31 @@ route sont applicables.
 
 	**Codifié par**:
 
-	  - Loi n°89-413 1989-06-22 JORF 24 juin 1989
+	  - Loi n°89-413 du 22 juin 1989
 
-	**Créé par**:
+	**Liens**:
 
-	  - Loi n°2002-3 du 3 janvier 2002 - art. 2 ()
+	  - DEPLACE: Loi n°2011-12 du 5 janvier 2011 - art. 9
 
 	**Cite**:
 
-	  - CODE DE PROCEDURE PENALE - art. 529-1 (M)
-	  - CODE DE PROCEDURE PENALE - art. 529-8 (M)
-	  - Code de la route. - art. L121-4 (V)
+	  - Code de procédure pénale - art. 529-1 (V)
+	  - Code de procédure pénale - art. 529-8 (V)
+	  - Code de la route. - art. L212-4 (V)
 
 
 ###### Article L118-5
 
 Pour chaque tunnel de plus de 500 mètres situé sur le réseau routier transeuropéen, le maître de l'ouvrage désigne, après
 accord du représentant de l'Etat, un agent de sécurité qui coordonne les mesures de prévention et de sauvegarde visant à
-assurer la sécurité des usagers et du personnel d'exploitation. L'autonomie fonctionnelle de l'agent de sécurité est garantie
-pour l'exercice de ses attributions.
+assurer la sécurité des usagers et du personnel d'exploitation.L'autonomie fonctionnelle de l'agent de sécurité est garantie
+pour l'exercice de ses attributions. 
 
 Le maître de l'ouvrage transmet au représentant de l'Etat, à l'agent de sécurité et aux services d'intervention les comptes
-rendus d'incident ou d'accident et les rapports d'enquête.
+rendus d'incident ou d'accident et les rapports d'enquête. 
 
 Les dérogations aux prescriptions de sécurité applicables à ces ouvrages font l'objet d'une consultation de la Commission
-européenne. Cette consultation suspend le délai prévu au deuxième alinéa de l'article L. 118-1.
+européenne. Cette consultation suspend le délai prévu au deuxième alinéa de l'article L. 118-1. 
 
 Un décret en Conseil d'Etat fixe les conditions d'application du présent article, notamment la liste des tunnels auxquels il
 s'applique.
@@ -1169,11 +1171,11 @@ s'applique.
 
 	**Codifié par**:
 
-	  - Loi n°89-413 1989-06-22 JORF 24 juin 1989
+	  - Loi n°89-413 du 22 juin 1989
 
-	**Créé par**:
+	**Liens**:
 
-	  - Loi n°2006-10 du 5 janvier 2006 - art. 10
+	  - DEPLACE: Loi n°2011-12 du 5 janvier 2011 - art. 9
 
 	**Cite**:
 
@@ -1182,6 +1184,71 @@ s'applique.
 	**Cité par**:
 
 	  - Code de la voirie routière - art. R118-4-2 (V)
+
+
+#### Section 2 : Gestion de la sécurité des infrastructures routières
+
+###### Article L118-6
+
+A l'exclusion des ouvrages visés à la section 1 du présent chapitre, l'autorité gestionnaire d'une infrastructure appartenant
+au réseau routier d'importance européenne ou son concessionnaire effectue périodiquement un recensement du réseau et une
+classification de sa sécurité ainsi que des inspections de sécurité destinées à prévenir les accidents. L'autorité
+gestionnaire ou son concessionnaire met en œuvre les mesures correctives en résultant.
+
+Un décret établit la liste des infrastructures routières qui constituent le réseau routier d'importance européenne.
+
+L'autorité maître d'ouvrage d'un projet d'infrastructure devant appartenir au réseau routier d'importance européenne ou son
+concessionnaire réalise une évaluation de ses incidences sur la sécurité routière ainsi que des audits de sécurité.
+
+Un décret fixe les conditions d'application du présent article et notamment le contenu et le moment où sont réalisés les
+recensements, classifications, inspections, évaluations et audits qu'il ordonne.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2011-12 du 5 janvier 2011 - art. 9
+
+	**Cité par**:
+
+	  - Décret n°2011-718 du 23 juin 2011 (V)
+	  - Arrêté du 15 décembre 2011 - art. 1 (V)
+	  - Arrêté du 15 décembre 2011 - art. 2 (V)
+	  - Arrêté du 15 décembre 2011 - art. 3 (V)
+	  - Arrêté du 15 décembre 2011 - art. 4 (V)
+	  - Arrêté du 15 décembre 2011 - art. 5 (V)
+	  - Code de la voirie routière - art. D118-5-1 (V)
+	  - Code de la voirie routière - art. L118-7 (V)
+	  - Code de la voirie routière - art. R118-5-6 (V)
+	  - Code de procédure pénale - art. A1 (VT)
+
+
+###### Article L118-7
+
+Les auditeurs de sécurité routière assurant les audits de sécurité des infrastructures routières prévus à l'article L. 118-6
+sont titulaires d'un certificat d'aptitude obtenu dans un des Etats membres de l'Union européenne sanctionnant une formation
+initiale ou une expérience professionnelle et suivent régulièrement des sessions de perfectionnement. 
+
+Les conditions de reconnaissance des certificats d'aptitude délivrés par les Etats membres de l'Union européenne avant
+l'entrée en vigueur de la loi n° 2011-12 du 5 janvier 2011 portant diverses dispositions d'adaptation de la législation au
+droit de l'Union européenne sont définies par décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°2011-12 du 5 janvier 2011 (V)
+	  - Code de la voirie routière - art. L118-6
+
+	**Créé par**:
+
+	  - Loi n°2011-12 du 5 janvier 2011 - art. 9
+
+	**Cité par**:
+
+	  - Arrêté du 15 décembre 2011 - art. 1 (V)
+	  - Décret n°2014-1273 du 30 octobre 2014 - art. (VD)
+	  - Code de la voirie routière - art. D118-5-4 (V)
 
 
 ### Chapitre IX : Dispositifs d'information sur le réseau routier.
