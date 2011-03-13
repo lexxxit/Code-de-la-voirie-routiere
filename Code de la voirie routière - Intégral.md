@@ -1,5 +1,5 @@
 # Code de la voirie routière  
-Version Consolidée au 2011-01-07
+Version Consolidée au 2011-03-14
 
 # Partie législative
 
@@ -5660,6 +5660,125 @@ gestionnaire et du maître d'oeuvre éventuel.
 	**Cite**:
 
 	  - Code de la voirie routière R118-3-1 à R118-3-3
+
+
+#### Section 5 : Procédures de gestion de la sécurité des infrastructures routières
+
+###### Article D118-5-1
+
+Les procédures de gestion de la sécurité des infrastructures routières prévues à l'article L. 118-6 sont mises en œuvre sur
+le réseau routier d'importance européenne, lequel s'entend du réseau routier national défini par le décret n° 2005-1499 du 5
+décembre 2005 relatif à la consistance du réseau routier national. 
+
+Les étapes à suivre et les éléments à prendre en considération lors de l'application de ces procédures sont fixés par arrêté
+du ministre chargé des transports.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°2005-1499 du 5 décembre 2005 (V)
+	  - Code de la voirie routière - art. L118-6 (V)
+
+	**Créé par**:
+
+	  - Décret n°2011-262 du 11 mars 2011 - art. 1
+
+
+###### Article D118-5-2
+
+Au sens de la présente section, on entend par : "projet d'infrastructure routière" un projet concernant la construction
+d'infrastructures routières nouvelles ou une modification substantielle du réseau existant ayant des effets sur les débits de
+circulation.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2011-262 du 11 mars 2011 - art. 1
+
+
+###### Article D118-5-3
+
+Chaque projet d'infrastructure routière fait l'objet, lors de la phase de planification initiale, avant son approbation,
+d'une évaluation de ses incidences sur la sécurité routière indiquant : 
+
+1° Les considérations en matière de sécurité routière qui contribuent au choix de la solution proposée ; 
+
+2° Les informations nécessaires à l'évaluation socio-économique des différentes variantes étudiées. 
+
+Cette évaluation est réalisée à partir de critères fixés par l'arrêté mentionné à l'article D. 118-5-1.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2011-262 du 11 mars 2011 - art. 1
+
+
+###### Article D118-5-4
+
+Des audits de sécurité routière sont conduits sur les projets d'infrastructure routière du réseau routier d'importance
+européenne. Ils consistent en un contrôle de la conformité des caractéristiques de conception et d'aménagement des voies. Ils
+sont effectués au cours de la phase de conception, avant la mise en service et en début d'exploitation. 
+
+Au vu des conclusions du rapport d'audit, le maître d'ouvrage met en œuvre, le cas échéant, des mesures correctives pour
+améliorer la sécurité de l'infrastructure en projet. A défaut, il justifie dans un document annexé au rapport d'audit les
+raisons pour lesquelles il décide de ne pas apporter de modifications au projet. 
+
+Les audits de sécurité routière sont réalisés par des auditeurs qualifiés dans les conditions prévues par l'article L. 118-7.
+Ces auditeurs ne peuvent avoir été associés à la conception du projet d'infrastructure et doivent n'avoir aucun lien, pendant
+la période de l'audit, avec son exploitation. 
+
+Lorsque les audits sont confiés à des équipes, au moins un membre de l'équipe est un auditeur qualifié. 
+
+Ces audits sont réalisés à partir de critères fixés par l'arrêté mentionné à l'article D. 118-5-1.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2011-262 du 11 mars 2011 - art. 1
+
+	**Cité par**:
+
+	  - Arrêté du 15 décembre 2011 - art. 3 (V)
+
+	**Cite**:
+
+	  - Code de la voirie routière - art. L118-7
+
+
+###### Article D118-5-5
+
+I. - 1° Une procédure de classification et de gestion de la sécurité est mise en œuvre, tous les trois ans, sur les routes en
+service du réseau routier d'importance européenne. Elle consiste à identifier les tronçons du réseau présentant la plus forte
+accidentalité, en vue de définir, le cas échéant, des mesures d'adaptation et de correction, en privilégiant les mesures
+présentant le rapport avantage/ coût le plus élevé. 
+
+Elle est mise en œuvre par des équipes comprenant au moins un auditeur possédant une expérience ou une formation avancée dans
+les analyses de sécurité routière des infrastructures. 
+
+Elle est définie à partir de critères fixés par l'arrêté mentionné à l'article D. 118-5-1. 
+
+2° Les usagers de la route sont informés de la position de tronçons à forte concentration d'accidents par des moyens
+adéquats. Lorsque, selon les conditions spécifiques de l'accidentalité locale, une signalisation in situ est utilisée, elle
+est conforme à la réglementation de la signalisation des routes et des autoroutes. 
+
+II. - Des inspections de sécurité routière sont menées de façon périodique sur les routes en service du réseau routier
+d'importance européenne. Elles consistent en un recensement des anomalies qui nécessitent, en fonction des résultats
+constatés, une intervention d'entretien ou d'exploitation pour raisons de sécurité routière ainsi que des études sur les
+incidences éventuelles des travaux de voirie.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2011-262 du 11 mars 2011 - art. 1
+
+	**Cité par**:
+
+	  - Arrêté du 15 décembre 2011 - art. 5 (V)
 
 
 ### Chapitre IX : Equipements routiers.
