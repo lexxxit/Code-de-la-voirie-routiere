@@ -1,5 +1,5 @@
 # Code de la voirie routière  
-Version Consolidée au 2011-03-14
+Version Consolidée au 2011-05-19
 
 # Partie législative
 
@@ -804,25 +804,25 @@ judiciaire sous réserve des questions préjudicielles relevant de la compétenc
 
 Sans préjudice de la compétence reconnue à cet effet à d'autres fonctionnaires et agents par les lois et règlements en
 vigueur, peuvent constater les infractions à la police de la conservation du domaine public routier et établir les procès-
-verbaux concernant ces infractions :
+verbaux concernant ces infractions : 
 
 1° Sur les voies de toutes catégories, les agents de police municipale, les gardes champêtres des communes et les gardes
-particuliers assermentés ;
+particuliers assermentés ; 
 
-2° Sur les voies publiques ressortissant à leurs attributions :
+2° Sur les voies publiques ressortissant à leurs attributions : 
 
-a) Les ingénieurs des ponts et chaussées et les ingénieurs des travaux publics de l'Etat, assermentés ;
+a) Les ingénieurs des ponts , des eaux et des forêts et les ingénieurs des travaux publics de l'Etat, assermentés ; 
 
 b) Les techniciens des travaux publics de l'Etat, les conducteurs de travaux publics de l'Etat et les agents des travaux
-publics de l'Etat, quand ils sont commissionnés et assermentés à cet effet ;
+publics de l'Etat, quand ils sont commissionnés et assermentés à cet effet ; 
 
-3° Sur les voies départementales, les agents du département commissionnés et assermentés à cet effet ;
+3° Sur les voies départementales, les agents du département commissionnés et assermentés à cet effet ; 
 
 4° En Corse, sur les voies de la collectivité territoriale, les agents de la collectivité commissionnés et assermentés à cet
-effet ;
+effet ; 
 
 5° Dans les départements d'outre-mer, sur les voies régionales, les agents de la région commissionnés et assermentés à cet
-effet.
+effet. 
 
 Les procès-verbaux dressés en matière de voirie font foi jusqu'à preuve contraire.
 
@@ -830,11 +830,7 @@ Les procès-verbaux dressés en matière de voirie font foi jusqu'à preuve cont
 
 	**Codifié par**:
 
-	  - Loi n°89-413 1989-06-22 JORF 24 juin 1989
-
-	**Modifié par**:
-
-	  - Loi n°2004-809 du 13 août 2004 - art. 21 () JORF 17 août 2004 en vigueur le 1er janvier 2005
+	  - Loi n°89-413 du 22 juin 1989
 
 	**Cité par**:
 
@@ -845,9 +841,9 @@ Les procès-verbaux dressés en matière de voirie font foi jusqu'à preuve cont
 	  - Code de la route. - art. R325-3 (V)
 	  - Code de la voirie routière - art. R*116-1 (V)
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Ordonnance 58-1351 1951-12-27 art. 21 al. 1, al. 2
+	  - Loi n°2011-525 du 17 mai 2011 - art. 94
 
 
 ###### Article L116-3
