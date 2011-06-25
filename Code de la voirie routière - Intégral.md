@@ -1,5 +1,5 @@
 # Code de la voirie routière  
-Version Consolidée au 2011-05-19
+Version Consolidée au 2011-06-26
 
 # Partie législative
 
@@ -5776,6 +5776,61 @@ incidences éventuelles des travaux de voirie.
 
 	  - Arrêté du 15 décembre 2011 - art. 5 (V)
 
+
+###### Article R118-5-6
+
+Les auditeurs de sécurité routière, assurant les audits de sécurité prévus à l'article L. 118-6, sont titulaires d'un
+certificat d'aptitude qui sanctionne une formation initiale ou une expérience professionnelle appropriée, suivie
+régulièrement de sessions de perfectionnement, dans les domaines de la conception des routes, de l'ingénierie de la sécurité
+routière et de l'analyse des accidents. 
+
+L'autorité compétente pour la délivrance du certificat d'aptitude à l'exercice de la fonction d'auditeur de sécurité routière
+est le ministre chargé des transports. Celui-ci désigne également les organismes chargés de la formation des auditeurs et
+valide les programmes de formation. 
+
+Cette autorité accorde une équivalence du certificat d'aptitude permettant d'exercer la fonction d'auditeur de sécurité
+routière aux demandeurs en possession d'un certificat d'aptitude obtenu dans un autre Etat membre de l'Union européenne aux
+conditions suivantes :
+
+- le certificat d'aptitude doit avoir été délivré par une autorité compétente dans cet Etat membre, désignée conformément aux
+dispositions réglementaires en vigueur dans cet Etat ;
+
+- le certificat d'aptitude doit attester d'un niveau de qualification professionnelle au moins équivalent à celui exigé en
+France ;
+
+- le demandeur doit avoir une connaissance de la langue française suffisante pour comprendre les documents à examiner en vue
+des audits ainsi que les documents de référence, de rédiger un rapport d'audit et de participer aux réunions de travail. 
+
+Les conditions d'application du présent article sont fixées par arrêté du ministre chargé des transports.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2011-718 du 23 juin 2011 - art. 1
+
+	**Cité par**:
+
+	  - Arrêté du 15 décembre 2011 - art. 1 (V)
+	  - Arrêté du 15 décembre 2011 - art. 2 (V)
+	  - Décret n°2014-1273 du 30 octobre 2014 - art. (VD)
+
+	**Cite**:
+
+	  - Code de la voirie routière - art. L118-6
+
+
+### Chapitre VIII : Sécurité des ouvrages et des infrastructures.
+
+#### Section 1 : Ouvrages dont l'exploitation présente des risques particuliers pour la sécurité des personnes
+
+#### Section 2 : Commission nationale d'évaluation de la sécurité des ouvrages routiers et agrément des experts
+
+#### Section 3 : Procédures et règles relatives à la sécurité des ouvrages routiers dont l'exploitation présente des risques particuliers pour la sécurité des personnes
+
+#### Section 4 : Procédures et règles complémentaires relatives aux tunnels de plus de 500 mètres du réseau routier transeuropéen
+
+#### Section 5 : Procédures de gestion de la sécurité des infrastructures routières
 
 ### Chapitre IX : Equipements routiers.
 
