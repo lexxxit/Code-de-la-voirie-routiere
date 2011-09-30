@@ -1,5 +1,5 @@
 # Code de la voirie routière  
-Version Consolidée au 2011-06-26
+Version Consolidée au 2011-10-01
 
 # Partie législative
 
@@ -4109,13 +4109,13 @@ Un décret en Conseil d'Etat précise les conditions d'application du présent a
 ###### Article R*111-1
 
 Les équipements routiers sont des dispositifs affectés aux besoins de la circulation routière, destinés à la signalisation, à
-la protection des usagers, à l'exploitation des voies du domaine public routier et à la constatation des infractions au code
-de la route.
+la protection des usagers, à l'exploitation des voies du domaine public routier, à la constatation des infractions au code de
+la route et au recouvrement des droits d'usage.
 
 Ils doivent être conçus, fabriqués, commercialisés, utilisés et entretenus de façon à assurer aux usagers de la route le
-meilleur niveau de sécurité possible.
+meilleur niveau de sécurité ou d'interopérabilité possible, selon les équipements considérés.
 
-Les équipements routiers sont classés en quatre catégories définies ainsi qu'il suit :
+Les équipements routiers sont classés en cinq catégories définies ainsi qu'il suit :
 
 1° Les équipements de signalisation permanents ou temporaires, comprenant l'ensemble des dispositifs et produits destinés à
 la signalisation routière, notamment les produits de marquage de chaussées, les panneaux de signalisation, dont les panneaux
@@ -4127,21 +4127,20 @@ piétons sur la chaussée ou ses dépendances, d'atténuation des chocs ou de pr
 3° Les équipements d'exploitation des voies du domaine public routier, notamment ceux qui sont destinés à la régulation du
 trafic, à l'information ou au secours des usagers, au recueil des données routières et à l'éclairage des voies ;
 
-4° Les équipements de constatation des infractions au code de la route, qui sont intégrés aux infrastructures routières.
+4° Les équipements de constatation des infractions au code de la route, qui sont intégrés aux infrastructures routières ;
+
+5° Les constituants d'interopérabilité du service européen de télépéage définis à l'article 2 de la décision 2009/750/CE du 6
+octobre 2009 de la Commission relative à la définition du service européen de télépéage et à ses aspects techniques.
 
 **Liens relatifs à cet article**
 
-	**Liens**:
-
-	  - TXT_SOURCE: Directive 98-34 CE 1998-06-22
-
 	**Codifié par**:
 
-	  - Décret n°89-631 1989-09-04
+	  - Décret n°89-631 du 4 septembre 1989
 
 	**Modifié par**:
 
-	  - Décret n°2006-235 du 27 février 2006 - art. 1 () JORF 1er mars 2006
+	  - Décret n°2011-812 du 5 juillet 2011 - art. 1
 
 	**Cité par**:
 
@@ -4847,7 +4846,7 @@ domaine public routier ;
 	  - Arrêté du 29 mars 2013 - art. 1 (V)
 
 
-### Chapitre VIII : Sécurité d'ouvrages du réseau routier dont l'exploitation présente des risques particuliers pour la sécurité des personnes.
+### Chapitre VIII : Sécurité des ouvrages et des infrastructures.
 
 #### Section 1 : Ouvrages dont l'exploitation présente des risques particuliers pour la sécurité des personnes
 
@@ -5820,18 +5819,6 @@ Les conditions d'application du présent article sont fixées par arrêté du mi
 	  - Code de la voirie routière - art. L118-6
 
 
-### Chapitre VIII : Sécurité des ouvrages et des infrastructures.
-
-#### Section 1 : Ouvrages dont l'exploitation présente des risques particuliers pour la sécurité des personnes
-
-#### Section 2 : Commission nationale d'évaluation de la sécurité des ouvrages routiers et agrément des experts
-
-#### Section 3 : Procédures et règles relatives à la sécurité des ouvrages routiers dont l'exploitation présente des risques particuliers pour la sécurité des personnes
-
-#### Section 4 : Procédures et règles complémentaires relatives aux tunnels de plus de 500 mètres du réseau routier transeuropéen
-
-#### Section 5 : Procédures de gestion de la sécurité des infrastructures routières
-
 ### Chapitre IX : Equipements routiers.
 
 #### Section 1 : Champ d'application
@@ -5839,12 +5826,13 @@ Les conditions d'application du présent article sont fixées par arrêté du mi
 ###### Article R*119-1
 
 Sont soumis aux dispositions du présent chapitre les équipements routiers définis à l'article R.* 111-1 qui ont une incidence
-sur la sécurité des usagers de la route.
+sur la sécurité des usagers de la route ou qui participent à l'interopérabilité des systèmes de télépéage.
 
-Lorsque ces équipements sont soumis à l'obligation de marquage CE en application des dispositions du décret n° 92-647 du 8
-juillet 1992 concernant l'aptitude à l'usage des produits de construction, ils sont placés sous le régime de l'évaluation et
-de l'attestation de conformité défini à la sous-section 1 de la section 2 du présent chapitre et sont soumis aux règles de
-mise en service fixées à l'article R.* 119-7.
+I. - Pour les équipements des quatre premières catégories définis à l'article R. * 111-1, lorsque ces équipements sont soumis
+à l'obligation de marquage CE en application des dispositions du décret n° 92-647 du 8 juillet 1992 concernant l'aptitude à
+l'usage des produits de construction, ils sont placés sous le régime de l'évaluation et de l'attestation de conformité défini
+à la sous-section 1 de la section 2 du présent chapitre et sont soumis aux règles de mise en service fixées à l'article R.*
+119-7.
 
 Lorsqu'ils ne sont pas soumis à cette obligation, que ce soit à titre permanent ou à titre transitoire, ils sont placés sous
 le régime de l'évaluation et de l'attestation de conformité défini à la sous-section 2 de la section 2 du présent chapitre et
@@ -5858,27 +5846,27 @@ relevant du décret n° 2001-387 du 3 mai 2001 relatif au contrôle des instrume
 procédures applicables à ces composants sont celles fixées par ce décret et par les arrêtés pris en application de son
 article 3.
 
+II. - Les équipements de la cinquième catégorie définie à l'article R. * 111-1 sont soumis à l'obligation de marquage CE en
+application de l'article L. 119-4. Ces équipements sont placés sous le régime de l'évaluation et de l'attestation de
+conformité défini à la sous-section 1 de la section 2 du présent chapitre.
+
 **Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - TXT_SOURCE: Directive 98-34 CE 1998-06-22
 
 	**Codifié par**:
 
-	  - Décret n°89-631 1989-09-04
+	  - Décret n°89-631 du 4 septembre 1989
 
 	**Cite**:
 
-	  - Décret n°92-647 1992-07-08
-	  - Décret n°2001-387 du 3 mai 2001 - art. 3 (V)
-	  - Code de la voirie routière - art. R*111-1 (M)
-	  - Code de la voirie routière - art. R*119-7 (M)
-	  - Code de la voirie routière - art. R*119-8 (M)
+	  - Décret n°92-647 du 8 juillet 1992
+	  - Décret n°2001-387 du 3 mai 2001 - art. 3
+	  - Code de la voirie routière - art. R*111-1
+	  - Code de la voirie routière - art. R*119-7
+	  - Code de la voirie routière - art. R*119-8
 
 	**Modifié par**:
 
-	  - Décret n°2004-472 du 1 juin 2004 - art. 2 () JORF 2 juin 2004
+	  - Décret n°2011-812 du 5 juillet 2011 - art. 2
 
 	**Cité par**:
 
@@ -5891,28 +5879,29 @@ article 3.
 
 ###### Article R*119-2
 
-Les arrêtés interministériels pris en application de l'article 1er du décret n° 92-647 du 8 juillet 1992 déterminent les
-types d'équipements routiers soumis à l'obligation de marquage CE préalablement à leur mise sur le marché, les modes
-d'attestation de leur conformité aux spécifications techniques auxquelles ils doivent satisfaire ainsi que les dates à
-compter desquelles l'obligation de marquage susmentionnée prend effet pour chacun d'eux.
+I. - Pour les équipements des quatre premières catégories définies à l'article R. * 111-1, les arrêtés interministériels pris
+en application de l'article 1er du décret n° 92-647 du 8 juillet 1992 déterminent les types d'équipements routiers soumis à
+l'obligation de marquage CE préalablement à leur mise sur le marché, les modes d'attestation de leur conformité aux
+spécifications techniques auxquelles ils doivent satisfaire ainsi que les dates à compter desquelles l'obligation de marquage
+susmentionnée prend effet pour chacun d'eux.
 
-**Nota:**
-
-Décret 2002-1251 2002-10-10 art. 4 : Modalités d'entrée en vigueur du chapitre IX du titre I du code de la voirie routière.
+II. - Les modalités de marquage CE des équipements de la cinquième catégorie définie à l'article R. * 111-1 sont fixées par
+les articles 9 à 15 du décret n° 2011-812 du 5 juillet 2011 relatif à la mise sur le marché, au retrait ou à l'interdiction
+des constituants d'interopérabilité du service européen de télépéage.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°89-631 1989-09-04
+	  - Décret n°89-631 du 4 septembre 1989
 
 	**Cite**:
 
-	  - Décret n°92-647 1992-07-08 art. 1
+	  - Décret n°92-647 du 8 juillet 1992 - art. 1
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2002-1251 du 10 octobre 2002 - art. 2 ()
+	  - Décret n°2011-812 du 5 juillet 2011 - art. 3
 
 	**Cité par**:
 
@@ -5923,8 +5912,9 @@ Décret 2002-1251 2002-10-10 art. 4 : Modalités d'entrée en vigueur du chapitr
 
 ###### Article R*119-3
 
-Les procédures d'évaluation de conformité et les procédures de délivrance et de retrait du certificat de conformité des
-produits marqués CE sont mises en oeuvre :
+I. - Pour les équipements des quatre premières catégories définies à l'article R.* 111-1, les procédures d'évaluation de
+conformité et les procédures de délivrance et de retrait du certificat de conformité des produits marqués CE sont mises en
+oeuvre :
 
 - soit par des organismes indépendants agréés à cet effet conformément aux dispositions de l'article 9 du décret n° 92-647 du
 8 juillet 1992 ;
@@ -5933,25 +5923,36 @@ produits marqués CE sont mises en oeuvre :
 la liste des organismes et laboratoires notifiés publiée au Journal officiel des Communautés européennes en application des
 dispositions de l'article 18 de la directive 89/106/CE du Conseil du 21 décembre 1988.
 
+II. - Pour les équipements de la cinquième catégorie définie à l'article R.* 111-1, les procédures d'évaluation de conformité
+aux spécifications et d'aptitude à l'emploi des constituants d'interopérabilité visées à l'annexe IV de la décision n°
+2009/750/CE de la Commission du 6 octobre 2009 relative à la définition du service européen de télépéage et à ses aspects
+techniques sont mises en œuvre : 
+
+- soit par des organismes figurant sur la liste des organismes notifiés à cet effet, publiée au Journal officiel de l'Union
+européenne ; 
+
+- soit par le fabricant, au sens de la décision n° 768/2008/ CE du Parlement européen et du Conseil du 9 juillet 2008, ou son
+mandataire, dans le cadre d'une procédure d'autoévaluation de la conformité aux spécifications.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°89-631 1989-09-04
+	  - Décret n°89-631 du 4 septembre 1989
 
 	**Cite**:
 
-	  - Décret n°92-647 1992-07-08 art. 9
-
-	**Créé par**:
-
-	  - Décret n°2002-1251 du 10 octobre 2002 - art. 2 ()
+	  - Décret n°92-647 du 8 juillet 1992
 
 	**Cité par**:
 
 	  - Décret n°2011-812 du 5 juillet 2011 - art. 11 (VD)
 	  - Arrêté du 2 novembre 2011 - art. 1 (Ab)
 	  - Arrêté du 29 juin 2012 - art. 1 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2011-812 du 5 juillet 2011 - art. 3
 
 
 ##### Sous-section 2 : Equipements non soumis au marquage CE
@@ -6117,13 +6118,24 @@ chargé de l'équipement et du ministre de l'intérieur.
 
 ###### Article R*119-7
 
-Les types d'équipements routiers inscrits dans les arrêtés prévus à l'article R.* 119-2 ne peuvent être mis en service sur
-les voies du domaine public routier que s'ils sont munis du marquage CE et respectent, le cas échéant, les performances ou
-les classes de performances que le ministre chargé de l'équipement fixe par arrêté afin d'imposer le respect d'exigences de
-sécurité et d'aptitude à l'usage, dépendant du type de route ou d'ouvrage dans lesquels ces équipements sont utilisés,
-installés ou incorporés.
+I. - Pour les équipements des quatre premières catégories définies à l'article R.* 111-1, les types d'équipements routiers
+inscrits dans les arrêtés prévus à l'article R.* 119-2 ne peuvent être mis en service sur les voies du domaine public routier
+que s'ils sont munis du marquage CE et respectent, le cas échéant, les performances ou les classes de performances que le
+ministre chargé de l'équipement fixe par arrêté afin d'imposer le respect d'exigences de sécurité et d'aptitude à l'usage,
+dépendant du type de route ou d'ouvrage dans lesquels ces équipements sont utilisés, installés ou incorporés.
+
+II. - Les équipements de la cinquième catégorie définie à l'article R.* 111-1 ne peuvent être mis sur le marché que s'ils
+sont munis du marquage CE conformément à l'article L. 119-4.
 
 **Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°89-631 du 4 septembre 1989
+
+	**Modifié par**:
+
+	  - Décret n°2011-812 du 5 juillet 2011 - art. 4
 
 	**Cité par**:
 
@@ -6131,19 +6143,7 @@ installés ou incorporés.
 
 	**Cite**:
 
-	  - Code de la voirie routière - art. R*119-2 (V)
-
-	**Liens**:
-
-	  - TXT_SOURCE: Directive 98-34 CE 1998-06-22
-
-	**Codifié par**:
-
-	  - Décret n°89-631 1989-09-04
-
-	**Modifié par**:
-
-	  - Décret n°2004-472 du 1 juin 2004 - art. 6 () JORF 2 juin 2004
+	  - Code de la voirie routière - art. R*119-2
 
 
 ###### Article R*119-8
@@ -6272,6 +6272,35 @@ permis cette délivrance ne sont plus réunies.
 	**Cite**:
 
 	  - Code de la voirie routière R**119-5, R*119-10
+
+
+###### Article R119-12
+
+I.-Les équipements de la cinquième catégorie définie à l'article R. * 111-1 qui ne respectent pas les exigences essentielles
+visées au IV de l'article L. 119-4 doivent être mis en conformité ou être retirés du marché dans les plus brefs délais par le
+fabricant, le mandataire, l'importateur ou le distributeur de ces équipements. 
+
+II.-Lorsque le ministre chargé des transports a des motifs de penser qu'un équipement de la cinquième catégorie définie à
+l'article R. * 111-1 ne satisfait pas aux exigences essentielles visées au IV de l'article L. 119-4, il procède à une
+évaluation de l'équipement en cause avec le fabricant, le mandataire, l'importateur ou le distributeur dudit équipement. 
+
+Si le ministre chargé des transports constate, à l'issue de cette évaluation, que l'équipement ne satisfait effectivement pas
+aux exigences essentielles, il peut mettre en demeure le fabricant, le mandataire, l'importateur ou le distributeur de le
+mettre en conformité avec ces exigences essentielles, de le retirer du marché ou de le rappeler. 
+
+A défaut de mise en conformité, de retrait du marché ou de rappel à l'issue du délai prescrit dans la mise en demeure, le
+ministre chargé des transports peut interdire et retirer ces équipements du marché aux frais et risques des personnes les
+ayant mis sur le marché.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2011-812 du 5 juillet 2011 - art. 5
+
+	**Cite**:
+
+	  - Code de la voirie routière - art. L119-4
 
 
 ## TITRE II : Voirie nationale.
