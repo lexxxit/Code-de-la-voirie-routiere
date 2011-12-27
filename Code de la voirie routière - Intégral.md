@@ -1,5 +1,5 @@
 # Code de la voirie routière  
-Version Consolidée au 2011-10-01
+Version Consolidée au 2011-12-28
 
 # Partie législative
 
@@ -6448,13 +6448,15 @@ n° 76-148 du 11 février 1976.
 ###### Article R*122-5
 
 A l'exception des installations nécessaires à l'exploitation de l'autoroute, des installations souterraines autorisées dans
-les conditions prévues par l'article R. 20-45 du code des postes et communications électroniques et de celles établies par
-les sociétés concessionnaires en vue de leur utilisation par des opérateurs de télécommunications, aucune autorisation ne
-peut être accordée pour la pose, à l'intérieur des emprises des autoroutes, de canalisations aériennes ou souterraines
+les conditions prévues par l'article R. 20-45 du code des postes et communications électroniques des ouvrages souterrains du
+réseau public de transport d'électricité de tension supérieure ou égale à 50 kV et des installations établies par les
+sociétés concessionnaires en vue de leur utilisation par des opérateurs de télécommunications, aucune autorisation ne peut
+être accordée pour la pose, à l'intérieur des emprises des autoroutes, de canalisations aériennes ou souterraines
 longitudinales de quelque nature que ce soit. Des dérogations peuvent toutefois être accordées par arrêté préfectoral ou, le
-cas échéant, interpréfectoral si plusieurs départements sont concernés pour des canalisations souterraines dans les cas
-exceptionnels où toute autre solution serait impossible pour leur passage et sous réserve que leur implantation ne soit pas
-de nature à faire obstacle à des améliorations de l'autoroute ou à les rendre plus onéreuses.
+cas échéant, interpréfectoral si plusieurs départements sont concernés, pris après avis conforme du ministre chargé de la
+voirie nationale, pour des canalisations souterraines sous réserve qu'un dossier, dont le contenu est précisé par arrêté
+conjoint des ministres chargés de la voirie nationale et de l'énergie, démontre que leur implantation n'est pas de nature à
+faire obstacle à des améliorations de l'autoroute ou à les rendre plus onéreuses.
 
 Les traversées aériennes peuvent être autorisées sous réserve qu'elles satisfassent à la réglementation en vigueur et
 qu'aucun support ne soit implanté dans les emprises de l'autoroute ni qu'aucun point d'une canalisation ne soit à moins de
@@ -6469,25 +6471,64 @@ conformité des dispositions qui précèdent.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°56-1425 du 27 décembre 1956 - art. 12 (Ab)
-
 	**Codifié par**:
 
-	  - Décret n°89-631 1989-09-04
+	  - Décret n°89-631 du 4 septembre 1989
 
 	**Modifié par**:
 
-	  - Décret n°97-683 du 30 mai 1997 - art. 4 ()
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°97-683 du 30 mai 1997 - art. 6 (V)
+	  - Décret n°2011-1962 du 23 décembre 2011 - art. 1
 
 	**Cite**:
 
-	  - Code des postes et des communications électronique - art. R20-45 (An)
+	  - Code des postes et des communications électroniques - art. R20-45
+
+
+###### Article R*122-5-3
+
+L'occupation longitudinale du domaine public autoroutier par des ouvrages souterrains du réseau public de transport
+d'électricité de tension supérieure à 50 kV prévue à l'article R.* 122-5 est approuvée par décision du ministre chargé de la
+voirie nationale sur la base d'un dossier destiné à démontrer la compatibilité de cette occupation avec l'affectation du
+domaine public autoroutier, en particulier la préservation des intérêts de la circulation sur les voies, et avec les autres
+occupations, notamment les installations utilisées par les opérateurs de télécommunications.
+
+Ce dossier, établi par le pétitionnaire et sur lequel l'exploitant du domaine public autoroutier émet un avis, détaille les
+caractéristiques techniques du projet et les périodes de chantier envisagées, les incidences éventuelles des installations
+projetées sur l'infrastructure autoroutière et les conditions de son exploitation, y compris durant la phase du chantier,
+ainsi que sur les autres ouvrages implantés sur le domaine public autoroutier, et les mesures prises pour remédier à ces
+incidences. Il précise également les conditions de prise en charge technique et financière par le pétitionnaire de toute
+opération de surveillance des ouvrages souterrains de transport d'électricité, de tout déplacement de ceux-ci rendu
+nécessaire par l'exécution de travaux autoroutiers ainsi que des surcoûts grevant, du fait de la présence de ces ouvrages,
+les travaux effectués dans l'intérêt du domaine public autoroutier.
+
+Un arrêté conjoint du ministre chargé de la voirie nationale et du ministre chargé de l'énergie précise le contenu du dossier
+visé au présent article.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2011-1962 du 23 décembre 2011 - art. 1
+
+	**Cité par**:
+
+	  - Arrêté du 28 décembre 2011 - art. 1 (V)
+
+
+###### Article R*122-5-4
+
+Au vu de la décision ministérielle visée à l'article R.* 122-5-3, une convention emportant autorisation d'occuper le domaine
+public autoroutier est conclue entre l'exploitant de ce domaine et le pétitionnaire pour une durée compatible avec
+l'exploitation du service public d'électricité dans le respect, s'il y a lieu, des clauses des contrats de délégation de
+service public autoroutier. Cette convention reprend et précise en tant que de besoin les prescriptions de la décision
+ministérielle. Elle définit notamment le montant de la redevance qui sera due au titre de l'occupation du domaine public
+autoroutier conformément aux dispositions législatives et réglementaires en la matière.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2011-1962 du 23 décembre 2011 - art. 1
 
 
 ###### Article R122-5-1
