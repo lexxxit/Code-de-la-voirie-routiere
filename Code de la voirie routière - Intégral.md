@@ -1,5 +1,5 @@
 # Code de la voirie routière  
-Version Consolidée au 2011-12-28
+Version Consolidée au 2012-01-01
 
 # Partie législative
 
@@ -318,22 +318,19 @@ autorisations sont délivrées à titre précaire et révocable.
 ###### Article L113-3
 
 Sous réserve des prescriptions prévues à l'article L. 122-3, les exploitants de réseaux de télécommunications ouverts au
-public et les services publics de transport ou de distribution d'électricité ou de gaz peuvent occuper le domaine public
+public les services publics de transport ou de distribution d'électricité ou de gaz et les canalisations de transport
+d'hydrocarbures ou de produits chimiques déclarées d'utilité publique ou d'intérêt général peuvent occuper le domaine public
 routier en y installant des ouvrages, dans la mesure où cette occupation n'est pas incompatible avec son affectation à la
-circulation terrestre.
+circulation terrestre. 
 
 Le gestionnaire du domaine public routier peut, dans l'intérêt de la sécurité routière, faire déplacer les installations et
 les ouvrages situés sur ce domaine aux frais de l'occupant dans des conditions définies par décret en Conseil d'Etat.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Loi n°89-413 1989-06-22 JORF 24 juin 1989
-
 	**Modifié par**:
 
-	  - Loi n°2003-495 du 12 juin 2003 - art. 19 () JORF 13 juin 2003
+	  - Ordonnance n°2010-418  du 27 avril 2010 - art. 5
 
 	**Cité par**:
 
@@ -344,7 +341,7 @@ les ouvrages situés sur ce domaine aux frais de l'occupant dans des conditions 
 
 	**Cite**:
 
-	  - Code de la voirie routière - art. L122-3 (V)
+	  - Code de la voirie routière - art. L122-3
 
 
 ###### Article L113-4
@@ -375,87 +372,45 @@ des articles L. 46 et L. 47 du code des postes et communications électroniques.
 
 Lorsqu'ils relèvent du régime de la concession ou autorisation de transport de gaz naturel, les travaux exécutés sur la voie
 publique pour l'établissement ou l'entretien des réseaux de transport ou de distribution d'électricité ou de gaz sont
-effectués dans les conditions fixées par l'article 10 de la loi du 15 juin 1906 sur les distributions d'énergie.
+effectués dans les conditions fixées par l'article 10 de la loi du 15 juin 1906 sur les distributions d'énergie. 
 
 Lorsqu'ils relèvent du régime de la permission de voirie, ces mêmes travaux sont effectués dans les conditions fixées par les
 articles 1er et 2 de la loi du 27 février 1925 ayant pour objet de modifier et de compléter la loi du 15 juin 1906 sur les
-distributions d'énergie.
+distributions d'énergie. 
 
 Le régime des redevances dues pour l'occupation du domaine public routier par les réseaux ainsi établis est fixé par
 l'article unique de la loi n° 53-661 du 1er août 1953 fixant le régime des redevances dues pour l'occupation du domaine
-public par les ouvrages de transport et de distribution d'électricité et de gaz, par les lignes ou canalisations
-particulières d'énergie électrique et de gaz.
+public par les ouvrages de transport et de distribution d'électricité et de distribution de gaz, par les lignes ou
+canalisations particulières d'énergie électrique et de gaz.
 
 **Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi du 15 juin 1906 - art. 10 (MMN)
+	  - Loi n°53-661 du 1 août 1953 (V)
 
 	**Cité par**:
 
 	  - Loi - art. 81 (M)
-	  - Code de la voirie routière - art. L113-7 (V)
 	  - Loi n°2003-8 du 3 janvier 2003 - art. 25 (VT)
-
-	**Cite**:
-
-	  - Loi n°1906-06-15 art. 10
-	  - Loi n°1925-02-25 art. 1, 2
-	  - Loi n°63-661 1953-08-01
-
-	**Codifié par**:
-
-	  - Loi n°89-413 1989-06-22 JORF 24 juin 1989
+	  - Code de la voirie routière - art. L113-7 (V)
 
 	**Modifié par**:
 
-	  - Loi n°2001-1276 2001-12-28 art. 81 jorf 29 décembre 2001
-	  - Loi n°2003-8 du 3 janvier 2003 - art. 25 (V)
-
-
-###### Article L113-6
-
-Les modalités d'occupation du domaine public routier par les oléoducs d'intérêt général et par les oléoducs intéressant la
-défense nationale sont fixées respectivement par l'article 11 de la loi de finances pour 1958 (n° 58-336 du 29 mars 1958) et
-par les articles 6 et 7 de la loi n° 49-1060 du 2 août 1949 relative à la société des transports pétroliers par pipe-line.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Loi n°49-1060 du 2 août 1949
-	  - Loi n°58-336 du 29 mars 1958 - art. 6
-	  - Loi n°58-336 du 29 mars 1958 - art. 7
-
-	**Codifié par**:
-
-	  - Loi n°89-413 1989-06-22 JORF 24 juin 1989
-
-	**Créé par**:
-
-	  - Loi n°89-413 1989-06-22 jorf 24 juin 1989
-
-	**Abrogé par**:
-
 	  - Ordonnance n°2010-418  du 27 avril 2010 - art. 5
-
-	**Cité par**:
-
-	  - Code de la voirie routière - art. L113-7 (V)
 
 
 ###### Article L113-7
 
-Les travaux mentionnés aux articles L. 113-4, L. 113-5 et L. 113-6 sont soumis aux mesures de coordination des travaux
-affectant le sol et le sous-sol des voies publiques prévues aux articles L. 115-1, L. 131-7, L. 141-10 et L. 141-11 du
-présent code.
+Les travaux mentionnés à l'article L. 113-4 sont soumis aux mesures de coordination des travaux affectant le sol et le sous-
+sol des voies publiques prévues aux articles L. 115-1, L. 131-7, L. 141-10 et L. 141-11 du présent code.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Loi n°89-413 1989-06-22 JORF 24 juin 1989
-
-	**Créé par**:
-
-	  - Loi n°89-413 1989-06-22 jorf 24 juin 1989
+	  - Ordonnance n°2010-418  du 27 avril 2010 - art. 5
 
 	**Cité par**:
 
@@ -463,13 +418,10 @@ présent code.
 
 	**Cite**:
 
-	  - Code de la voirie routière - art. L113-4 (M)
-	  - Code de la voirie routière - art. L113-5 (M)
-	  - Code de la voirie routière - art. L113-6 (V)
+	  - Code de la voirie routière - art. L113-4 (V)
 	  - Code de la voirie routière - art. L115-1 (V)
 	  - Code de la voirie routière - art. L131-7 (V)
 	  - Code de la voirie routière - art. L141-10 (V)
-	  - Code de la voirie routière L113-4, L113-5, L113-6, L115-1, L131-7, L141-10, L. 141-11
 
 
 ### Chapitre IV : Riveraineté.
@@ -4354,23 +4306,26 @@ R. 20-45 et suivants du code des postes et communications électroniques.
 ###### Article R*113-3
 
 Les obligations des concessionnaires ou des permissionnaires des réseaux de distribution d'énergie électrique empruntant le
-domaine public routier sont définies par les articles 68, 69, 71 et 72 du décret du 29 juillet 1927 relatif à l'application
-de la loi du 15 juillet 1906 sur la distribution d'énergie.
+domaine public routier sont définies par l'article 23 du décret n° 2011-1697 du 1er décembre 2011 relatif aux ouvrages des
+réseaux publics d'électricité et des autres réseaux d'électricité et au dispositif de surveillance et de contrôle des ondes
+électromagnétiques, pris pour l'application des articles L. 323-11 à L. 323-13 du code de l'énergie et de l'article 42 de la
+loi n° 2009-967 du 3 août 2009 de programmation relative à la mise en œuvre du Grenelle de l'environnement.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - Décret n°1927-07-29 art. 68, 69, 71, 72
-	  - Loi n°1906-07-15
-
 	**Codifié par**:
 
-	  - Décret n°89-631 1989-09-04
+	  - Décret n°89-631 du 4 septembre 1989
 
-	**Créé par**:
+	**Cite**:
 
-	  - Décret n°89-631 1989-09-04 jorf 8 septembre 1989
+	  - Loi n°2009-967 du 3 août 2009 - art. 42 (V)
+	  - Code de l'énergie - art. L323-11 (V)
+	  - Décret n°2011-1697 du 1er décembre 2011 - art. 23 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2011-1697 du 1er décembre 2011 - art. 31
 
 
 ###### Article R*113-4
