@@ -1,5 +1,5 @@
 # Code de la voirie routière  
-Version Consolidée au 2012-01-21
+Version Consolidée au 2012-03-08
 
 # Partie législative
 
@@ -6247,6 +6247,499 @@ ayant mis sur le marché.
 	**Cite**:
 
 	  - Code de la voirie routière - art. L119-4
+
+
+### Chapitre X : Dispositions relatives au péage
+
+#### Section 1 : Service européen de télépéage
+
+##### Sous-section 1 : Les obligations des percepteurs de péage enregistrés en France
+
+###### Article R*119-13
+
+Les dispositions de la présente sous-section s'appliquent à l'ensemble des percepteurs de péage, personnes morales de droit
+public ou de droit privé, qui prélèvent des péages pour la circulation des véhicules dans un secteur de service européen de
+télépéage inscrit sur le registre prévu au II de l'article L. 119-4.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-313 du 5 mars 2012 - art. 1
+
+	**Cite**:
+
+	  - Code de la voirie routière - art. L119-4
+
+
+###### Article R*119-14
+
+Les percepteurs de péage établissent et tiennent à jour une déclaration de secteur de service européen de télépéage fixant
+les conditions générales d'accès des prestataires du service européen de télépéage à leurs secteurs à péage conformément à
+l'annexe I de la décision 2009/750/ CE de la Commission du 6 octobre 2009 relative à la définition du service européen de
+télépéage et à ses aspects techniques.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-313 du 5 mars 2012 - art. 1
+
+	**Cité par**:
+
+	  - Code de la voirie routière - art. R*119-26 (V)
+
+
+###### Article R*119-15
+
+Les percepteurs de péage acceptent, sans discrimination, tout prestataire du service européen de télépéage demandant à
+fournir ce service dans les secteurs de service européen de télépéage sous leur responsabilité dès lors que celui-ci respecte
+les conditions générales énoncées dans la déclaration de secteur de service européen de télépéage visée à l'article R. *
+119-14. 
+
+Les percepteurs de péage tiennent une liste, aisément accessible au public sur leur site internet, de tous les prestataires
+du service européen de télépéage avec lesquels ils ont passé un contrat.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-313 du 5 mars 2012 - art. 1
+
+
+###### Article R*119-16
+
+Les percepteurs de péage acceptent dans les secteurs de service européen de télépéage sous leur responsabilité tout
+équipement embarqué d'identification et de perception du péage opérationnel des prestataires du service européen de télépéage
+avec lesquels ils sont liés par des relations contractuelles, qui a été certifié conformément à l'annexe IV de la décision
+2009/750/ CE de la Commission du 6 octobre 2009 relative à la définition du service européen de télépéage et à ses aspects
+techniques et qui ne figure pas sur une liste d'équipements embarqués d'identification et de perception du péage invalidés
+tenue par les prestataires du service européen de télépéage, visée au troisième alinéa de l'article R. * 119-24.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-313 du 5 mars 2012 - art. 1
+
+	**Cité par**:
+
+	  - Code de la voirie routière - art. R*119-17 (V)
+
+	**Cite**:
+
+	  - Code de la voirie routière - art. R*119-24 (V)
+
+
+###### Article R*119-17
+
+En cas de dysfonctionnement du service européen de télépéage imputable au percepteur de péage, celui-ci fournit un service en
+mode dégradé permettant aux véhicules dotés de l'équipement visé à l'article R. * 119-16 de circuler en sécurité, en
+subissant un retard minime et sans qu'il soit considéré que leurs conducteurs aient entendu se soustraire au péage.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-313 du 5 mars 2012 - art. 1
+
+	**Cite**:
+
+	  - Code de la voirie routière - art. R*119-16 (V)
+
+
+###### Article R*119-18
+
+Lorsqu'un secteur de service européen de télépéage ne remplit pas les conditions techniques et procédurales
+d'interopérabilité du service européen de télépéage fixées par la directive 2004/52/ CE du Parlement européen et du Conseil
+du 29 avril 2004 concernant l'interopérabilité des systèmes de télépéage routier dans la Communauté et la décision 2009/750/
+CE de la Commission du 6 octobre 2009 relative à la définition du service européen de télépéage et à ses aspects techniques,
+le percepteur de péage responsable prend, après analyse du problème avec les parties intéressées, toute mesure correctrice
+relevant de sa responsabilité afin d'assurer l'interopérabilité de son système de péage avec le service européen de
+télépéage. Il en informe alors le ministre chargé des transports afin que celui-ci mette à jour le registre prévu au II de
+l'article L. 119-4.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-313 du 5 mars 2012 - art. 1
+
+	**Cite**:
+
+	  - Code de la voirie routière - art. L119-4
+
+
+###### Article R*119-19
+
+Les percepteurs de péage déterminent la classification des véhicules soumis à un péage en fonction des paramètres de l'annexe
+VI de la décision 2009/750/CE de la Commission européenne relative à la définition du service européen de télépéage et à ses
+aspects techniques. 
+
+Le péage demandé par les percepteurs de péage aux utilisateurs du service européen de télépéage ne doit pas excéder le péage
+correspondant appliqué aux usagers habituels. 
+
+En cas de divergence entre la classification du véhicule utilisée par le prestataire de service européen de télépéage et
+celle déterminée par le percepteur de péage conformément aux dispositions du premier alinéa, c'est, sauf erreur dument
+établie, cette dernière classification qui prévaut.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-313 du 5 mars 2012 - art. 1
+
+
+###### Article R*119-20
+
+Dans les systèmes de péage par micro-ondes, les percepteurs de péage communiquent aux prestataires du service européen de
+télépéage, pour les utilisateurs de leurs services, des déclarations justifiées des péages dus.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-313 du 5 mars 2012 - art. 1
+
+
+##### Sous-section 2 : Les obligations des prestataires du service européen de télépéage enregistrés en France
+
+###### Article R*119-21
+
+Les dispositions de la présente sous-section s'appliquent à l'ensemble des prestataires du service européen de télépéage
+inscrits sur le registre mentionné à l'article 1er du décret n° 2011-813 du 5 juillet 2011 relatif aux conditions
+d'enregistrement en France des sociétés prestataires du service européen de télépéage.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°2011-813 du 5 juillet 2011 - art. 1
+
+	**Créé par**:
+
+	  - Décret n°2012-313 du 5 mars 2012 - art. 1
+
+	**Cité par**:
+
+	  - Code de la voirie routière - art. R*119-22 (V)
+
+
+###### Article R*119-22
+
+Les prestataires du service européen de télépéage doivent conclure avec les percepteurs de péage des contrats de service
+européen de télépéage couvrant tous les secteurs de service européen de télépéage dans les vingt-quatre mois suivant leur
+inscription sur le registre mentionné à l'article R. * 119-21. 
+
+Ils garantissent la couverture de tous les secteurs de service européen de télépéage à tout moment. En cas de changement dans
+les secteurs de service européen de télépéage ou d'événement empêchant de couvrir tous les secteurs, les prestataires du
+service européen de télépéage doivent rétablir la couverture totale dans les six mois suivant les faits constatés.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-313 du 5 mars 2012 - art. 1
+
+	**Cite**:
+
+	  - Code de la voirie routière - art. R*119-21 (V)
+
+	**Cité par**:
+
+	  - Code de la voirie routière - art. R*119-23 (V)
+
+
+###### Article R*119-23
+
+Les prestataires du service européen de télépéage concluent avec les utilisateurs du service européen de télépéage des
+contrats d'abonnement uniques pour les secteurs de télépéage qu'ils couvrent conformément à l'article R. * 119-22.
+
+Les contrats précisent si l'utilisateur demande à connaître au moins l'heure et l'endroit où les péages ont été encourus
+ainsi que la décomposition des péages relative à l'utilisateur. 
+
+Les prestataires du service européen de télépéage rendent publiques leurs conditions contractuelles vis-à-vis des
+utilisateurs du service européen de télépéage et leur communiquent les secteurs de service européen de télépéage qu'ils
+couvrent et tout changement qui y est apporté.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-313 du 5 mars 2012 - art. 1
+
+	**Cite**:
+
+	  - Code de la voirie routière - art. R*119-22 (V)
+
+
+###### Article R*119-24
+
+Les prestataires du service européen de télépéage assurent aux utilisateurs du service européen de télépéage un service et un
+soutien technique appropriés afin de garantir la personnalisation correcte de l'équipement embarqué d'identification et de
+perception du péage. Ils sont, à ce titre, responsables des paramètres fixes de classification du véhicule stockés dans
+l'équipement embarqué ou dans leur système informatique. Ils s'assurent que les paramètres variables de classification du
+véhicule, qui peuvent changer d'un trajet à l'autre ou sur un même trajet et dont l'introduction exige d'intervenir à
+l'intérieur du véhicule, sont aisément configurables par l'utilisateur. 
+
+Les prestataires du service européen de télépéage signalent à l'utilisateur du service européen de télépéage, dans les
+meilleurs délais possibles, tout cas de non-déclaration de péage concernant son compte en lui offrant, le cas échéant, la
+possibilité de régulariser la situation avant qu'une mesure coercitive ne soit prise. 
+
+Les prestataires du service européen de télépéage tiennent une liste à jour des équipements embarqués d'identification et de
+perception du péage invalidés liés à leurs contrats d'abonnement de service européen de télépéage avec des utilisateurs du
+service européen de télépéage. Ils ne peuvent plus, dans ce cas, être tenus pour responsable des péages encourus du fait de
+l'utilisation de ces équipements.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-313 du 5 mars 2012 - art. 1
+
+	**Cité par**:
+
+	  - Code de la voirie routière - art. R*119-16 (V)
+
+
+###### Article R*119-25
+
+La facturation des utilisateurs du service européen de télépéage par les prestataires du service européen de télépéage doit
+clairement distinguer le prix du service imputé par le prestataire du service européen de télépéage des péages dus.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-313 du 5 mars 2012 - art. 1
+
+
+###### Article R*119-26
+
+Lorsque le percepteur de péage l'exige dans le cadre de la déclaration de secteur mentionnée à l'article R. * 119-14, les
+prestataires du service européen de télépéage assurent le paiement pour toute déclaration de péage justifiée, mais aussi pour
+tout péage dû et non déclaré concernant tout compte d'utilisateur géré par ce prestataire du service européen de télépéage. 
+
+Le paiement d'un péage par l'utilisateur du service européen de télépéage au prestataire du service européen de télépéage
+éteint les obligations de paiement de l'utilisateur du service européen de télépéage vis-à-vis du percepteur de péage
+concerné.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-313 du 5 mars 2012 - art. 1
+
+	**Cite**:
+
+	  - Code de la voirie routière - art. R*119-14 (V)
+
+
+###### Article R*119-27
+
+Les prestataires du service européen de télépéage collaborent avec les percepteurs de péage pour réaliser à l'improviste des
+essais détaillés du système de péage qui impliquent des véhicules circulant ou ayant récemment circulé dans les secteurs de
+service européen de télépéage du percepteur de péage. Le nombre de véhicules soumis à ces essais pendant une année, pour un
+prestataire du service européen de télépéage particulier, doit être proportionné au trafic moyen annuel ou aux prévisions de
+trafic annuel du prestataire du service européen dans les secteurs du service européen de télépéage du percepteur de péage.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-313 du 5 mars 2012 - art. 1
+
+
+###### Article R*119-28
+
+Les prestataires du service européen de télépéage contrôlent leur niveau de service. Ils instaurent, à cet effet, des
+procédures opérationnelles auditées qui prévoient les mesures appropriées à prendre lorsque des problèmes de performance ou
+d'atteinte à l'intégrité du service européen de télépéage sont détectés.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-313 du 5 mars 2012 - art. 1
+
+
+##### Sous-section 3 : Les obligations des utilisateurs du service européen de télépéage
+
+###### Article R*119-29
+
+Les dispositions de la présente sous-section s'appliquent aux personnes physiques ou morales qui souscrivent un contrat
+auprès d'un prestataire du service européen de télépéage inscrit sur le registre mentionné à l'article 1er du décret n°
+2011-813 du 5 juillet 2011 afin d'accéder au service européen de télépéage.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°2011-813 du 5 juillet 2011 - art. 1
+
+	**Créé par**:
+
+	  - Décret n°2012-313 du 5 mars 2012 - art. 1
+
+
+###### Article R*119-30
+
+Les utilisateurs du service européen de télépéage s'engagent à ce que toutes les données qu'ils communiquent au prestataire
+du service européen de télépéage les concernant ainsi que les véhicules utilisés soient exactes. 
+
+Ils sont informés par le prestataire du service européen de télépéage du traitement de leurs données à caractère personnel
+conformément aux lois et règlements qui les régissent.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-313 du 5 mars 2012 - art. 1
+
+
+###### Article R*119-31
+
+Les utilisateurs du service européen de télépéage s'assurent que l'équipement embarqué d'identification et de perception du
+péage est opérationnel pendant que le véhicule circule dans un secteur de service européen de télépéage. 
+
+A cet effet, ils emploient l'équipement embarqué d'identification et de perception du péage conformément aux instructions du
+prestataire du service européen de télépéage, notamment en ce qui concerne la déclaration des paramètres variables du
+véhicule.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-313 du 5 mars 2012 - art. 1
+
+
+#### Section 2 : Péages applicables aux véhicules de transport de marchandises par route
+
+###### Article R*119-32
+
+Les véhicules de transport de marchandises par route non munis d'un équipement embarqué d'identification et de perception du
+péage reconnu par le percepteur de péage acquittent le tarif de péage modulé correspondant à la classe EURO au tarif le plus
+élevé en vigueur pour le trajet réellement effectué, sauf si leur conducteur peut produire un justificatif attestant de la
+classe EURO du véhicule.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-314 du 5 mars 2012 - art. 1
+
+
+###### Article R*119-33
+
+Lorsque le tarif de péage modulé correspondant à la classe EURO au tarif le plus élevé en vigueur pour le trajet réellement
+effectué a été appliqué en l'absence de justificatifs, le remboursement du trop-perçu correspondant à la différence entre le
+tarif de la classe EURO du véhicule et le tarif réellement acquitté peut être demandé, sur production de justificatifs, au
+percepteur de péage. Un arrêté du ministre chargé de la voirie nationale précise la liste des justificatifs nécessaires au
+remboursement du trop-perçu, ainsi que les modalités de remboursement. 
+
+Le percepteur de péage peut facturer au demandeur les frais relatifs à la transaction bancaire réalisée pour le remboursement
+mentionné au premier alinéa. 
+
+Chaque percepteur de péage informe, par tout moyen approprié, les usagers de son secteur de péage des dispositions
+applicables aux véhicules de transport de marchandises par route non munis d'un équipement embarqué d'identification et de
+perception du péage.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-314 du 5 mars 2012 - art. 1
+
+	**Cité par**:
+
+	  - Arrêté du 16 mars 2012 (V)
+	  - Arrêté du 16 mars 2012 - art. 1 (V)
+
+
+#### Section 3 : Péages applicables aux véhicules de transport de personnes par route
+
+###### Article R*119-34
+
+Les péages applicables aux véhicules de transport de personnes par route sont modulés en fonction de la classe d'émission
+EURO du véhicule, au sens de l'annexe 0 de la directive 1999/62/ CE du Parlement européen et du Conseil du 17 juin 1999
+relative à la taxation des poids lourds pour l'utilisation de certaines infrastructures. Le péage modulé à acquitter ne peut
+être supérieur de plus de 100 % au péage appliqué aux véhicules équivalents qui respectent les normes d'émission les plus
+strictes. 
+
+Les péages applicables aux véhicules de transport de personnes par route peuvent également être modulés en fonction du moment
+de la journée, de la date et du jour de la semaine. Le péage modulé à acquitter ne doit pas être d'un montant supérieur de
+plus de 100 % à celui prévu au titre de la période bénéficiant du tarif le plus bas. Si cette dernière période bénéficie
+d'une exonération tarifaire, correspondant à une gratuité totale, la modulation prévue pour la période au tarif le plus élevé
+n'excède pas 50 % du montant du péage normalement applicable au véhicule en cause. 
+
+La structure de ces différentes modulations est examinée tous les ans et les modifications qui en découlent sont mises en
+œuvre l'année suivante. 
+
+Ces dispositions s'appliquent dès le renouvellement des contrats de délégation de service public mentionnés à l'article L.
+122-4 en cours. Elles ne s'appliquent pas aux contrats initiaux en vue desquels une consultation a été engagée avant le 1er
+avril 2012.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-315 du 5 mars 2012 - art. 1
+
+	**Cite**:
+
+	  - Code de la voirie routière - art. L122-4
+
+	**Cité par**:
+
+	  - Code de la voirie routière - art. R*119-37 (V)
+
+
+###### Article R*119-35
+
+Les véhicules de transport de personnes par route non munis d'un équipement embarqué d'identification et de perception du
+péage reconnu par le percepteur de péage acquittent le tarif de péage modulé correspondant à la classe EURO au tarif le plus
+élevé en vigueur pour le trajet réellement effectué, sauf si leur conducteur peut produire un justificatif attestant de la
+classe EURO du véhicule.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-315 du 5 mars 2012 - art. 1
+
+
+###### Article R*119-36
+
+Lorsque le tarif de péage modulé correspondant à la classe EURO au tarif le plus élevé en vigueur pour le trajet réellement
+effectué a été appliqué en l'absence de justificatifs, le remboursement du trop-perçu correspondant à la différence entre le
+tarif de la classe EURO du véhicule et le tarif réellement acquitté peut être demandé, sur production de justificatifs, au
+percepteur de péage. Un arrêté du ministre chargé de la voirie nationale précise la liste des justificatifs nécessaires au
+remboursement du trop-perçu, ainsi que les modalités de remboursement. 
+
+Le percepteur de péage peut facturer au demandeur les frais relatifs à la transaction bancaire réalisée pour le remboursement
+mentionné au premier alinéa.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-315 du 5 mars 2012 - art. 1
+
+
+###### Article R*119-37
+
+Chaque percepteur de péage informe, par tout moyen approprié, les usagers de son secteur de péage des dispositions des
+articles R. * 119-34 à R. * 119-36.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-315 du 5 mars 2012 - art. 1
+
+	**Cite**:
+
+	  - Code de la voirie routière - art. R*119-34 (V)
 
 
 ## TITRE II : Voirie nationale.
