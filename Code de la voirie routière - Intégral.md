@@ -1,5 +1,5 @@
 # Code de la voirie routière  
-Version Consolidée au 2012-07-01
+Version Consolidée au 2013-01-01
 
 # Partie législative
 
@@ -7219,26 +7219,23 @@ Il a la qualité d'ordonnateur.
 
 ###### Article R*122-13
 
-Le fonctionnement financier et comptable de la caisse est assuré dans les conditions prévues par le décret n° 62-1587 du 29
-décembre 1962 portant règlement général sur la comptabilité publique selon les modalités définies ci-après.
+La Caisse nationale des autoroutes est soumise aux dispositions des titres Ier et III du décret n° 2012-1246 du 7 novembre
+2012 relatif à la gestion budgétaire et comptable publique à l'exception des 1° et 2° de l'article 175, des articles 178 à
+185, 204 à 208 et 220 à 228 de ce même décret.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - Décret n°62-1587 1962-12-29
-
-	**Anciens textes**:
-
-	  - Décret n°63-585 1963-06-20 art. 8 al. 1
-
 	**Codifié par**:
 
-	  - Décret n°89-631 1989-09-04
+	  - Décret n°89-631 du 4 septembre 1989
 
-	**Créé par**:
+	**Cite**:
 
-	  - Décret n°89-631 1989-09-04 jorf 8 septembre 1989
+	  - Décret n°2012-1246 du 7 novembre 2012 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2012-1247 du 7 novembre 2012 - art. 47
 
 
 ###### Article R*122-14
@@ -7338,35 +7335,35 @@ d'actionnaires.
 
 ###### Article R*122-18
 
-L'établissement est administré par un conseil d'administration de vingt membres. Ce conseil d'administration comprend :
+L'établissement est administré par un conseil d'administration de vingt membres. Ce conseil d'administration comprend : 
 
 a) Un président, désigné par décret parmi les membres du Conseil d'Etat, de la Cour des comptes ou de l'inspection générale
-des finances ;
+des finances ; 
 
-b) Deux parlementaires désignés pour trois ans, l'un par l'Assemblée nationale, l'autre par le Sénat ;
+b) Deux parlementaires désignés pour trois ans, l'un par l'Assemblée nationale, l'autre par le Sénat ; 
 
-c) Le directeur des routes, vice-président ;
+c) Le directeur des routes, vice-président ; 
 
-d) Le vice-président du conseil général des ponts et chaussées ou son représentant ;
+d) Le vice-président du conseil général des ponts et chaussées ou son représentant ; 
 
-e) Le directeur de la sécurité et de la circulation routières ou son représentant ;
+e) Le directeur de la sécurité et de la circulation routières ou son représentant ; 
 
-f) Le directeur général de l'Agence des participations de l'Etat ou son représentant ;
+f) Le directeur général de l'Agence des participations de l'Etat ou son représentant ; 
 
-g) Le directeur de la prévision ou son représentant ;
+g) Le directeur de la prévision ou son représentant ; 
 
-h) Le directeur du budget ou son représentant ;
+h) Le directeur du budget ou son représentant ; 
 
-i) Le directeur de la comptabilité publique ou son représentant ;
+i) Le directeur de la comptabilité publique ou son représentant ; 
 
-j) Le directeur général des collectivités locales ou son représentant ;
+j) Le directeur général des collectivités locales ou son représentant ; 
 
-k) Le délégué à l'aménagement du territoire et à l'action régionale ou son représentant ;
+k) Le délégué à l'aménagement du territoire et à l'action régionale ou son représentant ; 
 
-l) Le directeur général de la Caisse des dépôts et consignations ou son représentant ;
+l) Le directeur général de la Caisse des dépôts et consignations ou son représentant ; 
 
 m) Un membre désigné par arrêté du ministre chargé de la voirie nationale parmi les présidents de sociétés d'économie mixte
-concessionnaires d'autoroutes ;
+concessionnaires d'autoroutes ; 
 
 n) Six membres représentant les collectivités territoriales actionnaires des sociétés d'économie mixte concessionnaires
 d'autoroutes désignées ci-après : Société des autoroutes du Sud de la France, Société des autoroutes Paris-Rhin-Rhône,
@@ -7374,35 +7371,35 @@ Société des autoroutes du Nord et de l'Est de la France, Société des autorou
 des autoroutes Rhônes-Alpes, Société des autoroutes Paris-Normandie, à raison d'un membre par société. Chaque membre est
 choisi en son sein par le collège des représentants permanents des collectivités territoriales administrateurs de la société
 concernée. Lorsqu'un membre ainsi désigné perd la qualité de représentant permanent d'une collectivité territoriale
-administrateur, un autre membre est nommé dans les mêmes conditions.
+administrateur, un autre membre est nommé dans les mêmes conditions. 
 
 Le président et le membre choisi parmi les présidents des sociétés sont nommés pour une durée de trois ans renouvelable. En
 cas de vacance d'un siège pour quelque cause que ce soit, un autre membre est nommé dans les mêmes conditions jusqu'à
-l'expiration du mandat en cours.
+l'expiration du mandat en cours. 
 
-Les fonctions de président et d'administrateur ne sont pas rémunérées.
+Les fonctions de président et d'administrateur ne sont pas rémunérées. 
 
-Le conseil d'administration se réunit au moins deux fois par an sur convocation de son président.
+Le conseil d'administration se réunit au moins deux fois par an sur convocation de son président. 
 
 Les délibérations sont prises à la majorité simple des membres présents. En cas de partage égal des voix, celle du président
-est prépondérante.
+est prépondérante. 
 
-Le membre du corps du contrôle général économique et financier et l'agent comptable assistent avec voix consultative aux
-délibérations du conseil d'administration.
+Le        contrôleur budgétaire et l'agent comptable assistent avec voix consultative aux délibérations du conseil
+d'administration.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°83-774 1983-08-31 art. 3
-
 	**Codifié par**:
 
-	  - Décret n°89-631 1989-09-04
+	  - Décret n°89-631 du 4 septembre 1989
 
 	**Modifié par**:
 
-	  - Décret n°2005-436 du 9 mai 2005 - art. 19 (V) JORF 10 mai 2005
+	  - Décret n°2012-1247 du 7 novembre 2012 - art. 2 (V)
+
+	**Abrogé par**:
+
+	  - Décret n°2014-551 du 27 mai 2014 - art. 32
 
 
 ###### Article R*122-19
@@ -7524,8 +7521,8 @@ Il a qualité d'ordonnateur.
 
 ###### Article R*122-23
 
-Le fonctionnement financier et comptable de l'établissement est assuré dans les conditions prévues par les décrets n° 62-1587
-du 29 décembre 1962 et n° 53-1227 du 10 décembre 1953.
+Le fonctionnement financier et comptable de l'établissement est assuré dans les conditions prévues par le titre III du décret
+n° 2012-1246 du 7 novembre 2012 relatif à la gestion budgétaire et comptable publique.
 
 La comptabilité de l'établissement est distincte de celle de la Caisse des dépôts et consignations.
 
@@ -7533,22 +7530,17 @@ Les fonds de l'établissement sont déposés en compte propre au Trésor.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - Décret n°53-1227 1953-12-10
-	  - Décret n°62-1587 1962-12-29
-
-	**Anciens textes**:
-
-	  - Décret n°83-774 1983-08-31 art. 8
-
 	**Codifié par**:
 
-	  - Décret n°89-631 1989-09-04
+	  - Décret n°89-631 du 4 septembre 1989
 
-	**Créé par**:
+	**Cite**:
 
-	  - Décret n°89-631 1989-09-04 jorf 8 septembre 1989
+	  - Décret n°2012-1246 du 7 novembre 2012
+
+	**Modifié par**:
+
+	  - Décret n°2012-1247 du 7 novembre 2012 - art. 1 (V)
 
 	**Cité par**:
 
