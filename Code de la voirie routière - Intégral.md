@@ -1,5 +1,5 @@
 # Code de la voirie routière  
-Version Consolidée au 2013-02-17
+Version Consolidée au 2013-05-30
 
 # Partie législative
 
@@ -3921,15 +3921,20 @@ Les articles L. 114-7 et L. 114-8 ne sont pas applicables dans les départements
 Les articles L. 171-2 à L. 171-11 sont applicables, sur délibération de leur assemblée, aux communes et aux établissements
 publics de coopération intercommunale compétents en matière de voirie ou d'éclairage public ou de transport en commun.
 
+Dans la région d'Ile-de-France, la section 1 du chapitre Ier du présent titre est également applicable au Syndicat des
+transports d'Ile-de-France, sur délibération de son conseil d'administration, et aux départements, sur délibération de leur
+assemblée, lorsqu'ils assurent la maîtrise d'ouvrage des projets d'investissement en matière de transport public de
+voyageurs.
+
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Loi n°2007-1787 du 20 décembre 2007 - art. 23
+	  - Loi n°2013-431 du 28 mai 2013 - art. 8
 
 	**Cite**:
 
-	  - Code de la voirie routière - art. L171-2 (V)
+	  - Code de la voirie routière - art. L171-2
 
 
 ###### Article L173-2
@@ -7620,39 +7625,35 @@ conditions définies par la convention prévue à l'article R.* 122-21.
 ###### Article R122-27
 
 Les sociétés concessionnaires d'autoroutes versent annuellement à l'Etat, pour une période comprise entre le 1er juillet et
-le 30 juin, une redevance pour occupation du domaine public déterminée par application de la formule suivante :
+le 30 juin, une redevance pour occupation du domaine public déterminée par application de la formule suivante : 
 
-R = (R 1 + R 2) x 0,3,
+R = (R 1 + R 2) x 0,3, 
 
-où :
+où : 
 
 R 1 = V x 1 000 x L ;
 
-R 2 = 0,015 x CA ;
+R 2 = 0,055 × CA ; 
 
 V est la valeur locative de 1 mètre de voie autoroutière telle qu'elle est fixée au II de l'article 1501 du code général des
 impôts et actualisée selon les modalités prévues pour les propriétés bâties autres que les immeubles industriels à l'article
-1518 bis de ce même code ;
+1518 bis de ce même code ; 
 
 L correspond au nombre de kilomètres de voies autoroutières exploitées par le concessionnaire au 31 décembre de l'année
-précédant l'année du versement ;
+précédant l'année du versement ; 
 
 CA représente le montant du chiffre d'affaires réalisé par la société au titre de son activité de concessionnaire
 d'autoroutes sur le domaine public national, tel qu'il apparaît dans les comptes définitifs au titre de l'année précédant
-l'année du versement.
+l'année du versement. 
 
 Le versement a lieu entre le 15 et le 30 juillet de chaque année au service des impôts compétent chargé des recettes
 domaniales.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - CGI 1501
-
 	**Codifié par**:
 
-	  - Décret n°89-631 1989-09-04
+	  - Décret n°89-631 du 4 septembre 1989
 
 	**Cité par**:
 
@@ -7661,7 +7662,19 @@ domaniales.
 
 	**Modifié par**:
 
-	  - Loi n°2005-1720 du 30 décembre 2005 - art. 103 () JORF 31 décembre 2005
+	  - Décret n°2013-436 du 28 mai 2013 - art. 1
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2016-234 du 1er mars 2016 - art. 1
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 1501
+
+	**Nouveaux textes**:
+
+	  - Code de la voirie routière - art. R122-48 (V)
 
 
 ### Chapitre III : Routes nationales.
