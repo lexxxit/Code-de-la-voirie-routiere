@@ -1,5 +1,5 @@
 # Code de la voirie routière  
-Version Consolidée au 2013-07-18
+Version Consolidée au 2013-09-21
 
 # Partie législative
 
@@ -6277,6 +6277,23 @@ ayant mis sur le marché.
 #### Section 1 : Service européen de télépéage
 
 ##### Sous-section 1 : Les obligations des percepteurs de péage enregistrés en France
+
+###### Article D119-20-1
+
+Les ouvrages mentionnés au second alinéa de l'article L. 119-2 sont ceux dont le chiffre d'affaires annuel est inférieur ou
+égal à 50 millions d'euros. Ce montant est réévalué chaque année en fonction de l'évolution de l'indice des prix à la
+consommation hors tabac constatée l'année précédente.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-840 du 18 septembre 2013 - art. 1
+
+	**Cite**:
+
+	  - Code de la voirie routière - art. L119-2
+
 
 ###### Article R*119-13
 
