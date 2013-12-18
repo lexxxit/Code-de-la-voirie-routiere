@@ -1,5 +1,5 @@
 # Code de la voirie routière  
-Version Consolidée au 2013-11-29
+Version Consolidée au 2013-12-19
 
 # Partie législative
 
@@ -6658,6 +6658,44 @@ véhicule.
 
 
 #### Section 2 : Péages applicables aux véhicules de transport de marchandises par route
+
+###### Article D119-31-1
+
+Le montant acquitté au titre du péage modulé en application du II de l'article L. 119-7 ne peut être supérieur de plus de 100
+% au péage qui serait acquitté, dans les mêmes conditions, par les véhicules équivalents qui respectent les normes d'émission
+EURO les plus strictes.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-1167 du 14 décembre 2013 - art. 1
+
+	**Cite**:
+
+	  - Code de la voirie routière - art. L119-7
+
+
+###### Article D119-31-2
+
+Le montant acquitté au titre du péage modulé en application du IV de l'article L. 119-7 ne doit pas correspondre à un taux
+kilométrique supérieur de plus de 75 % au taux kilométrique moyen prévu à l'article 1er du décret n° 95-81 du 24 janvier 1995
+relatif aux péages autoroutiers, pour chaque classe de véhicules considérée. 
+
+Les périodes cumulées pendant lesquelles le péage modulé le plus élevé est perçu, en application du présent article,
+n'excèdent pas cinq heures par jour.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°95-81 du 24 janvier 1995
+	  - Code de la voirie routière - art. L119-7
+
+	**Créé par**:
+
+	  - Décret n°2013-1167 du 14 décembre 2013 - art. 1
+
 
 ###### Article R*119-32
 
