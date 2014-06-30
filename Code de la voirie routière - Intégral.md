@@ -1,5 +1,5 @@
 # Code de la voirie routière  
-Version Consolidée au 2014-05-30
+Version Consolidée au 2014-07-01
 
 # Partie législative
 
@@ -4599,30 +4599,33 @@ classe.
 Le maire fixe chaque année la date à laquelle doivent lui être adressés par les propriétaires, affectataires des voies,
 permissionnaires, concessionnaires et occupants de droit ceux de leurs programmes de travaux qui affectent la voirie. Il fixe
 également les renseignements qui doivent lui être adressés, notamment sur la nature des travaux, leur localisation, la date
-de leur début et leur durée. Les demandes adressées au maire en application du quatrième alinéa de l'article L. 115-1 doivent
-comporter les mêmes renseignements.
+de leur début et leur durée, ainsi que sur les opérations préparatoires aux travaux susceptibles d'affecter la voirie, en
+particulier les investigations complémentaires obligatoires prévues au II de l'article R. 554-23 du code de l'environnement.
+Les demandes adressées au maire en application du quatrième alinéa de l'article L. 115-1 doivent comporter les mêmes
+renseignements. 
 
-La décision du maire est publiée. Elle est notifiée aux personnes mentionnées à l'alinéa 1er ci-dessus.
+La décision du maire est publiée. Elle est notifiée aux personnes mentionnées à l'alinéa 1er ci-dessus. 
 
 Deux semaines au moins avant la date fixée par le maire, celui-ci porte à la connaissance des mêmes personnes les projets de
-réfection des voies communales.
+réfection des voies communales. 
 
 Les programmes de travaux mentionnés aux alinéas 1er et 3 ci-dessus distinguent les opérations qui doivent être entreprises
 dans un délai d'un an de celles prévues à plus long terme.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°85-1263 du 27 novembre 1985 - art. 1 (Ab)
-
 	**Codifié par**:
 
-	  - Décret n°89-631 1989-09-04
+	  - Décret n°89-631 du 4 septembre 1989
+
+	**Modifié par**:
+
+	  - Décret n°2014-627 du 17 juin 2014 - art. 2
 
 	**Cite**:
 
-	  - Code de la voirie routière - art. L115-1 (V)
+	  - Code de la voirie routière - art. L115-1
+	  - Code de l'environnement - art. R554-23
 
 	**Cité par**:
 
