@@ -1,5 +1,5 @@
 # Code de la voirie routière  
-Version Consolidée au 2014-07-01
+Version Consolidée au 2015-01-01
 
 # Partie législative
 
@@ -760,7 +760,9 @@ publics de l'Etat, quand ils sont commissionnés et assermentés à cet effet ;
 effet ; 
 
 5° Dans les départements d'outre-mer, sur les voies régionales, les agents de la région commissionnés et assermentés à cet
-effet. 
+effet ;
+
+6° Sur les voies de la métropole de Lyon, les agents de la métropole commissionnés et assermentés à cet effet. 
 
 Les procès-verbaux dressés en matière de voirie font foi jusqu'à preuve contraire.
 
@@ -781,7 +783,7 @@ Les procès-verbaux dressés en matière de voirie font foi jusqu'à preuve cont
 
 	**Modifié par**:
 
-	  - Loi n°2011-525 du 17 mai 2011 - art. 94
+	  - ORDONNANCE n°2014-1543 du 19 décembre 2014 - art. 12
 
 
 ###### Article L116-3
@@ -1523,22 +1525,22 @@ appartient à tous est soumise à l'autorisation prévue par l'article L. 28 du 
 
 ###### Article L121-3
 
-Les dispositions de l'article L. 15-9 du code de l'expropriation pour cause d'utilité publique, relatif à la prise de
-possession de terrains en cas d'extrême urgence, sont applicables aux autoroutes et aux routes nationales.
+Les dispositions des articles L. 522-1 à L. 522-4 du code de l'expropriation pour cause d'utilité publique, relatif à la
+prise de possession de terrains en cas d'extrême urgence, sont applicables aux autoroutes et aux routes nationales.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Loi n°89-413 1989-06-22 JORF 24 juin 1989
+	  - Loi n°89-413 du 22 juin 1989
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°89-413 1989-06-22 jorf 24 juin 1989
+	  - ORDONNANCE n°2014-1345 du 6 novembre 2014 - art. 5
 
 	**Cite**:
 
-	  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PU... - art. L15-9 (V)
+	  - Code de l'expropriation pour cause d'utilité publique - art. L522-1
 
 
 ### Chapitre II : Autoroutes.
@@ -2733,18 +2735,18 @@ conditions fixées par voie réglementaire.
 
 ###### Article L151-5
 
-Les dispositions de l'article L. 15-9 du code de l'expropriation pour cause d'utilité publique, relatif à la prise de
-possession des terrains en cas d'extrême urgence, sont applicables aux routes express.
+Les dispositions des articles L. 522-1 à L. 522-4 du code de l'expropriation pour cause d'utilité publique, relatif à la
+prise de possession des terrains en cas d'extrême urgence, sont applicables aux routes express.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Loi n°89-413 1989-06-22 JORF 24 juin 1989
+	  - Loi n°89-413 du 22 juin 1989
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°89-413 1989-06-22 jorf 24 juin 1989
+	  - ORDONNANCE n°2014-1345 du 6 novembre 2014 - art. 5
 
 	**Cité par**:
 
@@ -2752,7 +2754,7 @@ possession des terrains en cas d'extrême urgence, sont applicables aux routes e
 
 	**Cite**:
 
-	  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PU... - art. L15-9 (V)
+	  - Code de l'expropriation pour cause d'utilité publique - art. L522-1
 
 
 ### Chapitre II : Déviations.
@@ -7735,39 +7737,38 @@ déclassée est prononcé par le préfet.
 ###### Article R*123-3
 
 L'enquête préalable à l'approbation des plans d'alignement des routes nationales s'effectue dans les conditions fixées aux
-articles R. 11-19 à R. 11-27 du code de l'expropriation pour cause d'utilité publique. Toutefois, le dossier soumis à enquête
-comprend outre les pièces prévues à l'article R. 11-19 dudit code, une notice explicative.
+articles R. 131-1 à R. 131-11 et R. 131-14 du code de l'expropriation pour cause d'utilité publique. Toutefois, le dossier
+soumis à enquête comprend outre les pièces prévues à l'article R. 131-3 dudit code, une notice explicative. 
 
 Les intéressés peuvent faire connaître leurs observations sur le projet.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°62-1245 1962-10-20 art. 1 (partie)
-
 	**Codifié par**:
 
-	  - Décret n°89-631 1989-09-04
+	  - Décret n°89-631 du 4 septembre 1989
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°89-631 1989-09-04 jorf 8 septembre 1989
+	  - Décret n°2014-1635 du 26 décembre 2014 - art. 4
 
 	**Cite**:
 
-	  - Code de l'expropriation  pour cause d'utilité publique R11-19 à R11-27
+	  - Code de l'expropriation pour cause d'utilité pu... - art. R131-1 (V)
+	  - Code de l'expropriation pour cause d'utilité pu... - art. R131-14 (V)
+	  - Code de l'expropriation pour cause d'utilité pu... - art. R131-3 (V)
 
 
 ###### Article R*123-4
 
 Dans le cas où, en vue de la réalisation des alignements, il est nécessaire d'exproprier des immeubles bâtis, et quel que
 soit le délai écoulé depuis l'approbation du plan d'alignement, le préfet prend, sans autre enquête ni formalité, l'arrêté de
-cessibilité prévu aux articles L. 11-8 et R. 11-28 du code de l'expropriation pour cause d'utilité publique. 
+cessibilité prévu aux articles L. 132-1 à L. 132-4 et R. 132-1 à R. 132-3 du code de l'expropriation pour cause d'utilité
+publique. 
 
 Il est ensuite procédé conformément aux dispositions des chapitres II et suivants du titre Ier du même code. 
 
-Toutefois le dossier prévu à l'article R. 12-1 du code de l'expropriation pour cause d'utilité publique est remplacé par un
+Toutefois le dossier prévu à l'article R. 221-1 du code de l'expropriation pour cause d'utilité publique est remplacé par un
 dossier comprenant les copies certifiées conformes : 
 
 a) De l'acte approuvant le plan d'alignement ; 
@@ -7778,23 +7779,19 @@ c) De l'arrêté de cessibilité ayant moins de six mois de date.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°62-1245 du 20 octobre 1962 - art. 3 (Ab)
-
 	**Codifié par**:
 
-	  - Décret n°89-631 1989-09-04
+	  - Décret n°89-631 du 4 septembre 1989
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°89-631 1989-09-04 jorf 8 septembre 1989
+	  - Décret n°2014-1635 du 26 décembre 2014 - art. 4
 
 	**Cite**:
 
-	  - Code de l'expropriation pour cause d'utilité pu... - art. **R11-28 (V)
-	  - Code de l'expropriation pour cause d'utilité pu... - art. L11-8 (VT)
-	  - Code de l'expropriation pour cause d'utilité pu... - art. R12-1 (V)
+	  - Code de l'expropriation pour cause d'utilité pu... - art. L132-1 (V)
+	  - Code de l'expropriation pour cause d'utilité pu... - art. R132-1 (V)
+	  - Code de l'expropriation pour cause d'utilité pu... - art. R221-1 (V)
 
 
 #### Section 3 : Disposition relative à la création de voies accédant aux routes nationales.
@@ -7883,8 +7880,8 @@ section.
 
 Un arrêté du président du conseil général désigne un commissaire enquêteur ou une commission d'enquête dont il nomme le
 président. Les membres de la commission d'enquête sont en nombre impair. Le commissaire enquêteur ou les membres de la
-commission d'enquête sont choisis sur une liste départementale établie annuellement en application de l'article R. 11-5 du
-code de l'expropriation. 
+commission d'enquête sont choisis sur une liste départementale établie annuellement en application de l'article R. 111-4 du
+code de l'expropriation pour cause d'utilité publique. 
 
 Le même arrêté précise : 
 
@@ -7901,15 +7898,16 @@ supérieure à deux mois ;
 
 	**Codifié par**:
 
-	  - Décret n°89-631 1989-09-04
+	  - Décret n°89-631 du 4 septembre 1989
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°93-1133 du 22 septembre 1993 - art. 2 () JORF 30 septembre 1993  rectificatif JORF 6 novembre 1993
+	  - Décret n°2014-1635 du 26 décembre 2014 - art. 4
 
 	**Cite**:
 
-	  - Code de l'expropriation pour cause d'utilité pu... - art. **R11-5 (V)
+	  - Code de la voirie routière - art. L131-4 (VT)
+	  - Code de l'expropriation pour cause d'utilité pu... - art. R111-4 (V)
 
 
 ###### Article R*131-4
@@ -8038,7 +8036,8 @@ juillet 1983 et du décret n° 85-453 du 23 avril 1985, cette enquête est organ
 conformément aux dispositions des chapitres Ier et II dudit décret.
 
 Toutefois, lorsque ces travaux doivent donner lieu à déclaration d'utilité publique, l'enquête est organisée par le préfet
-conformément aux dispositions des articles R. 11-14-1 à R. 11-14-15 du code de l'expropriation pour cause d'utilité publique.
+dans les formes prévues pour les enquêtes relevant du premier alinéa de l'article L. 110-1 du code de l'expropriation pour
+cause d'utilité publique.
 
 **Nota:**
 
@@ -8048,21 +8047,16 @@ conformément aux dispositions des articles R. 11-14-1 à R. 11-14-15 du code de
 
 	**Cite**:
 
-	  - Loi n°83-630 1983-07-12
-	  - Décret n°85-453 1985-04-23
-	  - Code de l'expropriation pour cause d'utilité publique R11-14-1 à R11-14-15
+	  - Décret n°85-453 du 23 avril 1985 (Ab)
+	  - Code de l'expropriation pour cause d'utilité pu... - art. L110-1 (V)
 
 	**Codifié par**:
 
-	  - Décret n°89-631 1989-09-04
+	  - Décret n°89-631 du 4 septembre 1989
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°93-1133 du 22 septembre 1993 - art. 3 () JORF 30 septembre 1993
-
-	**Anciens textes**:
-
-	  - Code de la voirie routière R131-3
+	  - Décret n°2014-1635 du 26 décembre 2014 - art. 4
 
 
 ###### Article R*131-10
@@ -8380,30 +8374,23 @@ d'un mois transmet au maire le dossier et le registre accompagnés de ses conclu
 
 ###### Article R*141-10
 
-Lorsque des travaux intéressant la voirie communale donnent lieu à enquête publique en application de la loi n° 83-630 du 12
-juillet 1983 et du décret n° 85-453 du 23 avril 1985, cette enquête est organisée :
-
-a) Par le maire, dans les conditions fixées aux chapitres Ier et II du décret du 23 avril 1985 précité, quand les travaux ne
-donnent pas lieu à expropriation ;
-
-b) Par le préfet, dans les conditions fixées aux articles R. 11-14-1 à R. 11-14-15 du code de l'expropriation pour cause
-d'utilité publique, dans le cas contraire.
+Les travaux intéressant la voirie communale donnent lieu à enquête publique selon les modalités fixées pour les enquêtes
+relevant de l'article L. 110-2 du code de l'expropriation pour cause d'utilité publique régies par le titre Ier du livre Ier
+du même code.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - Loi n°83-630 1983-07-12
-	  - Décret n°85-453 1985-04-23 chapitre I, II
-	  - Code de l'expropriation pour cause d'utilité publique R11-14-1 à R11-14-15
-
 	**Codifié par**:
 
-	  - Décret n°89-631 1989-09-04
+	  - Décret n°89-631 du 4 septembre 1989
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°89-631 1989-09-04 jorf 8 septembre 1989
+	  - Décret n°2014-1635 du 26 décembre 2014 - art. 4
+
+	**Cite**:
+
+	  - Code de l'expropriation pour cause d'utilité pu... - art. L110-2 (V)
 
 
 ##### Sous-section 3 : Publicité foncière.
@@ -8756,9 +8743,10 @@ d'usagers auxquelles tout ou partie de la route express seront en permanence int
 
 ###### Article R*151-3
 
-L'enquête préalable à l'arrêté conférant le caractère de route express est effectuée dans les conditions prévues aux articles
-R. 11-3 à R. 11-17 du code de l'expropriation pour cause d'utilité publique. Toutefois, le dossier soumis à enquête comprend,
-outre les documents énumérés audit article R. 11-3 : 
+L'enquête préalable à l'arrêté conférant le caractère de route express est effectuée dans les formes prévues pour les
+enquêtes publiques relevant de l'article L. 110-2 du code de l'expropriation pour cause d'utilité publique régies par le
+titre Ier du livre Ier du même code. Toutefois, le dossier soumis à enquête comprend, outre les documents énumérés à
+l'article R. 112-4 ou à l'article R. 112-5 : 
 
 1° Un plan général de la route indiquant les limites entre lesquelles le caractère de route express doit lui être conféré ; 
 
@@ -8775,19 +8763,22 @@ déclaration d'utilité publique des travaux. Le dossier soumis à l'enquête es
 
 	**Modifié par**:
 
-	  - Décret n°2009-382 du 6 avril 2009 - art. 1
+	  - Décret n°2014-1635 du 26 décembre 2014 - art. 4
 
 	**Cite**:
 
-	  - Code de l'expropriation pour cause d'utilité publique - art. R11-3
+	  - Code de l'expropriation pour cause d'utilité pu... - art. L110-2 (V)
+	  - Code de l'expropriation pour cause d'utilité pu... - art. R112-4 (V)
+	  - Code de l'expropriation pour cause d'utilité pu... - art. R112-5 (V)
 
 
 ###### Article R*151-4
 
-Lorsqu'il y a lieu à expropriation, l'enquête parcellaire est effectuée dans les conditions prévues aux articles R. 11-19 à
-R. 11-31 du code de l'expropriation pour cause d'utilité publique. Toutefois, le dossier soumis à enquête comprend, outre les
-documents énumérés à l'article R. 11-19, une notice accompagnée des plans précisant les dispositions prévues pour assurer le
-désenclavement des parcelles que la réalisation de la route doit priver d'accès.
+Lorsqu'il y a lieu à expropriation, l'enquête parcellaire est effectuée dans les conditions prévues au titre III du livre Ier
+du code de l'expropriation pour cause d'utilité publique. Toutefois, le dossier soumis à enquête comprend, outre les
+documents énumérés à l'article R. 131-3 du code de l'expropriation pour cause d'utilité publique, une notice accompagnée des
+plans précisant les dispositions prévues pour assurer le désenclavement des parcelles que la réalisation de la route doit
+priver d'accès. 
 
 Lorsqu'il n'y a pas lieu à expropriation, l'établissement des plans de désenclavement des parcelles privées d'accès est
 précédé d'une enquête parcellaire, organisée dans les conditions fixées à l'alinéa précédent. Les plans sont approuvés dans
@@ -8795,22 +8786,17 @@ les formes prévues pour les plans d'alignement des routes de la catégorie doma
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°70-759 1970-08-18 art. 4 al. 1, 2, 3 (partie)
-	  - Décret n°70-759 du 18 août 1970 - art. 2 (Ab)
-
 	**Codifié par**:
 
-	  - Décret n°89-631 1989-09-04
+	  - Décret n°89-631 du 4 septembre 1989
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°89-631 1989-09-04 jorf 8 septembre 1989
+	  - Décret n°2014-1635 du 26 décembre 2014 - art. 4
 
 	**Cite**:
 
-	  - Code de l'expropriation pour cause d'utilité publique R11-19 à R11-31
+	  - Code de l'expropriation pour cause d'utilité pu... - art. R131-3 (V)
 
 
 ###### Article R*151-5
@@ -8818,10 +8804,12 @@ les formes prévues pour les plans d'alignement des routes de la catégorie doma
 I.-La décision de création ou de suppression d'un point d'accès prévue à l'article L. 151-4 sur une route existante est prise
 par arrêté préfectoral après enquête publique et avis des départements et des communes intéressés. 
 
-II.-L'enquête publique est effectuée dans les formes prévues aux articles R. 11-3 à R. 11-17 du code de l'expropriation pour
-cause d'utilité publique. Toutefois, le dossier soumis à enquête comprend, outre les documents énumérés au I de l'article R.
-11-3 dudit code, l'indication de l'emplacement des accès et la description des aménagements projetés ainsi que les
-dispositions envisagées pour assurer le rétablissement des communications. 
+II.-L'enquête publique est effectuée dans les formes prévues pour les enquêtes publiques relevant de l'article L. 110-2 du
+code de l'expropriation pour cause d'utilité publique régies par le titre Ier du livre Ier du même code et, s'il y a lieu,
+conformément aux dispositions des articles R. 122-1 à R. 122-3. Toutefois, le dossier soumis à enquête comprend, outre les
+documents énumérés à l'article R. 112-4 du code de l'expropriation pour cause d'utilité publique, l'indication de
+l'emplacement des accès et la description des aménagements projetés ainsi que les dispositions envisagées pour assurer le
+rétablissement des communications. 
 
 S'il y a lieu à déclaration d'utilité publique, les deux enquêtes sont confondues. 
 
@@ -8834,13 +8822,15 @@ qu'après l'approbation de la modification du plan d'occupation des sols ou du d
 
 	**Modifié par**:
 
-	  - Décret n°2013-142 du 14 février 2013 - art. 17
+	  - Décret n°2014-1635 du 26 décembre 2014 - art. 4
 
 	**Cite**:
 
 	  - Code de la voirie routière - art. L151-4
 	  - Code de l'urbanisme - art. L123-14
-	  - Code de l'expropriation pour cause d'utilité publique - art. R11-3
+	  - Code de l'expropriation pour cause d'utilité pu... - art. L110-2 (V)
+	  - Code de l'expropriation pour cause d'utilité pu... - art. R122-1 (V)
+	  - Code de l'expropriation pour cause d'utilité pu... - art. R122-4 (V)
 
 
 ###### Article R*151-6
@@ -8906,20 +8896,21 @@ conféré par un arrêté du ministre chargé de la voirie routière nationale.
 
 ###### Article R*152-2
 
-I.-Lorsqu'il y a lieu à expropriation, les articles R. 11-3 à R. 11-17 du code de l'expropriation pour cause d'utilité
-publique sont applicables. Toutefois, le dossier soumis à enquête comprend, outre les documents énumérés audit article R.
-11-3 : 
+I.-Lorsqu'il y a lieu à expropriation, l'enquête publique est effectuée dans les formes prévues pour les enquêtes préalables
+à une déclaration d'utilité publique régies par le titre Ier du livre Ier du code de l'expropriation pour cause d'utilité
+publique et, s'il y a lieu, conformément aux dispositions des articles R. 122-1 à R. 122-3 du même code. Toutefois, le
+dossier soumis à enquête comprend, outre les documents énumérés à l'article R. 112-4 ou à l'article R. 112-5 :
 
 1. Un plan général de la déviation indiquant les limites entre lesquelles s'applique l'interdiction d'accès prévue à
-l'article L. 152-1 ;
+l'article L. 152-1 ; 
 
 2. L'indication des dispositions prévues pour l'aménagement des points d'accès à la déviation et pour le rétablissement des
 communications. 
 
-L'enquête parcellaire est effectuée dans les conditions prévues aux articles R. 11-19 à R. 11-31 du code de l'expropriation
-pour cause d'utilité publique. Toutefois, le dossier soumis à enquête comprend, outre les documents énumérés à l'article R.
-11-19, une notice accompagnée des plans précisant les dispositions prévues pour assurer le désenclavement des parcelles que
-la réalisation de la déviation doit priver d'accès. 
+L'enquête parcellaire est effectuée dans les conditions prévues au titre III du livre Ier du code de l'expropriation pour
+cause d'utilité publique. Toutefois, le dossier soumis à enquête comprend, outre les documents énumérés à l'article R. 131-3
+du code de l'expropriation pour cause d'utilité publique, une notice accompagnée des plans précisant les dispositions prévues
+pour assurer le désenclavement des parcelles que la réalisation de la déviation doit priver d'accès. 
 
 II.-Lorsque la décision incorporant une route dans une déviation ne donne pas lieu à expropriation, l'établissement des plans
 de désenclavement des parcelles privées d'accès est précédé d'une enquête parcellaire, organisée dans les conditions prévues
@@ -8928,26 +8919,20 @@ domaniale à laquelle appartient la déviation.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°70-759 1970-08-18 article 12 alinéas 1, 2, 3, 4
-	  - Décret n°70-759 du 18 août 1970 - art. 2 (Ab)
-	  - Décret n°70-759 du 18 août 1970 - art. 3 (Ab)
-	  - Décret n°70-759 du 18 août 1970 - art. 4 (Ab)
-
 	**Codifié par**:
 
-	  - Décret n°89-631 1989-09-04
+	  - Décret n°89-631 du 4 septembre 1989
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°89-631 1989-09-04 jorf 8 septembre 1989
+	  - Décret n°2014-1635 du 26 décembre 2014 - art. 4
 
 	**Cite**:
 
-	  - Code de la voirie routière - art. L152-1 (V)
-	  - Code de l'expropriation pour cause d'utilité pu... - art. **R11-19 (V)
-	  - Code de l'expropriation pour cause d'utilité pu... - art. **R11-3 (V)
+	  - Code de la voirie routière - art. L152-1
+	  - Code de l'expropriation pour cause d'utilité pu... - art. R112-4 (V)
+	  - Code de l'expropriation pour cause d'utilité pu... - art. R112-5 (V)
+	  - Code de l'expropriation pour cause d'utilité pu... - art. R122-1 (V)
 
 
 ###### Article R152-1
@@ -9284,27 +9269,24 @@ d'instance.
 
 ###### Article R*171-6
 
-L'enquête en vue du classement dans la voirie de la ville de Paris, prévu à l'article L. 171-14, se déroule selon les
-modalités fixées par les articles R. 11-1 et suivants du code de l'expropriation pour cause d'utilité publique.
+L'enquête en vue du transfert de propriété dans le domaine public de la ville de Paris, prévu à l'article L. 171-14, se
+déroule selon les modalités fixées pour les enquêtes relevant de l'article L. 110-2 du code de l'expropriation pour cause
+d'utilité publique régies par le titre Ier du livre Ier du même code.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°89-631 1989-09-04
+	  - Décret n°89-631 du 4 septembre 1989
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°89-631 1989-09-04 jorf 8 septembre 1989
+	  - Décret n°2014-1635 du 26 décembre 2014 - art. 4
 
 	**Cite**:
 
 	  - Code de la voirie routière - art. L171-14 (V)
-	  - Code de l'expropriation pour cause d'utilité pu... - art. **R11-1 (V)
-
-	**Anciens textes**:
-
-	  - Loi n°1930-05-15 art. 4 al. 1 (partie)
+	  - Code de l'expropriation pour cause d'utilité pu... - art. L110-2 (V)
 
 
 ###### Article R*171-7
