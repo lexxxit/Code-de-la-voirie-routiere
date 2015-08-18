@@ -1,5 +1,5 @@
 # Code de la voirie routière  
-Version Consolidée au 2015-08-09
+Version Consolidée au 2015-08-19
 
 # Partie législative
 
@@ -1660,20 +1660,18 @@ délégation, le cahier des charges prévoit un dispositif de partage d'une part
 profit de l'Etat et des collectivités territoriales contributrices, en cas de résultats financiers excédant les prévisions
 initiales. Un décret en Conseil d'Etat détermine les conditions d'application de ce dispositif.
 
+La différenciation dans les abonnements proposée par les concessionnaires d'autoroutes afin de favoriser les véhicules à très
+faibles émissions dont le poids total autorisé en charge est inférieur à 3,5 tonnes ainsi que les véhicules utilisés en
+covoiturage est mise en œuvre sous la responsabilité des concessionnaires sans modification du rythme d'évolution des tarifs
+de péage et sans augmentation de la durée des concessions autoroutières. 
+
 Le produit du péage couvre ses frais de perception.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Loi n°55-435 1955-04-18 art. 4 al. 1, 2, 3, 4 Décret 80-398 1970-05-12 art. 1 al. 1, 2, 3, 4
-	  - Loi n°55-435 du 18 avril 1955 - art. 2 (V)
-	  - Loi n°55-435 du 18 avril 1955 - art. 3 (V)
-	  - Loi n°55-435 du 18 avril 1955 - art. 4, v. init.
-
 	**Codifié par**:
 
-	  - Loi n°89-413 1989-06-22 JORF 24 juin 1989
+	  - Loi n°89-413 du 22 juin 1989
 
 	**Cité par**:
 
@@ -1702,7 +1700,7 @@ Le produit du péage couvre ses frais de perception.
 
 	**Modifié par**:
 
-	  - Loi n°2004-809 du 13 août 2004 - art. 20 () JORF 17 août 2004 en vigueur le 1er janvier 2005
+	  - Loi n°2015-992 du 17 août 2015 - art. 38
 
 
 ###### Article L122-4-2
@@ -3942,8 +3940,9 @@ Les articles L. 114-7 et L. 114-8 ne sont pas applicables dans les départements
 
 ###### Article L173-1
 
-Les articles L. 171-2 à L. 171-11 sont applicables, sur délibération de leur assemblée, aux communes et aux établissements
-publics de coopération intercommunale compétents en matière de voirie ou d'éclairage public ou de transport en commun.
+Les articles L. 171-2 à L. 171-11 sont applicables, sur délibération de leur assemblée, aux communes, aux établissements
+publics de coopération intercommunale et aux syndicats mixtes compétents en matière de voirie, d'éclairage public ou de
+transports en commun.
 
 Dans la région d'Ile-de-France, la section 1 du chapitre Ier du présent titre est également applicable au Syndicat des
 transports d'Ile-de-France, sur délibération de son conseil d'administration, et aux départements, sur délibération de leur
@@ -3954,7 +3953,7 @@ voyageurs.
 
 	**Modifié par**:
 
-	  - Loi n°2013-431 du 28 mai 2013 - art. 8
+	  - Loi n°2015-992 du 17 août 2015 - art. 52 (V)
 
 	**Cite**:
 
