@@ -1,5 +1,5 @@
 # Code de la voirie routière  
-Version Consolidée au 2016-01-01
+Version Consolidée au 2016-01-25
 
 # Partie législative
 
@@ -4852,10 +4852,10 @@ ou privés, qu'ils fassent partie du personnel attaché à l'ouvrage ou non.
 Des moyens de lutte contre l'incendie et de secours doivent être placés à proximité des tunnels à double sens de circulation
 dont la longueur est supérieure à cinq kilomètres et qui supportent un trafic journalier de plus de 2 000 véhicules en
 moyenne annuelle dans au moins un sens de circulation. Pour déterminer ce seuil de trafic, les véhicules dont le poids total
-autorisé en charge dépasse 3,5 tonnes sont comptés pour cinq véhicules.
+autorisé en charge dépasse 3,5 tonnes sont comptés pour cinq véhicules. 
 
 Un arrêté du ministre chargé de l'équipement, pris après avis de la Commission nationale d'évaluation de la sécurité des
-ouvrages routiers prévue à l'article R. 118-2-1, peut rendre applicables les mêmes dispositions à des tunnels à double sens
+ouvrages routiers prévue à l'article D. 118-2-1, peut rendre applicables les mêmes dispositions à des tunnels à double sens
 de circulation, d'une longueur comprise entre trois et cinq kilomètres, quand l'analyse des risques résultant des dossiers de
 sécurité le justifie.
 
@@ -4863,59 +4863,44 @@ sécurité le justifie.
 
 	**Codifié par**:
 
-	  - Décret n°89-631 1989-09-04
-
-	**Modifié par**:
-
-	  - Décret n°2006-1354 du 8 novembre 2006 - art. 1 () JORF 9 novembre 2006
+	  - Décret n°89-631 du 4 septembre 1989
 
 	**Cité par**:
 
 	  - Code des transports - art. R1613-3 (V)
 	  - Code de la voirie routière - art. R118-3-2 (V)
 
+	**Modifié par**:
+
+	  - Décret n°2016-38 du 22 janvier 2016 - art. 2
+
 	**Cite**:
 
-	  - Code de la voirie routière - art. R118-2-1 (V)
+	  - Code de la voirie routière - art. D118-2-1
 
 
 #### Section 2 : Commission nationale d'évaluation de la sécurité des ouvrages routiers et agrément des experts
 
-###### Article R118-2-1
+###### Article D118-2-1
 
-Il est créé auprès du ministre chargé de l'équipement une Commission nationale d'évaluation de la sécurité des ouvrages
-routiers.
+La Commission nationale d'évaluation de la sécurité des ouvrages routiers, placée auprès du ministre chargé de l'équipement,
+examine toute question relative aux règles de sécurité, à l'organisation des secours et au contrôle technique applicables aux
+ouvrages routiers mentionnés à l'article R. 118-1-1 qui lui est soumise par le ministre chargé de l'équipement ou le ministre
+chargé de la sécurité civile. 
 
-Le ministre chargé de l'équipement et le ministre chargé de la sécurité civile peuvent soumettre à la commission toute
-question relative aux règles de sécurité, à l'organisation des secours et au contrôle technique applicables aux ouvrages
-routiers mentionnés à l'article R. 118-1-1.
+La commission est chargée en outre de donner un avis sur : 
 
-La commission est chargée en outre de donner un avis sur :
+1° Les demandes et les retraits d'agrément d'expert ou d'organisme qualifié en matière de sécurité des ouvrages routiers ; 
 
-a) Les demandes d'agrément et les retraits d'agrément d'expert en matière de sécurité des ouvrages routiers ;
-
-b) Les dossiers préliminaires aux travaux de construction ou de modification substantielle des ouvrages mentionnés à
-l'article R. 118-1-1.
+2° Les dossiers préliminaires aux travaux de construction ou de modification substantielle des ouvrages mentionnés à
+l'article R. 118-1-1. 
 
 Elle peut être également saisie pour avis des demandes d'autorisation de mise en service des ouvrages mentionnés à l'article
 R. 118-1-1 et du renouvellement de ces autorisations.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°89-631 1989-09-04
-
 	**Créé par**:
-
-	  - Décret n°2005-701 du 24 juin 2005 - art. 1 () JORF 25 juin 2005
-
-	**Cité par**:
-
-	  - Décret n°2005-701 du 24 juin 2005 - art. 3 (V)
-	  - Code de la voirie routière - art. R118-1-2 (M)
-
-	**Abrogé par**:
 
 	  - Décret n°2016-38 du 22 janvier 2016 - art. 1
 
@@ -4923,82 +4908,78 @@ R. 118-1-1 et du renouvellement de ces autorisations.
 
 	  - Code de la voirie routière - art. R118-1-1
 
+	**Cité par**:
 
-###### Article R118-2-2
+	  - Code de la voirie routière - art. R118-1-2 (V)
+
+
+###### Article D118-2-2
 
 La Commission nationale d'évaluation de la sécurité des ouvrages routiers est composée de vingt-trois membres comprenant,
 outre son président nommé par le ministre chargé de l'équipement :
 
-a) Six représentants de l'Etat dont un nommé par le ministre chargé de l'équipement, un par le ministre chargé des
-transports, un par le ministre chargé de la sécurité civile, un par le ministre chargé de la prévention des risques
-technologiques, un par le ministre chargé de la défense et un par le ministre chargé de la sécurité publique ;
+1° Six représentants de l'Etat dont un nommé par le ministre chargé de l'équipement, un par le ministre chargé des
+transports, un par le ministre chargé de la sécurité civile, un par le ministre chargé de la sécurité routière, un par le
+ministre chargé de la prévention des risques technologiques et un par le ministre chargé de la sécurité publique ;
 
-b) Quatre représentants des collectivités territoriales comportant sur leur territoire un ouvrage mentionné à l'article R.
-118-1-1, dont deux désignés par l'association des maires de France, un par l'association des départements de France et un par
-l'association des régions de France ;
+2° Quatre représentants des collectivités territoriales, dont deux désignés par l'association des maires de France, un par
+l'Assemblée des départements de France et un par l'association des régions de France ;
 
-c) Douze personnalités qualifiées dont dix nommées conjointement par le ministre chargé de l'équipement et par le ministre
-chargé de la sécurité civile en raison de leur compétence technique en matière de tunnels routiers ou de sécurité et deux
-nommées par le ministre chargé des transports en qualité de représentants respectivement des transporteurs routiers et des
-associations oeuvrant pour la sécurité routière.
+3° Douze personnalités qualifiées, dont dix nommées conjointement par le ministre chargé de l'équipement et par le ministre
+chargé de la sécurité civile en raison de leur compétence technique en matière de tunnels routiers ou de sécurité, une nommée
+par le ministre chargé des transports en qualité de représentant des transporteurs routiers et une nommée par le ministre
+chargé de la sécurité routière en qualité de représentant des associations œuvrant pour cette cause.
 
-Dans les catégories mentionnées aux a et b, des suppléants sont nommés ou désignés selon les mêmes modalités que les membres
-titulaires.
+Dans les catégories mentionnées aux 1° et 2°, des suppléants sont nommés ou désignés selon les mêmes modalités que les
+membres titulaires.
 
-Le mandat des membres de la commission appartenant aux catégories mentionnées aux b et c est d'une durée de trois ans
-renouvelable. En cas de démission ou d'incapacité d'un des membres de la commission, un remplaçant est nommé ou désigné dans
-les formes prévues ci-dessus et exerce son mandat pour le temps restant à courir jusqu'au prochain renouvellement de la
-commission.
+Le mandat des membres de la commission appartenant aux catégories mentionnées aux 2° et 3° est d'une durée de cinq ans
+renouvelable. En cas de démission ou d'incapacité d'un des membres de la commission, un remplaçant est nommé ou désigné
+conformément aux dispositions de l'article R. 133-4 du code des relations entre le public et l'administration.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Cite**:
 
-	  - Décret n°89-631 1989-09-04
+	  - Code des relations entre le public et l'administration - art. R133-4
 
-	**Modifié par**:
-
-	  - Décret n°2006-1354 du 8 novembre 2006 - art. 1 () JORF 9 novembre 2006
-
-	**Abrogé par**:
+	**Créé par**:
 
 	  - Décret n°2016-38 du 22 janvier 2016 - art. 1
 
-	**Cite**:
 
-	  - Code de la voirie routière - art. R118-1-1
+###### Article D118-2-3
 
-
-###### Article R118-2-3
-
-La Commission nationale d'évaluation de la sécurité des ouvrages routiers ne peut valablement émettre d'avis que si au moins
-la moitié de ses membres sont présents. Toutefois, en matière d'agrément d'expert ou d'organisme qualifié, la commission peut
-valablement délibérer en formation restreinte composée du président de la commission, de trois représentants de l'Etat, d'un
-représentant des collectivités territoriales et de trois personnalités qualifiées. Les membres de la formation restreinte
-sont désignés par leur collège respectif.
+La Commission nationale d'évaluation de la sécurité des ouvrages routiers ne peut valablement émettre d'avis que si son
+quorum est atteint conformément aux dispositions de l'article R. 133-10 du code des relations entre le public et
+l'administration. Toutefois, en matière d'agrément d'expert ou d'organisme qualifié, la commission peut valablement délibérer
+en formation restreinte composée de son président, de trois représentants de l'Etat, d'un représentant des collectivités
+territoriales et de trois personnalités qualifiées. Les membres de la formation restreinte sont désignés par leur collège
+respectif.
 
 Le secrétariat de la commission est assuré par le ministère chargé de l'équipement.
 
-La commission peut faire appel à des concours extérieurs pour des travaux ou avis complémentaires.
+La commission peut faire appel à des concours extérieurs pour des travaux ou expertises complémentaires.
 
 Les frais de déplacement et de séjour supportés par les membres de la commission à l'occasion des réunions leur sont
-remboursés dans les conditions prévues par la réglementation applicables aux fonctionnaires de l'Etat. Les personnalités
+remboursés dans les conditions prévues par la réglementation applicable aux fonctionnaires de l'Etat. Les personnalités
 qualifiées et les autres personnes apportant leur concours aux travaux de la commission sont rémunérées dans les conditions
 fixées par arrêté conjoint des ministres chargés de l'équipement et du budget.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°89-631 1989-09-04
-
-	**Modifié par**:
-
-	  - Décret n°2006-1354 du 8 novembre 2006 - art. 1 () JORF 9 novembre 2006
-
-	**Abrogé par**:
+	**Créé par**:
 
 	  - Décret n°2016-38 du 22 janvier 2016 - art. 1
+
+	**Cité par**:
+
+	  - Arrêté du 29 février 2016 - art. 2 (V)
+	  - Arrêté du 29 février 2016 - art. 3 (V)
+
+	**Cite**:
+
+	  - Code des relations entre le public et l'administration - art. R133-10
 
 
 ###### Article R118-2-4
@@ -5042,41 +5023,41 @@ routiers.
 
 ###### Article R118-3-1
 
-I. - Le dossier préliminaire visé à l'article L. 118-1 comprend :
+I.-Le dossier préliminaire visé à l'article L. 118-1 comprend : 
 
-1° La description, assortie de plans, de l'ouvrage projeté dans ses diverses composantes, y compris ses accès ;
+1° La description, assortie de plans, de l'ouvrage projeté dans ses diverses composantes, y compris ses accès ; 
 
-2° Une étude prévisionnelle du trafic en distinguant celui des véhicules particuliers et celui des poids lourds ;
+2° Une étude prévisionnelle du trafic en distinguant celui des véhicules particuliers et celui des poids lourds ; 
 
-3° La description des dispositifs particuliers prévus pour le transport des marchandises dangereuses ;
+3° La description des dispositifs particuliers prévus pour le transport des marchandises dangereuses ; 
 
 4° Une étude spécifique de dangers décrivant les types d'accidents, quelle que soit leur origine, susceptibles de se produire
-au cours de l'exploitation et la nature et l'importance de leurs conséquences éventuelles ;
+au cours de l'exploitation et la nature et l'importance de leurs conséquences éventuelles ; 
 
 5° La description de l'organisation envisagée des moyens humains et matériels et les mesures prévues par le maître de
 l'ouvrage pour assurer la sécurité de l'exploitation et la maintenance de l'ouvrage en tenant compte notamment des dangers
-mentionnés au 4°.
+mentionnés au 4°. 
 
-Dans le cas d'une modification substantielle d'un ouvrage existant, le dossier préliminaire est complété par :
+Dans le cas d'une modification substantielle d'un ouvrage existant, le dossier préliminaire est complété par : 
 
-a) La liste des incidents et accidents significatifs survenus au cours des cinq années antérieures ainsi que leur analyse ;
+a) La liste des incidents et accidents significatifs survenus au cours des cinq années antérieures ainsi que leur analyse ; 
 
 b) La liste des exercices de sécurité effectués au cours des cinq années antérieures ainsi que les enseignements qui en ont
-été tirés ;
+été tirés ; 
 
 c) La description de l'organisation des moyens humains et matériels et les mesures prévues par le maître d'ouvrage pour
-assurer la sécurité de l'exploitation et la maintenance du tunnel pendant la réalisation des travaux.
+assurer la sécurité de l'exploitation et la maintenance du tunnel pendant la réalisation des travaux. 
 
-II. - Le dossier préliminaire est soumis à un expert ou un organisme qualifié agréé, indépendant du maître d'ouvrage et du
+II.-Le dossier préliminaire est soumis à un expert ou un organisme qualifié agréé, indépendant du maître d'ouvrage et du
 maître d'oeuvre. L'expert ou l'organisme qualifié établit un rapport de sécurité dans lequel il donne son appréciation sur
-les documents composant le dossier préliminaire et sur la pertinence des mesures de sécurité envisagées.
+les documents composant le dossier préliminaire et sur la pertinence des mesures de sécurité envisagées. 
 
-III. - Le maître d'ouvrage adresse en quatre exemplaires le dossier préliminaire accompagné du rapport de sécurité au préfet
-du département dans lequel est implanté l'ouvrage dont la construction ou la modification est projetée. Le préfet soumet le
+III.-Le maître d'ouvrage adresse en quatre exemplaires le dossier préliminaire accompagné du rapport de sécurité au préfet du
+département dans lequel est implanté l'ouvrage dont la construction ou la modification est projetée. Le préfet soumet le
 dossier pour avis à la Commission nationale d'évaluation de la sécurité des ouvrages routiers et à la commune sur le
 territoire de laquelle sont prévus les travaux ou à l'établissement public de coopération intercommunale compétent. La
 commission nationale et le conseil municipal ou l'organe délibérant de l'établissement public disposent d'un délai de deux
-mois pour émettre leur avis. A l'expiration de ce délai, leur avis est réputé émis.
+mois pour émettre leur avis. A l'expiration de ce délai, leur avis est réputé émis. 
 
 Dans les quatre mois suivant le dépôt du dossier, le préfet notifie son avis au maître d'ouvrage. Le maître d'ouvrage ne peut
 commencer les travaux qu'après réception de l'avis du préfet ou, en l'absence d'un tel avis, qu'au terme du délai mentionné
@@ -5086,7 +5067,7 @@ au présent alinéa.
 
 	**Codifié par**:
 
-	  - Décret n°89-631 1989-09-04
+	  - Décret n°89-631 du 4 septembre 1989
 
 	**Cité par**:
 
@@ -5097,11 +5078,11 @@ au présent alinéa.
 
 	**Modifié par**:
 
-	  - Décret n°2006-1354 du 8 novembre 2006 - art. 1 () JORF 9 novembre 2006
+	  - Décret n°2016-38 du 22 janvier 2016 - art. 2
 
 	**Cite**:
 
-	  - Code de la voirie routière - art. L118-1 (V)
+	  - Code de la voirie routière - art. L118-1
 
 
 ###### Article R118-3-2
