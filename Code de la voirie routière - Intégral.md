@@ -1,5 +1,5 @@
 # Code de la voirie routière  
-Version Consolidée au 2016-02-01 00:00:01 +0100
+Version Consolidée au 2016-03-03
 
 # Partie législative
 
@@ -7695,6 +7695,21 @@ territoriales et aux établissements publics de coopération intercommunale en a
 	  - Code de la voirie routière - art. L122-4 (M)
 
 
+###### Article R122-5-5
+
+L'autorité administrative mentionnée à l'article L. 122-4-1 est le ministre chargé de la voirie routière nationale.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-234 du 1er mars 2016 - art. 1
+
+	**Cite**:
+
+	  - Code de la voirie routière - art. L122-4-1
+
+
 #### Section 2 : Dispositions financières.
 
 ##### Sous-section 1 : Caisse nationale des autoroutes.
@@ -8216,9 +8231,417 @@ conditions définies par la convention prévue à l'article R.* 122-21.
 	  - Code de la voirie routière - art. R*122-21 (M)
 
 
-#### Section 3 : Redevance domaniale.
+#### Section 3 : Régulation des tarifs de péage
 
 ###### Article R122-27
+
+I.-Pour l'application de l'article L. 122-8, l'Autorité de régulation des activités ferroviaires et routières est saisie par
+le ministre chargé de la voirie routière nationale et le ministre chargé de l'économie. 
+
+Le dossier de consultation comprend, outre le projet de texte dont l'autorité est saisie : 
+
+1° Un rapport de présentation du projet ; 
+
+2° Une note justifiant la conformité du projet sur les plans technique, juridique, financier et tarifaire avec les
+dispositions de l'article L. 122-4 et, le cas échéant, de l'article L. 122-10 ; 
+
+3° Une note justifiant les données macro-économiques et financières ainsi que les principaux paramètres retenus pour
+déterminer l'équilibre général du projet, s'agissant notamment du coût des sujétions mises à la charge du délégataire
+existant ou pressenti et des hypothèses d'évolution du trafic. 
+
+II.-L'Autorité de régulation des activités ferroviaires et routières transmet son avis au ministre chargé de la voirie
+routière nationale et au ministre chargé de l'économie dans le délai de trois mois prévu à l'article L. 122-8. Passé ce
+délai, l'avis est réputé donné.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°89-631 du 4 septembre 1989
+
+	**Cité par**:
+
+	  - Décret n°2004-1317 du 26 novembre 2004 - art. 5 (Ab)
+	  - Code des transports - art. R1512-17 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2016-234 du 1er mars 2016 - art. 1
+
+	**Cite**:
+
+	  - Code de la voirie routière - art. L122-10
+	  - Code de la voirie routière - art. L122-4
+	  - Code de la voirie routière - art. L122-8
+
+
+#### Section 4 : Régulation des marchés de travaux, fournitures et services du réseau autoroutier concédé
+
+##### Sous-section 2 : Commission des marchés
+
+
+###### Article R122-33
+
+Le concessionnaire d'autoroutes institue une commission des marchés : 
+
+1° S'il relève de l'article L. 122-12, dès lors que la longueur contractuelle des ouvrages de la concession est supérieure à
+200 km ; 
+
+2° S'il relève de l'article L. 122-13, dès lors que la longueur contractuelle des ouvrages de la concession est supérieure à
+50 km.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-234 du 1er mars 2016 - art. 1
+
+	**Cité par**:
+
+	  - Arrêté du 4 août 2016 - art. 4 (V)
+	  - Code de la voirie routière - art. R122-31 (V)
+
+	**Cite**:
+
+	  - Code de la voirie routière - art. L122-12
+	  - Code de la voirie routière - art. L122-13
+
+
+###### Article R122-34
+
+I.-Pour l'application des dispositions du deuxième alinéa de l'article L. 122-17, le concessionnaire d'autoroutes saisit
+l'Autorité de régulation des activités ferroviaires et routières préalablement à toute décision de nomination ou de
+reconduction dans ses fonctions d'un membre de la commission des marchés. 
+
+Cette saisine comprend, outre l'identité de la personne concernée, la nature des fonctions exercées, celles précédemment
+exercées, une déclaration d'intérêts ainsi que les conditions, notamment financières et de durée, régissant son mandat. Il
+est précisé si la personne pressentie est au nombre des membres indépendants de la commission. 
+
+L'indépendance est appréciée à l'égard de l'ensemble des opérateurs économiques suivants : 
+
+1° Le concessionnaire ; 
+
+2° Les entreprises qui y sont liées, au sens du II de l'article 19 de l'ordonnance n° 2015-899 du 23 juillet 2015 relative
+aux marchés publics ; 
+
+3° Les attributaires passés ; 
+
+4° Les soumissionnaires potentiels. 
+
+L'Autorité de régulation des activités ferroviaires et routières transmet son avis au concessionnaire d'autoroutes dans un
+délai d'un mois à compter de la saisine. Passé ce délai, l'avis est réputé favorable. 
+
+II.-La commission des marchés est présidée par l'un de ses membres. Il est nommé par le concessionnaire d'autoroutes. 
+
+Le concessionnaire d'autoroutes informe l'Autorité de régulation des activités ferroviaires et routières dans un délai de
+quinze jours de toute décision de désignation, reconduction ou révocation du président de la commission des marchés. 
+
+III.-Le ou les représentants de la direction générale de la concurrence, de la consommation et de la répression des fraudes
+n'ont pas voix délibérative et ne sont pas pris en compte pour l'application de la règle de majorité mentionnée au premier
+alinéa de l'article L. 122-17. Ils sont invités à chaque séance de la commission et sont destinataires de l'ensemble des
+documents communiqués par cette dernière. Ils sont mis en copie des communications adressées à l'Autorité de régulation des
+activités ferroviaires et routières. 
+
+La représentation à la commission des marchés de la direction générale de la concurrence, de la consommation et de la
+répression des fraudes est assurée dans les conditions décidées par le directeur général de la concurrence, de la
+consommation et de la répression des fraudes.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - ORDONNANCE n°2015-899 du 23 juillet 2015 - art. 19
+	  - Code de la voirie routière - art. L122-17
+
+	**Créé par**:
+
+	  - Décret n°2016-234 du 1er mars 2016 - art. 1
+
+
+###### Article R122-35
+
+I.-Les règles internes prévues au deuxième alinéa de l'article L. 122-17 comprennent notamment : 
+
+1° Les conditions dans lesquelles la commission se réunit et dans lesquelles elle statue ; 
+
+2° Les conditions dans lesquelles il peut être recouru à la procédure d'appel d'offre restreint ; 
+
+3° Les conditions dans lesquelles la commission est consultée pour avis sur la passation des marchés ou la conclusion des
+avenants ; 
+
+4° Les conditions dans lesquelles la commission est informée de la décision du conseil d'administration ou du conseil de
+surveillance autorisant le concessionnaire d'autoroutes à ne pas suivre son avis ; 
+
+5° Les conditions dans lesquelles la commission est informée de la passation des marchés et de la conclusion des avenants
+lorsque son avis n'est pas requis ; 
+
+6° Les conditions d'accès de la commission aux informations nécessaires à l'exécution de ses missions ; 
+
+7° Sans préjudice des articles R. 122-37 et R. 122-38, les conditions dans lesquelles la commission informe l'Autorité de
+régulation des activités ferroviaires et routières des conditions de passation et d'exécution des marchés ; 
+
+8° La durée limitée pendant laquelle ces règles sont applicables. 
+
+II.-Le concessionnaire d'autoroutes saisit l'Autorité de régulation des activités ferroviaires et routières du projet de
+règles internes établi par la commission des marchés. 
+
+L'autorité transmet au concessionnaire d'autoroutes son avis dans un délai de deux mois à compter de la saisine. Passé ce
+délai, l'avis est réputé favorable. 
+
+Les règles définitives établies par la commission sont transmises à l'autorité avant leur entrée en vigueur.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-234 du 1er mars 2016 - art. 1
+
+	**Cite**:
+
+	  - Code de la voirie routière - art. L122-17
+	  - Code de la voirie routière - art. R122-37
+
+
+###### Article R122-36
+
+Sont soumis à l'avis de la commission des marchés : 
+
+1° Le projet de marché relevant de l'article L. 122-13 dont la passation doit être effectuée selon l'une des procédures
+formalisées mentionnées par le décret n° 2005-1742 du 30 décembre 2005 fixant les règles applicables aux marchés passés par
+les pouvoirs adjudicateurs mentionnés à l'article 3 de l'ordonnance n° 2005-649 du 6 juin 2005 relative aux marchés passés
+par certaines personnes publiques ou privées non soumises au code des marchés publics ; 
+
+2° Le projet de marché relevant de l'article L. 122-12 soumis à une obligation de publicité et de mise en concurrence ; 
+
+3° Le projet d'avenant entraînant, seul ou cumulativement avec les avenants antérieurs n'ayant pas été soumis à l'avis de la
+commission, une augmentation du montant initial du marché supérieure à 5 % de ce montant et à 100 000 € HT ; 
+
+4° Le projet d'avenant entraînant, seul ou cumulativement avec les avenants antérieurs, une augmentation du montant initial
+du marché au-delà du seuil à partir duquel les procédures formalisées mentionnées au 1° s'imposent ou l'obligation de
+publicité et de mise en concurrence mentionnée au 2° s'applique ; en cas de conclusion de l'avenant, le marché ainsi modifié
+est considéré comme relevant du 3° du présent article pour la soumission des avenants ultérieurs à l'avis de la commission.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Ordonnance n°2005-649 du 6 juin 2005 - art. 3
+	  - Décret n°2005-1742 du 30 décembre 2005
+	  - Code de la voirie routière - art. L122-12
+	  - Code de la voirie routière - art. L122-13
+
+	**Créé par**:
+
+	  - Décret n°2016-234 du 1er mars 2016 - art. 1
+
+
+###### Article R122-37
+
+Le président de la commission transmet sans délai à l'Autorité de régulation des activités ferroviaires et routières les avis
+rendus par la commission.
+
+Il informe également sans délai l'autorité de tout manquement constaté par la commission.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-234 du 1er mars 2016 - art. 1
+
+	**Cité par**:
+
+	  - Code de la voirie routière - art. R122-35 (V)
+
+
+###### Article R122-38
+
+La commission des marchés établit un rapport d'activité annuel. Ce rapport précise notamment les conditions dans lesquelles
+elle exerce ses missions et les moyens dont elle dispose. Il répertorie les marchés attribués au cours de l'année à des
+entreprises groupées ou liées, y compris ceux pour lesquels la commission n'a pas été saisie pour avis, et mentionne toute
+information utile relative à ces marchés. Lui sont annexés la liste des marchés attribués au cours de l'année, les procès-
+verbaux de chacune des séances de l'année et tout autre document prévu par arrêté conjoint du ministre chargé de la voirie
+routière nationale et du ministre chargé de l'économie, pris après avis de l'Autorité de régulation des activités
+ferroviaires et routières.
+
+Le président de la commission transmet ce rapport, avant le 31 mars de chaque année, à l'Autorité de régulation des activités
+ferroviaires et routières, au ministre chargé de la voirie routière nationale et au ministre chargé de l'économie.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-234 du 1er mars 2016 - art. 1
+
+
+#### Section 5 : Installations annexes sur les autoroutes concédées
+
+
+##### Sous-section 2 : Procédure d'agrément
+
+
+###### Article R122-42
+
+Le ministre chargé de la voirie routière nationale délivre l'agrément prévu à l'article L. 122-27, dans les conditions
+prévues par la présente sous-section, préalablement à : 
+
+1° La conclusion d'un contrat mentionné à l'article L. 122-23 ; 
+
+2° La cession du contrat à un autre exploitant. 
+
+L'agrément est délivré pour une durée limitée qui ne peut excéder quinze ans. Il peut être renouvelé.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-234 du 1er mars 2016 - art. 1
+
+	**Cite**:
+
+	  - Code de la voirie routière - art. L122-23
+	  - Code de la voirie routière - art. L122-27
+
+
+###### Article R122-43
+
+I.-Le concessionnaire d'autoroutes adresse le dossier de saisine en vue de la demande d'agrément en deux exemplaires. Ce
+dossier comprend les éléments fixés par arrêté conjoint du ministre chargé de la voirie routière nationale et du ministre
+chargé de l'économie, pris après avis de l'Autorité de régulation des activités ferroviaires et routières. 
+
+Le ministre chargé de la voirie routière nationale peut demander au concessionnaire d'autoroutes toute justification ainsi
+que toute information complémentaire nécessaire à son appréciation. 
+
+II.-Le ministre chargé de la voirie routière nationale se prononce dans un délai de trois mois à compter de la date de sa
+saisine. Passé ce délai, l'agrément est réputé refusé. 
+
+III.-Le ministre chargé de la voirie routière nationale peut refuser, par une décision motivée, l'agrément de l'attributaire
+pressenti, dans les cas non limitatifs suivants : 
+
+1° L'offre présentée ne permet pas de garantir la bonne gestion du domaine public autoroutier ou ne respecte pas les
+conditions d'organisation du service public arrêtées en application de l'article L. 122-29 ; 
+
+2° La durée du contrat d'exploitation est excessive au regard de la nature et du montant des prestations demandées à
+l'exploitant, du temps raisonnablement escompté par celui-ci pour qu'il recouvre les investissements réalisés ou au regard de
+la nécessité d'une remise en concurrence périodique ; 
+
+3° L'avis de l'Autorité de régulation des activités ferroviaires et routières prévu à l'article L. 122-27 n'est pas
+favorable ; 
+
+4° L'attributaire pressenti ne présente pas les garanties professionnelles, techniques et financières suffisantes pour
+assurer le bon accomplissement des missions qui lui sont confiées. 
+
+IV.-Le concessionnaire d'autoroutes adresse les documents contractuels au ministre chargé de la voirie routière nationale et
+à l'Autorité de régulation des activités ferroviaires et routières dans un délai d'un mois après signature. 
+
+V.-Le concessionnaire d'autoroutes adresse au ministre chargé de la voirie routière nationale et à l'Autorité de régulation
+des activités ferroviaires et routières tout projet d'avenant à un contrat passé avec un exploitant. Cet avenant est signé au
+plut tôt onze jours après sa réception par le ministre chargé de la voirie routière nationale. 
+
+VI.-L'agrément est retiré notamment s'il apparaît que les éléments essentiels du projet de contrat au vu desquels l'agrément
+a été délivré : 
+
+1° Ne sont pas repris dans le contrat signé entre les parties ; 
+
+2° Sont remis en cause par un avenant à ce contrat.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-234 du 1er mars 2016 - art. 1
+
+	**Cite**:
+
+	  - Code de la voirie routière - art. L122-27
+	  - Code de la voirie routière - art. L122-29
+
+	**Cité par**:
+
+	  - Code de la voirie routière - art. R122-44 (V)
+
+
+###### Article R122-44
+
+L'avis de l'Autorité de régulation des activités ferroviaires et routières est demandé par le ministre chargé de la voirie
+routière nationale dès réception du dossier prévu au I de l'article R. 122-43. Est joint à la demande un exemplaire de ce
+dossier. 
+
+Passé le délai d'un mois prévu à l'article L. 122-27, l'avis est réputé donné.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-234 du 1er mars 2016 - art. 1
+
+	**Cite**:
+
+	  - Code de la voirie routière - art. L122-27
+	  - Code de la voirie routière - art. R122-43
+
+
+###### Article R122-45
+
+L'agrément prévu à l'article L. 122-27 ne dispense pas le concessionnaire d'autoroutes ou l'exploitant de l'obtention des
+autorisations, des obligations de déclarations ou d'information prévues par d'autres dispositions ou par la convention de
+délégation ou du cahier des charges annexé.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-234 du 1er mars 2016 - art. 1
+
+	**Cite**:
+
+	  - Code de la voirie routière - art. L122-27
+
+
+##### Sous-section 3 : Conditions d'organisation du service public
+
+
+###### Article D122-46
+
+L'autorité administrative mentionnée à l'article L. 122-29 est le ministre chargé de la voirie routière nationale.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-234 du 1er mars 2016 - art. 1
+
+	**Cité par**:
+
+	  - Arrêté du 8 août 2016 (VD)
+
+	**Cite**:
+
+	  - Code de la voirie routière - art. L122-29
+
+
+#### Section 6 : Dispositions relatives à l'Autorité de régulation des activités ferroviaires et routières
+
+###### Article R122-47
+
+Les rapports et synthèses de l'Autorité de régulation des activités ferroviaires et routières mentionnés aux articles L.
+122-9 et L. 122-21 sont transmis au Parlement, au ministre chargé de la voirie routière nationale et au ministre chargé de
+l'économie concomitamment à leur publication, qui intervient au plus tard le 30 juin de l'année en cours.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-234 du 1er mars 2016 - art. 1
+
+	**Cite**:
+
+	  - Code de la voirie routière - art. L122-21
+	  - Code de la voirie routière - art. L122-9
+
+
+#### Section 7 : Redevance domaniale.
+
+###### Article R122-48
 
 Les sociétés concessionnaires d'autoroutes versent annuellement à l'Etat, pour une période comprise entre le 1er juillet et
 le 30 juin, une redevance pour occupation du domaine public déterminée par application de la formule suivante : 
@@ -8247,30 +8670,13 @@ domaniales.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Créé par**:
 
-	  - Décret n°89-631 du 4 septembre 1989
+	  - Décret n°2016-234 du 1er mars 2016 - art. 1
 
-	**Cité par**:
+	**Anciens textes**:
 
-	  - Décret n°2004-1317 du 26 novembre 2004 - art. 5 (Ab)
-	  - Code des transports - art. R1512-17 (V)
-
-	**Modifié par**:
-
-	  - Décret n°2013-436 du 28 mai 2013 - art. 1
-
-	**Liens**:
-
-	  - TRANSFERE: Décret n°2016-234 du 1er mars 2016 - art. 1
-
-	**Cite**:
-
-	  - Code général des impôts, CGI. - art. 1501
-
-	**Nouveaux textes**:
-
-	  - Code de la voirie routière - art. R122-48 (V)
+	  - Code de la voirie routière - art. R122-27 (T)
 
 
 ### Chapitre III : Routes nationales.
