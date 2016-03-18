@@ -1,5 +1,5 @@
 # Code de la voirie routière  
-Version Consolidée au 2016-03-03
+Version Consolidée au 2016-03-19
 
 # Partie législative
 
@@ -9339,9 +9339,8 @@ d'un mois transmet au maire le dossier et le registre accompagnés de ses conclu
 
 ###### Article R*141-10
 
-Les travaux intéressant la voirie communale donnent lieu à enquête publique selon les modalités fixées pour les enquêtes
-relevant de l'article L. 110-2 du code de l'expropriation pour cause d'utilité publique régies par le titre Ier du livre Ier
-du même code.
+Les travaux intéressant la voirie communale donnent lieu à enquête publique selon les modalités fixées
+par le chapitre IV du titre III du livre Ier du code des relations entre le public et l'administration.
 
 **Liens relatifs à cet article**
 
@@ -9351,11 +9350,7 @@ du même code.
 
 	**Modifié par**:
 
-	  - Décret n°2014-1635 du 26 décembre 2014 - art. 4
-
-	**Cite**:
-
-	  - Code de l'expropriation pour cause d'utilité pu... - art. L110-2 (V)
+	  - Décret n°2016-308 du 17 mars 2016 - art. 6
 
 
 ##### Sous-section 3 : Publicité foncière.
@@ -9708,10 +9703,9 @@ d'usagers auxquelles tout ou partie de la route express seront en permanence int
 
 ###### Article R*151-3
 
-L'enquête préalable à l'arrêté conférant le caractère de route express est effectuée dans les formes prévues pour les
-enquêtes publiques relevant de l'article L. 110-2 du code de l'expropriation pour cause d'utilité publique régies par le
-titre Ier du livre Ier du même code. Toutefois, le dossier soumis à enquête comprend, outre les documents énumérés à
-l'article R. 112-4 ou à l'article R. 112-5 : 
+L'enquête préalable à l'arrêté conférant le caractère de route express est effectuée dans les formes prévues par le chapitre
+IV du titre III du livre Ier du code des relations entre le public et l'administration. Toutefois, le dossier soumis à
+enquête comprend, outre les documents énumérés à l'article R. 134-22 ou à l'article R. 134-23 du même code : 
 
 1° Un plan général de la route indiquant les limites entre lesquelles le caractère de route express doit lui être conféré ; 
 
@@ -9728,13 +9722,12 @@ déclaration d'utilité publique des travaux. Le dossier soumis à l'enquête es
 
 	**Modifié par**:
 
-	  - Décret n°2014-1635 du 26 décembre 2014 - art. 4
+	  - Décret n°2016-308 du 17 mars 2016 - art. 6
 
 	**Cite**:
 
-	  - Code de l'expropriation pour cause d'utilité pu... - art. L110-2 (V)
-	  - Code de l'expropriation pour cause d'utilité pu... - art. R112-4 (V)
-	  - Code de l'expropriation pour cause d'utilité pu... - art. R112-5 (V)
+	  - Code des relations entre le public et l'administration
+	  - Code des relations entre le public et l'administration - art. R134-22
 
 
 ###### Article R*151-4
@@ -9769,33 +9762,31 @@ les formes prévues pour les plans d'alignement des routes de la catégorie doma
 I.-La décision de création ou de suppression d'un point d'accès prévue à l'article L. 151-4 sur une route existante est prise
 par arrêté préfectoral après enquête publique et avis des départements et des communes intéressés. 
 
-II.-L'enquête publique est effectuée dans les formes prévues pour les enquêtes publiques relevant de l'article L. 110-2 du
-code de l'expropriation pour cause d'utilité publique régies par le titre Ier du livre Ier du même code et, s'il y a lieu,
-conformément aux dispositions des articles R. 122-1 à R. 122-3. Toutefois, le dossier soumis à enquête comprend, outre les
-documents énumérés à l'article R. 112-4 du code de l'expropriation pour cause d'utilité publique, l'indication de
-l'emplacement des accès et la description des aménagements projetés ainsi que les dispositions envisagées pour assurer le
-rétablissement des communications. 
+II.-L'enquête publique est effectuée dans les formes prévues par le chapitre IV du titre III du livre Ier du code des
+relations entre le public et l'administration et, s'il y a lieu, conformément aux dispositions des articles R. 122-1 à R.
+122-3. Toutefois, le dossier soumis à enquête comprend, outre les documents énumérés à l'article R. 134-22 du code des
+relations entre le public et l'administration, l'indication de l'emplacement des accès et la description des aménagements
+projetés ainsi que les dispositions envisagées pour assurer le rétablissement des communications. 
 
 S'il y a lieu à déclaration d'utilité publique, les deux enquêtes sont confondues. 
 
 III.-Lorsque la création ou la suppression de points d'accès sur une route express existante n'est pas compatible avec les
 prescriptions d'un plan local d'urbanisme rendu public ou approuvé, ou d'un document d'urbanisme en tenant lieu et qu'il
-n'est pas fait application de l'article    L. 153-54 du code de l'urbanisme, la décision concernant les accès ne peut être
-prise qu'après l'approbation de la modification du plan d'occupation des sols ou du document d'urbanisme en tenant lieu.
+n'est pas fait application de l'article L. 153-54 du code de l'urbanisme, la décision concernant les accès ne peut être prise
+qu'après l'approbation de la modification du plan d'occupation des sols ou du document d'urbanisme en tenant lieu.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2015-1783 du 28 décembre 2015 - art. 9
+	  - Décret n°2016-308 du 17 mars 2016 - art. 6
 
 	**Cite**:
 
 	  - Code de la voirie routière - art. L151-4
 	  - Code de l'urbanisme - art. L123-14
-	  - Code de l'expropriation pour cause d'utilité publique - art. L110-2
 	  - Code de l'expropriation pour cause d'utilité publique - art. R122-1
-	  - Code de l'expropriation pour cause d'utilité publique - art. R122-4
+	  - Code des relations entre le public et l'administration - art. R134-22
 
 
 ###### Article R*151-6
@@ -10235,8 +10226,8 @@ d'instance.
 ###### Article R*171-6
 
 L'enquête en vue du transfert de propriété dans le domaine public de la ville de Paris, prévu à l'article L. 171-14, se
-déroule selon les modalités fixées pour les enquêtes relevant de l'article L. 110-2 du code de l'expropriation pour cause
-d'utilité publique régies par le titre Ier du livre Ier du même code.
+déroule selon les modalités fixées par le chapitre IV du titre III du livre Ier du code des relations entre le public et
+l'administration.
 
 **Liens relatifs à cet article**
 
@@ -10246,12 +10237,11 @@ d'utilité publique régies par le titre Ier du livre Ier du même code.
 
 	**Modifié par**:
 
-	  - Décret n°2014-1635 du 26 décembre 2014 - art. 4
+	  - Décret n°2016-308 du 17 mars 2016 - art. 6
 
 	**Cite**:
 
-	  - Code de la voirie routière - art. L171-14 (V)
-	  - Code de l'expropriation pour cause d'utilité pu... - art. L110-2 (V)
+	  - Code de la voirie routière - art. L171-14
 
 
 ###### Article R*171-7
