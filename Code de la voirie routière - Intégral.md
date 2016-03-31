@@ -1,5 +1,5 @@
 # Code de la voirie routière  
-Version Consolidée au 2016-03-19
+Version Consolidée au 2016-04-01
 
 # Partie législative
 
@@ -1728,26 +1728,24 @@ Cette publication est réalisée dans le respect des secrets protégés par la l
 
 ###### Article L122-4-2
 
-Sans préjudice des dispositions de l'article 40-1 de la loi n° 93-122 du 29 janvier 1993 relative à la prévention de la
-corruption et à la transparence de la vie économique et des procédures publiques, la personne délégataire d'une autoroute en
-application de l'article L. 122-4 communique chaque année aux collectivités territoriales qui participent avec elle à son
-financement un rapport comportant les comptes retraçant la totalité des opérations afférentes à l'exécution de la délégation
-de service public, une analyse de la qualité du service ainsi que les conditions d'exécution du service public.
+Le rapport prévu à l'article 52 de l'ordonnance n° 2016-65 du 29 janvier 2016 relative aux contrats de concession est
+communiqué par le concessionnaire aux collectivités territoriales qui participent avec lui au financement de la concession en
+application de l'article L. 122-4.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Loi n°89-413 1989-06-22 JORF 24 juin 1989
+	  - Loi n°89-413 du 22 juin 1989
 
 	**Cite**:
 
-	  - Loi n°93-122 du 29 janvier 1993 - art. 40-1 (V)
-	  - Code de la voirie routière - art. L122-4 (V)
+	  - Ordonnance n°2016-65 du 29 janvier 2016 - art. 52
+	  - Code de la voirie routière - art. L122-4
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2004-809 du 13 août 2004 - art. 20 () JORF 17 août 2004 en vigueur le 1er janvier 2005
+	  - Ordonnance n°2016-65 du 29 janvier 2016 - art. 76
 
 
 ###### Article L122-5
@@ -1910,9 +1908,8 @@ de régulation des activités ferroviaires et routières.
 
 ###### Article L122-12
 
-Par dérogation au 3° du II de l'article 12 de l'ordonnance n° 2009-864 du 15 juillet 2009 relative aux contrats de concession
-de travaux publics, tout marché de travaux, fournitures ou services passé par un concessionnaire d'autoroute pour les besoins
-de la concession est régi par la présente section, à l'exception des marchés : 
+Tout marché de travaux, fournitures ou services passé par un concessionnaire d'autoroute pour les besoins de la concession
+est régi par la présente section, à l'exception des marchés : 
 
 1° Régis par le code des marchés publics ou l'ordonnance n° 2005-649 du 6 juin 2005 relative aux marchés passés par certaines
 personnes publiques ou privées non soumises au code des marchés publics sous réserve de l'article L. 122-13 ; 
@@ -1920,16 +1917,16 @@ personnes publiques ou privées non soumises au code des marchés publics sous r
 2° Conclus avant la date de mise en service complète des ouvrages ou aménagements prévus au cahier des charges initial de la
 délégation ; 
 
-3° Ou mentionnés à l'article 7 de l'ordonnance n° 2005-649 du 6 juin 2005 précitée.
+3° Ou présentant les caractéristiques des contrats mentionnés du 1° au 18° de l'article 14 de l'ordonnance n° 2015-899 du 23
+juillet 2015 relative aux marchés publics.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Ordonnance n°2005-649 du 6 juin 2005 (VT)
-	  - Ordonnance n°2005-649 du 6 juin 2005 - art. 7 (VT)
-	  - Ordonnance n°2009-864 du 15 juillet 2009 - art. 12 (V)
-	  - Code de la voirie routière - art. L122-13 (VD)
+	  - Ordonnance n°2005-649 du 6 juin 2005
+	  - ORDONNANCE n°2015-899 du 23 juillet 2015 - art. 14
+	  - Code de la voirie routière - art. L122-13
 
 	**Cité par**:
 
@@ -1945,9 +1942,9 @@ délégation ;
 	  - Code de la voirie routière - art. R122-39 (V)
 	  - Code de la voirie routière - art. R122-40 (VD)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2015-990 du 6 août 2015 - art. 13
+	  - Ordonnance n°2016-65 du 29 janvier 2016 - art. 76
 
 
 ###### Article L122-13
@@ -2001,17 +1998,18 @@ lors de la passation des marchés définis à l'article L. 122-12.
 
 ###### Article L122-15
 
-L'article 8 de l'ordonnance n° 2005-649 du 6 juin 2005 précitée est applicable aux marchés régis par la présente section.
+Les articles 45 à 49 de l'ordonnance n° 2015-899 du 23 juillet 2015 relative aux marchés publics sont applicables aux marchés
+régis par la présente section.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Ordonnance n°2005-649 du 6 juin 2005 - art. 8 (VT)
+	  - ORDONNANCE n°2015-899 du 23 juillet 2015 - art. 45
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2015-990 du 6 août 2015 - art. 13
+	  - Ordonnance n°2016-65 du 29 janvier 2016 - art. 76
 
 
 ###### Article L122-16
@@ -2085,23 +2083,19 @@ informations prévues au présent alinéa, elle en informe l'Autorité de régul
 
 ###### Article L122-18
 
-Les procédures de passation des marchés définis à l'article L. 122-12 sont celles prévues aux articles 
-11 
-et 
-12 
-de l'ordonnance n° 2005-649 du 6 juin 2005 précitée.
+Les procédures de passation des marchés définis à l'article L. 122-12 sont celles prévues par l'ordonnance n° 2015-899 du 23
+juillet 2015 relative aux marchés publics.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Ordonnance n°2005-649 du 6 juin 2005 - art. 11
-	  - Ordonnance n°2005-649 du 6 juin 2005 - art. 12
+	  - ORDONNANCE n°2015-899 du 23 juillet 2015
 	  - Code de la voirie routière - art. L122-12 (VD)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2015-990 du 6 août 2015 - art. 13
+	  - Ordonnance n°2016-65 du 29 janvier 2016 - art. 76
 
 	**Cité par**:
 
@@ -2200,13 +2194,18 @@ de régulation des activités ferroviaires et routières.
 
 Les contrats passés par le concessionnaire d'autoroute en vue de faire assurer par un tiers la construction, l'exploitation
 et l'entretien des installations annexes à caractère commercial situées sur le réseau autoroutier concédé sont régis par la
-présente section.
+présente section, sans préjudice de l'application de l'ordonnance n° 2016-65 du 29 janvier 2016 relative aux contrats de
+concession pour les concessionnaires qui en relèvent.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Cite**:
 
-	  - Loi n°2015-990 du 6 août 2015 - art. 13
+	  - Ordonnance n°2016-65 du 29 janvier 2016
+
+	**Modifié par**:
+
+	  - Ordonnance n°2016-65 du 29 janvier 2016 - art. 76
 
 	**Cité par**:
 
@@ -8474,6 +8473,85 @@ ferroviaires et routières, au ministre chargé de la voirie routière nationale
 
 
 #### Section 5 : Installations annexes sur les autoroutes concédées
+
+
+##### Sous-section 1 : Passation des contrats
+
+###### Article R122-40
+
+La présente sous-section est applicable aux contrats d'exploitation mentionnés à l'article L. 122-23, à l'exception des
+contrats suivants : 
+
+1° Les marchés relevant de l'article L. 122-12 ou de l'article L. 122-13 ; 
+
+2° Les contrats de concession passés par le concessionnaire d'autoroutes lorsqu'il est une autorité concédante au sens de
+l'article 8 de l'ordonnance n° 2016-65 du 29 janvier 2016 relative aux contrats de concession. 
+
+Toutefois, le 4° de l'article R. 122-41 est applicable aux contrats mentionnés au 2°.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Ordonnance n°2016-65 du 29 janvier 2016 - art. 8
+	  - Code de la voirie routière - art. L122-12
+	  - Code de la voirie routière - art. L122-13
+	  - Code de la voirie routière - art. L122-23
+	  - Code de la voirie routière - art. R122-41
+
+	**Créé par**:
+
+	  - Décret n°2016-234 du 1er mars 2016 - art. 1
+
+
+###### Article R122-41
+
+Les contrats d'exploitation font l'objet d'une publicité permettant la présentation de plusieurs offres concurrentes dans les
+conditions prévues par le titre II du décret n° 2016-86 du 1er février 2016 relatif aux contrats de concession, sous réserve
+des adaptations suivantes : 
+
+1° Pour l'application du décret mentionné au premier alinéa, les contrats d'exploitation sont assimilés à des contrats de
+concession relevant du 1° de l'article 9 de ce même décret, le concessionnaire d'autoroutes est assimilé à un pouvoir
+adjudicateur et l'exploitant des installations annexes est assimilé au concessionnaire ; 
+
+2° Les dispositions de l'article 3, de l'article 6, du 2° de l'article 9, de l'article 10 et du 2° de l'article 11 du même
+décret ne sont pas applicables ; 
+
+3° Au I de l'article 15 du même décret, la publication au Journal officiel de l'Union européenne n'est pas requise et le
+concessionnaire ne peut pas recourir à la faculté de publication au Bulletin officiel des annonces des marchés publics ; 
+
+4° Les critères mentionnés aux articles 26 et 27 du même décret sont pondérés et comprennent au moins les critères relatifs
+aux éléments suivants : 
+
+a) La qualité des services rendus aux usagers ; 
+
+b) La qualité technique et environnementale ; 
+
+c) L'ensemble des rémunérations versées par l'exploitant au concessionnaire ; 
+
+d) Si le contrat d'exploitation porte sur la distribution de carburants, la politique de modération tarifaire pratiquée par
+l'exploitant, la pondération de ce critère étant au moins égale à celle du critère relatif aux rémunérations ; 
+
+5° Au II de l'article 32 du même décret, la publication au Journal officiel de l'Union européenne est remplacée par une
+publication dans un journal d'annonces légales et dans une publication spécialisée correspondant au secteur économique
+concerné.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°2016-86 du 1er février 2016
+	  - Décret n°2016-86 du 1er février 2016 - art. 26
+	  - Décret n°2016-86 du 1er février 2016 - art. 32
+	  - Décret n°2016-86 du 1er février 2016 - art. 9
+
+	**Créé par**:
+
+	  - Décret n°2016-234 du 1er mars 2016 - art. 1
+
+	**Cité par**:
+
+	  - Code de la voirie routière - art. R122-40 (VD)
 
 
 ##### Sous-section 2 : Procédure d'agrément
