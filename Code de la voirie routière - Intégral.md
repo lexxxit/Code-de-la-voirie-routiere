@@ -1,5 +1,5 @@
 # Code de la voirie routière  
-Version Consolidée au 2016-04-01
+Version Consolidée au 2016-05-06
 
 # Partie législative
 
@@ -8276,6 +8276,180 @@ délai, l'avis est réputé donné.
 
 #### Section 4 : Régulation des marchés de travaux, fournitures et services du réseau autoroutier concédé
 
+##### Sous-section 1 : Passation des marchés
+
+###### Article R122-28
+
+La présente sous-section est applicable aux marchés mentionnés à l'article L. 122-12, y compris lorsque ces marchés sont
+passés avec des opérateurs économiques avec lesquels le concessionnaire s'est groupé pour obtenir le contrat de concession ou
+avec des entreprises qui leur sont liées au sens du 
+II de l'article 19 de l'ordonnance n° 2015-899 du 23 juillet 2015 
+relative aux marchés publics.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - ORDONNANCE n°2015-899 du 23 juillet 2015 - art. 19
+	  - Code de la voirie routière - art. L122-12
+
+	**Créé par**:
+
+	  - Décret n°2016-552 du 3 mai 2016 - art. 1
+
+
+###### Article R122-29
+
+Pour l'application des articles R. 122-30 et R. 122-31, la valeur estimée du besoin des marchés est calculée conformément aux
+articles 20 à 23 du décret n° 2016-360 du 25 mars 2016 relatif aux marchés publics.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°2016-360 du 25 mars 2016 - art. 20 (V)
+	  - Code de la voirie routière - art. R122-30 (V)
+
+	**Créé par**:
+
+	  - Décret n°2016-552 du 3 mai 2016 - art. 1
+
+
+###### Article R122-30
+
+Ne sont pas soumis à l'obligation de publicité et de mise en concurrence prévue à l'article L. 122-16 les marchés suivants : 
+
+1° Marchés de fournitures ou services répondant aux caractéristiques énumérées à l'article 29 et aux I et II de l'article 30
+du décret n° 2016-360 du 25 mars 2016 relatif aux marchés publics ; 
+
+2° Marchés de fournitures ou services autres que ceux mentionnés au 1° dont la valeur estimée du besoin est inférieure à 240
+000 € HT ; 
+
+3° Marchés de travaux dont la valeur estimée du besoin est inférieure à 500 000 € HT, sans préjudice de l'obligation de
+publication prévue au 1° du IV de l'article R. 122-31.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°2016-360 du 25 mars 2016 - art. 30 (V)
+	  - Code de la voirie routière - art. L122-16 (V)
+
+	**Créé par**:
+
+	  - Décret n°2016-552 du 3 mai 2016 - art. 1
+
+	**Cité par**:
+
+	  - Code de la voirie routière - art. R122-29 (V)
+	  - Code de la voirie routière - art. R122-31 (V)
+	  - Code de la voirie routière - art. R122-32 (V)
+	  - Code de la voirie routière - art. R122-39 (V)
+
+
+###### Article R122-31
+
+I.-Les marchés ne relevant pas de l'article R. 122-30 font l'objet d'une publicité permettant la présentation de plusieurs
+offres concurrentes dans les conditions prévues aux II à VI. 
+
+Pour l'application des dispositions du décret n° 2016-360 du 25 mars 2016 relatif aux marchés publics, les marchés mentionnés
+au premier alinéa sont assimilés à des marchés publics, le concessionnaire d'autoroute est assimilé à un pouvoir adjudicateur
+et les références aux seuils de procédures formalisées renvoient aux seuils définis aux 2° et 3° de l'article R. 122-30. 
+
+II.-Le marché est préparé dans les conditions prévues au titre II de la première partie du décret du 25 mars 2016
+susmentionné, à l'exception de son chapitre III et de son article 16. 
+
+III.-Le concessionnaire passe ses marchés selon l'une des procédures formalisées énumérées au I de l'article 25 du décret du
+25 mars 2016 susmentionné. 
+
+Toutefois, le concessionnaire peut recourir à une procédure adaptée au sens du premier alinéa de l'article 27 du même décret
+pour les marchés de travaux répondant aux caractéristiques énumérées aux I et II de l'article 30 de ce décret. Dans ce cas,
+les II et IV à VI du présent article ne sont pas applicables. 
+
+Le concessionnaire d'autoroute peut utiliser la procédure concurrentielle avec négociation ou le dialogue compétitif dans les
+cas suivants : 
+
+1° Pour les marchés de travaux, de fournitures ou services, dans les cas énumérés au II de l'article 25 du décret
+susmentionné ; 
+
+2° Pour les autres marchés de travaux, lorsque la valeur estimée du besoin est inférieure à 2 millions d'euros HT. 
+
+IV.-La publicité préalable est organisée dans les conditions prévues par les articles 31, 33, 36 et 37 du décret du 25 mars
+2016 susmentionné, sous réserve des adaptations suivantes : 
+
+1° La programmation de l'ensemble des investissements prévus par le contrat de concession pour les cinq années à venir est
+publiée sur le profil d'acheteur défini au troisième alinéa du I de l'article 31 du décret susmentionné ; 
+
+2° Pour les marchés de travaux dont la valeur estimée du besoin est supérieure ou égale à 2 millions d'euros HT : 
+
+a) L'avis de préinformation prévu au I de l'article 31 du décret susmentionné est obligatoire. Cet avis est envoyé à la
+publication au moins trois mois et au plus tôt douze mois avant la date d'envoi de l'avis d'appel à la concurrence ; 
+
+b) Le II de l'article 31 et l'article 37 du même décret ne sont pas applicables. 
+
+V.-Les procédures de passation sont régies par les chapitres IV à VII du titre III de la première partie du décret du 25 mars
+2016 susmentionné. 
+
+Toutefois, pour les marchés de travaux passés par le concessionnaire relevant du 1° de l'article R. 122-33, par dérogation au
+dernier alinéa de l'article 66 du décret susmentionné, le recours à l'appel d'offre restreint est limité aux cas prévus par
+les règles internes de sa commission des marchés. 
+
+VI.-Les conditions d'achèvement de la procédure sont régies par le chapitre VIII du titre III de la première partie du décret
+du 25 mars 2016 susmentionné sous réserve des adaptations suivantes : 
+
+1° Sans préjudice de l'article 101 de ce décret, la signature du marché intervient dans les conditions prévues à l'article R.
+122-39-1 ; 
+
+2° L'article 107 du même décret n'est pas applicable.
+
+**Nota:**
+
+Conformément à l'article 2 du décret n° 2016-552 du 3 mai 2016, les dispositions du 1° du IV de l'article R. 122-31 du code
+de la voirie routière s'appliquent à compter du 1er juillet 2016, et le 2° du IV du même article R. 122-31 s'applique aux
+marchés pour lesquels un avis d'appel à la concurrence est envoyé à la publication à compter du 1er août 2016.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°2016-360 du 25 mars 2016 (V)
+	  - Décret n°2016-360 du 25 mars 2016 - art. 101 (V)
+	  - Décret n°2016-360 du 25 mars 2016 - art. 107 (V)
+	  - Décret n°2016-360 du 25 mars 2016 - art. 16 (V)
+	  - Décret n°2016-360 du 25 mars 2016 - art. 25 (V)
+	  - Décret n°2016-360 du 25 mars 2016 - art. 31 (V)
+	  - Code de la voirie routière - art. R122-33 (V)
+	  - Code de la voirie routière - art. R122-39-1 (V)
+
+	**Créé par**:
+
+	  - Décret n°2016-552 du 3 mai 2016 - art. 1
+
+	**Cité par**:
+
+	  - Code de la voirie routière - art. R122-30 (V)
+
+
+###### Article R122-32
+
+Pour l'application de la dernière phrase de l'article L. 122-16, l'information de l'Autorité de régulation des activités
+ferroviaires et routières préalablement à l'attribution d'un marché ne relevant pas de l'article R. 122-30 est assurée selon
+les modalités prévues à l'article R. 122-39 par le concessionnaire ou, lorsqu'il dispose d'une commission des marchés, par le
+président de cette commission.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-552 du 3 mai 2016 - art. 1
+
+	**Cite**:
+
+	  - Code de la voirie routière - art. L122-16
+	  - Code de la voirie routière - art. R122-30 (V)
+	  - Code de la voirie routière - art. R122-39 (V)
+
+
 ##### Sous-section 2 : Commission des marchés
 
 
@@ -8403,22 +8577,7 @@ Les règles définitives établies par la commission sont transmises à l'autori
 
 ###### Article R122-36
 
-Sont soumis à l'avis de la commission des marchés : 
-
-1° Le projet de marché relevant de l'article L. 122-13 dont la passation doit être effectuée selon l'une des procédures
-formalisées mentionnées par le décret n° 2005-1742 du 30 décembre 2005 fixant les règles applicables aux marchés passés par
-les pouvoirs adjudicateurs mentionnés à l'article 3 de l'ordonnance n° 2005-649 du 6 juin 2005 relative aux marchés passés
-par certaines personnes publiques ou privées non soumises au code des marchés publics ; 
-
-2° Le projet de marché relevant de l'article L. 122-12 soumis à une obligation de publicité et de mise en concurrence ; 
-
-3° Le projet d'avenant entraînant, seul ou cumulativement avec les avenants antérieurs n'ayant pas été soumis à l'avis de la
-commission, une augmentation du montant initial du marché supérieure à 5 % de ce montant et à 100 000 € HT ; 
-
-4° Le projet d'avenant entraînant, seul ou cumulativement avec les avenants antérieurs, une augmentation du montant initial
-du marché au-delà du seuil à partir duquel les procédures formalisées mentionnées au 1° s'imposent ou l'obligation de
-publicité et de mise en concurrence mentionnée au 2° s'applique ; en cas de conclusion de l'avenant, le marché ainsi modifié
-est considéré comme relevant du 3° du présent article pour la soumission des avenants ultérieurs à l'avis de la commission.
+Sont soumis à l'avis de la commission des marchés les marchés et les avenants définis au I de l'article R. 122-39.
 
 **Liens relatifs à cet article**
 
@@ -8428,10 +8587,11 @@ est considéré comme relevant du 3° du présent article pour la soumission des
 	  - Décret n°2005-1742 du 30 décembre 2005
 	  - Code de la voirie routière - art. L122-12
 	  - Code de la voirie routière - art. L122-13
+	  - Code de la voirie routière - art. R122-39 (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2016-234 du 1er mars 2016 - art. 1
+	  - Décret n°2016-552 du 3 mai 2016 - art. 1
 
 
 ###### Article R122-37
@@ -8470,6 +8630,95 @@ ferroviaires et routières, au ministre chargé de la voirie routière nationale
 	**Créé par**:
 
 	  - Décret n°2016-234 du 1er mars 2016 - art. 1
+
+
+##### Sous-section 3 : Référé de l'Autorité de régulation des activités ferroviaires et routières
+
+###### Article R122-39
+
+I.-Afin de permettre à l'Autorité de régulation des activités ferroviaires et routières d'engager les recours mentionnés à
+l'article L. 122-20, est conclu selon les modalités prévues au II : 
+
+1° Le projet de marché relevant de l'article L. 122-12 soumis à une obligation de publicité et de mise en concurrence ; 
+
+2° Le projet de marché relevant de l'article L. 122-13 dont la passation est effectuée selon l'une des procédures formalisées
+énumérées au I de l'article 25 du décret n° 2016-360 du 25 mars 2016 relatif aux marchés publics ; 
+
+3° Le projet d'avenant à un marché relevant du 1° ou du 2° entraînant seul ou cumulativement avec les avenants antérieurs,
+une augmentation du montant initial du marché supérieure à 5 % de ce montant et à 100 000 € HT ; 
+
+4° Le projet d'avenant à un marché ne relevant pas du 1° ou du 2° entraînant seul ou cumulativement avec les avenants
+antérieurs une augmentation du montant initial du marché au-delà des seuils suivants : 
+
+a) Lorsque le marché relève de l'article L. 122-12, les seuils mentionnés aux 2° et 3° de l'article R. 122-30 ; 
+
+b) Lorsque le marché relève de l'article L. 122-13, les seuils européens mentionnés à l'article 42 de l'ordonnance n°
+2015-899 du 23 juillet 2015 relative aux marchés publics ou les seuils de procédure formalisée prévus par la convention de
+délégation lorsqu'ils sont inférieurs. 
+
+En cas de conclusion d'un avenant relevant du 4°, le marché ainsi modifié est considéré comme relevant du 1° ou du 2° pour la
+conclusion des avenants ultérieurs. 
+
+II.-Préalablement à la signature du marché ou de l'avenant, le concessionnaire ou, lorsqu'il dispose d'une commission des
+marchés, le président de cette commission transmet par voie électronique, à l'Autorité de régulation des activités
+ferroviaires et routières, un dossier de présentation dont le contenu peut être précisé par arrêté conjoint du ministre
+chargé de la voirie routière nationale et du ministre chargé de l'économie, pris après avis de l'autorité.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - ORDONNANCE n°2015-899 du 23 juillet 2015 - art. 42 (V)
+	  - Décret n°2016-360 du 25 mars 2016 - art. 25 (V)
+	  - Code de la voirie routière - art. L122-12 (V)
+	  - Code de la voirie routière - art. L122-13 (V)
+	  - Code de la voirie routière - art. L122-20 (V)
+	  - Code de la voirie routière - art. R122-30 (V)
+
+	**Créé par**:
+
+	  - Décret n°2016-552 du 3 mai 2016 - art. 1
+
+	**Cité par**:
+
+	  - Arrêté du 4 août 2016 (V)
+	  - Arrêté du 4 août 2016 - art. 1 (V)
+	  - Arrêté du 4 août 2016 - art. 2 (V)
+	  - Arrêté du 4 août 2016 - art. 4 (V)
+	  - Code de la voirie routière - art. R122-32 (V)
+	  - Code de la voirie routière - art. R122-36 (V)
+	  - Code de la voirie routière - art. R122-39-1 (V)
+
+
+###### Article R122-39-1
+
+Un délai minimal de dix-huit jours est respecté entre la date de réception par l'Autorité de régulation des activités
+ferroviaires et routières du dossier mentionné au II de l'article R. 122-39 et la date de signature des marchés mentionnés
+aux 1° et 2° du I de ce même article. 
+
+Toutefois, le respect du délai mentionné au premier alinéa n'est pas exigé : 
+
+1° Lorsque le marché répond aux caractéristiques énumérées aux I et II de l'article 30 du décret n° 2016-360 du 25 mars 2016
+relatif aux marchés publics ; 
+
+2° Pour l'attribution des marchés subséquents fondés sur un accord-cadre ou des marchés spécifiques fondés sur un système
+d'acquisition dynamique.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°2016-360 du 25 mars 2016 - art. 30 (V)
+	  - Code de la voirie routière - art. R122-39 (V)
+
+	**Créé par**:
+
+	  - Décret n°2016-552 du 3 mai 2016 - art. 1
+
+	**Cité par**:
+
+	  - Arrêté du 4 août 2016 - art. 3 (V)
+	  - Code de la voirie routière - art. R122-31 (V)
 
 
 #### Section 5 : Installations annexes sur les autoroutes concédées
