@@ -1,5 +1,5 @@
 # Code de la voirie routière  
-Version Consolidée au 2016-07-29
+Version Consolidée au 2016-10-09
 
 # Partie législative
 
@@ -1217,6 +1217,33 @@ ces données sous forme électronique dans un standard ouvert et aisément réut
 	**Cite**:
 
 	  - Code général des collectivités territoriales - art. L1614-7
+
+
+###### Article L119-1-1
+
+Il  est institué, sous la responsabilité du ministre chargé de la sécurité  routière, une base de données nationale des
+vitesses maximales  autorisées sur le domaine public routier.
+
+Cette base de données a pour finalités de  fiabiliser les informations relatives à la circulation routière et de  développer
+des services innovants.
+
+Les gestionnaires du domaine public routier  communiquent à l'autorité prévue au premier alinéa les informations  relatives à
+la vitesse maximale autorisée en vigueur sur leurs réseaux  routiers, au travers d'un mode de transmission électronique qui
+est mis  gratuitement à leur disposition par l'Etat. Cette communication est  facultative pour les gestionnaires du domaine
+public routier des  collectivités territoriales de moins de 3 500 habitants.
+
+Un décret en Conseil d'Etat fixe la liste des informations à transmettre et les modalités de ces transmissions.
+
+**Nota:**
+
+Conformément au II de l'article 22 de la loi n° 2016-1321 du 7 octobre 2016,  le troisième alinéa de l'article L. 119-1-1
+entre en vigueur le 1er  janvier 2018 en tant qu'il concerne les collectivités territoriales et  leurs groupements.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2016-1321 du 7 octobre 2016 - art. 22 (V)
 
 
 ### Chapitre X :  Dispositions relatives aux péages
