@@ -1,5 +1,5 @@
 # Code de la voirie routière  
-Version Consolidée au 2016-10-09
+Version Consolidée au 2016-12-11
 
 # Partie législative
 
@@ -1947,8 +1947,7 @@ de régulation des activités ferroviaires et routières.
 Tout marché de travaux, fournitures ou services passé par un concessionnaire d'autoroute pour les besoins de la concession
 est régi par la présente section, à l'exception des marchés : 
 
-1° Régis par le code des marchés publics ou l'ordonnance n° 2005-649 du 6 juin 2005 relative aux marchés passés par certaines
-personnes publiques ou privées non soumises au code des marchés publics sous réserve de l'article L. 122-13 ; 
+1° Régis par l'ordonnance n° 2015-899 du 23 juillet 2015 relative aux marchés publics sous réserve de l'article L. 122-13 ; 
 
 2° Conclus avant la date de mise en service complète des ouvrages ou aménagements prévus au cahier des charges initial de la
 délégation ; 
@@ -1970,7 +1969,7 @@ juillet 2015 relative aux marchés publics.
 	  - Code de la voirie routière - art. L122-14 (VD)
 	  - Code de la voirie routière - art. L122-17 (V)
 	  - Code de la voirie routière - art. L122-18 (VD)
-	  - Code de la voirie routière - art. L122-20 (VD)
+	  - Code de la voirie routière - art. L122-20 (V)
 	  - Code de la voirie routière - art. L122-21 (VD)
 	  - Code de la voirie routière - art. R122-28 (V)
 	  - Code de la voirie routière - art. R122-33 (V)
@@ -1980,28 +1979,33 @@ juillet 2015 relative aux marchés publics.
 
 	**Modifié par**:
 
-	  - Ordonnance n°2016-65 du 29 janvier 2016 - art. 76
+	  - Loi n°2016-1691 du 9 décembre 2016 - art. 41
 
 
 ###### Article L122-13
 
-Les marchés de travaux, fournitures ou services régis par l'
-ordonnance n° 2005-649 du 6 juin 2005 précitée
-, lorsqu'ils sont passés par un concessionnaire d'autoroute pour les besoins de la concession, sont également régis par les
-articles L. 122-14, L. 122-17, L. 122-20 et L. 122-21.
+Les marchés de travaux, fournitures ou services régis par l'ordonnance n° 2015-899 du 23 juillet 2015 relative aux marchés
+publics, lorsqu'ils sont passés par un concessionnaire d'autoroute pour les besoins de la concession, sont également régis
+par les articles L. 122-14, L. 122-17, L. 122-20 et L. 122-21.
+
+Des seuils inférieurs à ceux mentionnés au 1° de l'article 42 de la même ordonnance peuvent être prévus par voie
+réglementaire pour la passation des marchés relevant du premier alinéa du présent article. 
+
+Pour l'application du premier alinéa de l'article L. 122-17 du présent code, un seuil spécifique peut être prévu pour les
+concessions pour les besoins desquelles les marchés relèvent du premier alinéa du présent article.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
 	  - Ordonnance n°2005-649 du 6 juin 2005
-	  - Code de la voirie routière - art. L122-14 (VD)
-	  - Code de la voirie routière - art. L122-17 (VD)
-	  - Code de la voirie routière - art. L122-20 (VD)
+	  - Code de la voirie routière - art. L122-14
+	  - Code de la voirie routière - art. L122-17
+	  - Code de la voirie routière - art. L122-20
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2015-990 du 6 août 2015 - art. 13
+	  - Loi n°2016-1691 du 9 décembre 2016 - art. 41
 
 	**Cité par**:
 
@@ -2050,23 +2054,23 @@ régis par la présente section.
 
 ###### Article L122-16
 
-Pour les marchés de travaux, fournitures ou services, le concessionnaire d'autoroute procède à une publicité permettant la
-présentation de plusieurs offres concurrentes, dans des conditions et sous réserve des exceptions définies par voie
-réglementaire. Ces exceptions ne peuvent pas concerner les marchés de travaux d'un montant supérieur à 500 000 €. Il informe
-l'Autorité de régulation des activités ferroviaires et routières préalablement à l'attribution de ces marchés.
+Pour les marchés de travaux, fournitures ou services dont la valeur estimée hors taxe du besoin est égale ou supérieure aux
+seuils définis par voie réglementaire, le concessionnaire d'autoroute procède à une publicité permettant la présentation de
+plusieurs offres concurrentes, dans des conditions et sous réserve des exceptions définies par voie réglementaire. Pour les
+marchés de travaux, le seuil ne peut être supérieur à 500 000 €.
 
 **Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Loi n°2015-990 du 6 août 2015 - art. 13
 
 	**Cité par**:
 
 	  - Décret n°2016-552 du 3 mai 2016 (V)
-	  - Code de la voirie routière - art. L122-17 (M)
+	  - Code de la voirie routière - art. L122-17 (V)
 	  - Code de la voirie routière - art. R122-30 (V)
 	  - Code de la voirie routière - art. R122-32 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2016-1691 du 9 décembre 2016 - art. 41
 
 
 ###### Article L122-17
@@ -2081,19 +2085,20 @@ fournitures et services et de veiller au respect des procédures de passation et
 la présente section. Ces règles, ainsi que la composition de la commission des marchés, sont soumises pour avis conforme à
 l'Autorité de régulation des activités ferroviaires et routières. 
 
-L'attribution des marchés mentionnés à l'article L. 122-12 et qui n'entrent pas dans le champ des réserves mentionnées à
-l'article L. 122-16 est soumise à l'avis préalable de la commission des marchés. La commission des marchés transmet cet avis
-à l'Autorité de régulation des activités ferroviaires et routières et l'informe de tout manquement qu'elle constate, dans des
-délais permettant à l'autorité d'engager le recours mentionné à l'article L. 122-20. Le concessionnaire ne peut refuser de
-suivre l'avis de la commission des marchés que par une décision de son conseil d'administration ou de son conseil de
-surveillance, soumise à l'ensemble des conditions définies par le code de commerce pour les conventions réglementées. 
+L'attribution des marchés dont la liste est fixée par voie réglementaire en fonction de la procédure de publicité et de mise
+en concurrence au terme de laquelle ils sont conclus est soumise à l'avis préalable de la commission des marchés. La
+commission des marchés transmet cet avis à l'Autorité de régulation des activités ferroviaires et routières et l'informe de
+tout manquement qu'elle constate, dans des délais permettant à l'autorité d'engager le recours mentionné à l'article L.
+122-20. Le concessionnaire ne peut refuser de suivre l'avis de la commission des marchés que par une décision de son conseil
+d'administration ou de son conseil de surveillance, soumise à l'ensemble des conditions définies par le code de commerce pour
+les conventions réglementées. 
 
 La commission des marchés est informée des avenants aux marchés mentionnés au troisième alinéa du présent article. Tout
 projet d'avenant à un marché de travaux, fournitures ou services entraînant une augmentation du montant global supérieure à
-un seuil défini par voie réglementaire est soumis pour avis à la commission des marchés. Le concessionnaire communique à la
-commission des marchés la liste des entreprises avec lesquelles il conclut des marchés qui entrent dans le champ des réserves
-mentionnées à l'article L. 122-16. Lorsqu'une société concessionnaire d'autoroute ne respecte pas la communication des
-informations prévues au présent alinéa, elle en informe l'Autorité de régulation des activités ferroviaires et routières.
+des seuils définis par voie réglementaire est soumis pour avis à la commission des marchés. Le concessionnaire communique à
+la commission des marchés la liste des entreprises avec lesquelles il conclut des marchés qui ne sont pas soumis à l'avis de
+la commission. Lorsque le concessionnaire d'autoroute ne respecte pas la communication des informations prévues au présent
+alinéa, elle en informe l'Autorité de régulation des activités ferroviaires et routières.
 
 **Liens relatifs à cet article**
 
@@ -2103,16 +2108,15 @@ informations prévues au présent alinéa, elle en informe l'Autorité de régul
 	  - Code de la voirie routière - art. L122-13 (V)
 	  - Code de la voirie routière - art. R122-34 (V)
 	  - Code de la voirie routière - art. R122-35 (V)
-	  - Code des transports - art. L1264-7 (M)
 
 	**Modifié par**:
 
-	  - Ordonnance n°2016-79 du 29 janvier 2016 - art. 5
+	  - Loi n°2016-1691 du 9 décembre 2016 - art. 41
 
 	**Cite**:
 
 	  - Code de la voirie routière - art. L122-12
-	  - Code de la voirie routière - art. L122-16
+	  - Code de la voirie routière - art. L122-16 (V)
 	  - Code de la voirie routière - art. L122-20
 	  - Code des transports - art. L2135-7
 
@@ -2141,20 +2145,29 @@ juillet 2015 relative aux marchés publics.
 ###### Article L122-19
 
 Les conditions dans lesquelles le concessionnaire d'autoroute, à l'issue de la procédure de passation, rend public son choix
-et le fait connaître aux candidats dont l'offre n'a pas été retenue et les conditions dans lesquelles l'exécution du marché
-peut commencer sont précisées par voie réglementaire.
+et le fait connaître aux candidats dont l'offre n'a pas été retenue, celles dans lesquelles l'exécution du marché peut
+commencer, celles dans lesquelles il est exécuté et peut être modifié et celles dans lesquelles sa durée est fixée sont
+précisées par voie réglementaire.
+
+**Nota:**
+
+Conformément au III de l'article 41 de la loi n° 2016-1691 du 9 décembre 2016, les présentes dispositions, dans leur
+rédaction résultant du 5° du I dudit article, s'appliquent aux marchés et aux contrats passés par les concessionnaires
+d'autoroutes pour lesquels une procédure de publicité est engagée à compter du premier jour du troisième mois suivant la
+promulgation de la présente loi, même en cas de clause contraire de la convention de délégation ou du cahier des charges
+annexé.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2015-990 du 6 août 2015 - art. 13
+	  - Loi n°2016-1691 du 9 décembre 2016 - art. 41
 
 
 ###### Article L122-20
 
 En cas de manquement aux obligations de publicité et de mise en concurrence auxquelles est soumise la passation des marchés
-de travaux, fournitures ou services définis à l'article L. 122-12, il est fait application : 
+de travaux, fournitures ou services, il est fait application : 
 
 1° Pour les marchés soumis aux règles du droit public, des sous-sections 1 et 3 de la section 1 et de la section 2 du
 chapitre Ier du titre V du livre V du code de justice administrative ; 
@@ -2164,21 +2177,22 @@ aux procédures de recours applicables aux contrats de la commande publique.
 
 L'Autorité de régulation des activités ferroviaires et routières est habilitée à engager les recours prévus aux articles L.
 551-1 et L. 551-13 du code de justice administrative ou, le cas échéant, les saisines mentionnées aux articles 2 et 11 de
-l'ordonnance n° 2009-515 du 7 mai 2009 précitée lorsqu'est en cause un marché défini à l'article L. 122-12 du présent code.
+l'ordonnance n° 2009-515 du 7 mai 2009 précitée lorsqu'est en cause un marché passé par un concessionnaire d'autoroute pour
+les besoins de la concession.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Ordonnance n°2009-515 du 7 mai 2009 - art. 11 (V)
-	  - Ordonnance n°2009-515 du 7 mai 2009 - art. 2 (V)
-	  - Code de la voirie routière - art. L122-12 (VD)
-	  - Code de justice administrative - art. L551-1 (V)
-	  - Code de justice administrative - art. L551-13 (V)
+	  - Ordonnance n°2009-515 du 7 mai 2009 - art. 11
+	  - Ordonnance n°2009-515 du 7 mai 2009 - art. 2
+	  - Code de la voirie routière - art. L122-12 (V)
+	  - Code de justice administrative - art. L551-1
+	  - Code de justice administrative - art. L551-13
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2015-990 du 6 août 2015 - art. 13
+	  - Loi n°2016-1691 du 9 décembre 2016 - art. 41
 
 	**Cité par**:
 
@@ -2292,14 +2306,23 @@ Les procédures de passation des contrats définis à l'article L. 122-23 sont d
 ###### Article L122-26
 
 Les conditions dans lesquelles le concessionnaire d'autoroute rend public son choix et le fait connaître aux candidats dont
-l'offre n'a pas été retenue à l'issue de la procédure de passation et celles dans lesquelles l'exécution du contrat peut
-commencer sont précisées par voie réglementaire.
+l'offre n'a pas été retenue à l'issue de la procédure de passation, celles dans lesquelles l'exécution du contrat peut
+commencer, celles dans lesquelles il est exécuté et peut être modifié et celles dans lesquelles sa durée est fixée sont
+précisées par voie réglementaire.
+
+**Nota:**
+
+Conformément au III de l'article 41 de la loi n° 2016-1691 du 9 décembre 2016, les présentes dispositions, dans leur
+rédaction résultant du 7° du I dudit article, s'appliquent aux marchés et aux contrats passés par les concessionnaires
+d'autoroutes pour lesquels une procédure de publicité est engagée à compter du premier jour du troisième mois suivant la
+promulgation de la présente loi, même en cas de clause contraire de la convention de délégation ou du cahier des charges
+annexé.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2015-990 du 6 août 2015 - art. 13
+	  - Loi n°2016-1691 du 9 décembre 2016 - art. 41
 
 
 ###### Article L122-27
@@ -2435,6 +2458,27 @@ financement des sociétés qui les détiennent.
 	  - Code de commerce - art. L233-3
 	  - Code de commerce - art. L233-4
 	  - Code de la voirie routière - art. L122-31 (V)
+
+
+###### Article L122-33
+
+L'Autorité de régulation des activités ferroviaires et routières définit : 
+
+1° Les informations qui lui sont transmises préalablement à la signature des marchés soumis à une obligation de publicité et
+de mise en concurrence afin de lui permettre d'engager les recours mentionnés à l'article L. 122-20 ; 
+
+2° Les conditions dans lesquelles les commissions des marchés mentionnés à l'article L. 122-17 l'informent de leur activité
+et des manquements qu'elles constatent.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°2016-1691 du 9 décembre 2016 - art. 41
+
+	**Cité par**:
+
+	  - Code des transports - art. L1264-7 (V)
 
 
 ### Chapitre III : Routes nationales.
