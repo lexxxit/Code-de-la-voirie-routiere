@@ -1,5 +1,5 @@
 # Code de la voirie routière  
-Version Consolidée au 2016-12-11
+Version Consolidée au 2017-03-25
 
 # Partie législative
 
@@ -4592,30 +4592,64 @@ dernier contre le redevable.
 	  - Loi n°89-413 1989-06-22 jorf 24 juin 1989
 
 
-### Chapitre II : Dispositions relatives aux départements d'outre-mer.
+### Chapitre II : Dispositions particulières à la Guadeloupe, la Guyane, la Martinique, La Réunion et Mayotte
+
+#### Section 1 : Disposition particulières à la Guyane et à La Réunion
 
 ###### Article L172-1
 
-Les articles L. 114-7 et L. 114-8 ne sont pas applicables dans les départements de la Guyane et de la Réunion.
+Les articles L. 114-7 et L. 114-8 ne sont pas applicables en Guyane et à La Réunion.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Loi n°89-413 1989-06-22 JORF 24 juin 1989
+	  - Loi n°89-413 du 22 juin 1989
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°89-413 1989-06-22 jorf 24 juin 1989
+	  - Ordonnance n°2017-378 du 23 mars 2017 - art. 1
+
+	**Cite**:
+
+	  - Code de la voirie routière - art. L114-7
 
 	**Liens**:
 
 	  - TXT_ASSOCIE: Code de la voirie routière - art. L114-7 (M)
 	  - TXT_ASSOCIE: Code de la voirie routière - art. L114-8 (M)
 
+
+#### Section 2 : Dispositions particulières à Mayotte
+
+###### Article L172-2
+
+I. – Le présent code est applicable à Mayotte, dans la rédaction prévue au II et sous réserve des adaptations prévues au
+III. 
+
+II. – A l'article L. 112-7, la référence à l'article L. 460-1 du code de l'urbanisme est remplacée par la référence à
+l'article L. 461-1 du même code. 
+
+III. – Pour leur application à Mayotte, les dispositions du présent code sont ainsi adaptées : 
+
+1° La référence au département est remplacée par la référence au Département de Mayotte ; 
+
+2° Aux articles L. 116-4 et L. 116-5, la référence au directeur départemental de l'équipement est remplacée par la référence
+au directeur de l'environnement, de l'aménagement et du logement ; 
+
+3° L'article L. 162-6 n'est pas applicable.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2017-378 du 23 mars 2017 - art. 1
+
 	**Cite**:
 
-	  - Code de la voirie routière - art. L114-7 (V)
+	  - Code de la voirie routière - art. L112-7
+	  - Code de la voirie routière - art. L116-4
+	  - Code de la voirie routière - art. L162-6
 
 
 ### Chapitre III : Dispositions diverses.
