@@ -1,5 +1,5 @@
 # Code de la voirie routière  
-Version Consolidée au 2017-03-25
+Version Consolidée au 2017-04-01
 
 # Partie législative
 
@@ -4910,32 +4910,27 @@ opérations.
 
 ###### Article R*112-1
 
-Lorsqu'un plan d'alignement a pour effet de frapper d'une servitude de reculement un immeuble inscrit sur l'inventaire
-supplémentaire des monuments historiques, il ne peut être adopté qu'après l'avis du directeur régional des affaires
-culturelles. Cet avis est réputé délivré en l'absence de réponse dans le délai de quatre mois. 
+Lorsqu'un plan d'alignement a pour effet de frapper d'une servitude de reculement un immeuble inscrit au titre des monuments
+historiques, il ne peut être adopté qu'après accord du préfet de région.
 
-Lorsqu'un plan d'alignement a pour effet de frapper d'une servitude de reculement un immeuble qui est compris dans le champ
-de visibilité d'un édifice classé ou inscrit ou qui est protégé au titre des articles 4,9,17 et 28 de la loi du 2 mai 1930,
-il ne peut être adopté qu'après avis, selon le cas, de l'architecte des Bâtiments de France ou du ministre chargé des sites.
-Cet avis est réputé délivré en l'absence de réponse dans le délai de quatre mois.
+Lorsqu'un plan d'alignement a pour effet de frapper d'une servitude de reculement un immeuble situé dans le périmètre d'un
+site patrimonial remarquable, dans les abords des monuments historiques ou dans un site classé, inscrit ou en instance de
+classement, il ne peut être adopté qu'après avis de l'architecte des Bâtiments de France. En l'absence de réponse dans un
+délai de quatre mois, l'architecte des Bâtiments de France est réputé avoir donné un avis favorable.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°64-262 1964-03-14 art. 11 al. 3
-
 	**Codifié par**:
 
-	  - Décret n°89-631 1989-09-04
+	  - Décret n°89-631 du 4 septembre 1989
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°89-631 1989-09-04 jorf 8 septembre 1989
+	  - Décret n°2017-456 du 29 mars 2017 - art. 23
 
 	**Cite**:
 
-	  - Loi n°1930-05-02 du 2 mai 1930 - art. 4 (Ab)
+	  - Loi du 2 mai 1930 - art. 4
 
 
 ###### Article R*112-2
