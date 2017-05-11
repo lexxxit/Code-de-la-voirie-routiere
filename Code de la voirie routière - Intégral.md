@@ -1,5 +1,5 @@
 # Code de la voirie routière  
-Version Consolidée au 2017-04-01
+Version Consolidée au 2017-05-12
 
 # Partie législative
 
@@ -10729,6 +10729,36 @@ Le calendrier des travaux prévu aux articles L. 115-1 et R.* 115-2 est établi 
 
 	  - Code de la voirie routière - art. L115-1 (V)
 	  - Code de la voirie routière - art. R*115-2 (V)
+
+
+### Chapitre II : Dispositions particulières à la Guadeloupe, la Guyane, la Martinique, La Réunion et Mayotte
+
+###### Article R172-1
+
+I.-Le présent code est applicable à Mayotte sous réserve des adaptations prévues au II. 
+
+II.-Pour leur application à Mayotte les dispositions du présent code sont ainsi adaptées : 
+
+1° La référence au département est remplacée par la référence au Département de Mayotte ; 
+
+2° La référence au président du conseil général est remplacée par la référence au président du conseil départemental de
+Mayotte ; 
+
+3° La référence au préfet de région est remplacée par la référence au préfet de Mayotte ; 
+
+4° Les formalités de publicité foncière prévues aux articles R. * 112-2 et R. * 141-11 du présent code s'effectuent selon les
+règles particulières posées par le titre IV du livre V du code civil.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2017-943 du 10 mai 2017 - art. 1
+
+	**Cite**:
+
+	  - Code de la voirie routière - art. R*112-2 (V)
+	  - Code de la voirie routière - art. R*141-11 (V)
 
 
 ### Chapitre III : Dispositions diverses.
