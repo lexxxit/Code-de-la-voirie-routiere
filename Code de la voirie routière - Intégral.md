@@ -1,5 +1,5 @@
 # Code de la voirie routière  
-Version Consolidée au 2017-05-12
+Version Consolidée au 2018-01-01
 
 # Partie législative
 
@@ -178,21 +178,23 @@ particulières relatives aux saillies.
 ###### Article L112-6
 
 Aucun travail confortatif ne peut être entrepris sur un bâtiment frappé d'alignement, sauf s'il s'agit d'un immeuble classé
-parmi les monuments historiques.
+parmi les ou inscrit au titre des monuments historiques.
+
+**Nota:**
+
+Conformément aux dispositions de l'article 23 de l'ordonnance n° 2017-651 du 27 avril 2017, ces dispositions entrent en
+vigueur à une date fixée par décret et au plus tard le 1er janvier 2018. Les demandes déposées et les procédures engagées
+avant cette date demeurent régies par les dispositions antérieures.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Edit 1607-12-16 art. 4, 5
-
 	**Codifié par**:
 
-	  - Loi n°89-413 1989-06-22 JORF 24 juin 1989
+	  - Loi n°89-413 du 22 juin 1989
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°89-413 1989-06-22 jorf 24 juin 1989
+	  - Ordonnance n°2017-651 du 27 avril 2017 - art. 20
 
 
 ###### Article L112-7
